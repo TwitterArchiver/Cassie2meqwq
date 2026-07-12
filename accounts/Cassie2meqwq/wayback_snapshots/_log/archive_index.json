@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-12T09:53:45",
+  "last_updated": "2026-07-12T09:54:01",
   "html": {
     "https://web.archive.org/web/20260510065616if_/https://twitter.com/Cassie2meqwq/status/2053368507442884824": {
       "status": "done",
@@ -4483,9 +4483,9 @@
       "referenced_by": [
         "20260520161731_twitter_com_Cassie2meqwq_status_2057133627876753794.json"
       ],
-      "last_updated": "2026-07-12T09:45:08",
+      "last_updated": "2026-07-12T09:53:59",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260520161731/https://video.twimg.com/amplify_video/2057133557987127300/vid/avc1/720x1280/8fy-XsVPvM6m5p8X.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2057064869632081920/vid/avc1/720x958/dZ44HYOfFTTxqIe6.mp4": {
       "status": "done",
@@ -4541,9 +4541,9 @@
       "referenced_by": [
         "20260524165329_twitter_com_Cassie2meqwq_status_2058592233155399719.json"
       ],
-      "last_updated": "2026-07-12T09:45:06",
+      "last_updated": "2026-07-12T09:54:00",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260524165329/https://video.twimg.com/amplify_video/2058485540668973056/vid/avc1/1280x720/DNyoeZX5fIQduKEM.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2056191114890092544/vid/avc1/640x480/eHhYv2UWvJZdins6.mp4": {
       "status": "done",
@@ -4571,9 +4571,9 @@
       "referenced_by": [
         "20260530085219_twitter_com_Cassie2meqwq_status_2060645470616395796.json"
       ],
-      "last_updated": "2026-07-12T09:33:30",
+      "last_updated": "2026-07-12T09:54:01",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260530085219/https://video.twimg.com/amplify_video/2060645399006990336/vid/avc1/720x1280/Iber4ooJ2ul0eDuH.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/tweet_video/HJtByAvbIAAkokz.mp4": {
       "status": "done",
