@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2068659537499087092",
+    "created_at": "2026-06-21T11:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T12:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068659537499087092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1814232212042358784",
+          "start": 3,
+          "username": "ZZombie118728"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068659537499087092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068378622747124056",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZZombie118728: 提醒一下，明天是父亲节，别忘了给自己的爸爸说一声节日快乐，是生你养你的那个爸爸，不是李柱延李现在金泳勋金善嘘孙英宰池昌民"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2068659537499087092",
+        "created_at": "2026-06-21T11:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068659537499087092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1814232212042358784",
+              "start": 3,
+              "username": "ZZombie118728"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068659537499087092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068378622747124056",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZZombie118728: 提醒一下，明天是父亲节，别忘了给自己的爸爸说一声节日快乐，是生你养你的那个爸爸，不是李柱延李现在金泳勋金善嘘孙英宰池昌民"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814232212042358784",
+        "conversation_id": "2068378622747124056",
+        "created_at": "2026-06-20T17:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068378622747124056"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068378622747124056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4585,
+          "like_count": 112,
+          "quote_count": 5,
+          "reply_count": 11,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "提醒一下，明天是父亲节，别忘了给自己的爸爸说一声节日快乐，是生你养你的那个爸爸，不是李柱延李现在金泳勋金善嘘孙英宰池昌民"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 208,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 565
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T09:34:13.000Z",
+        "description": "ㅇㅇ",
+        "id": "1814232212042358784",
+        "name": "Zombie _",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005646729358823424/MqSHV21S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3014,
+          "following_count": 176,
+          "like_count": 45159,
+          "listed_count": 9,
+          "media_count": 975,
+          "tweet_count": 6627
+        },
+        "url": "",
+        "username": "ZZombie118728",
+        "verified": false
+      }
+    ]
+  }
+}

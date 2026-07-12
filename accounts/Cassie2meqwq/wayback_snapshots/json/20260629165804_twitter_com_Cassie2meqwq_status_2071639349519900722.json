@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2071639349519900722",
+    "created_at": "2026-06-29T16:58:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T17:58:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071639349519900722"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071639349519900722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我之前遇到过一个很恐怖的医生，他在我没有任何精神病性的情况下把我关进了精神病院，反复让我承认我只是在犯小孩子脾气，在我吞了几百片药之后和我说这根本死不了。但是他又真的很照顾我，真的真的，像对一个动物细心照顾但是并没有看到我。整整一年，我状态很差，我觉的世界完蛋了，用爱杀死我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2071639349519900722",
+        "created_at": "2026-06-29T16:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071639349519900722"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071639349519900722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我之前遇到过一个很恐怖的医生，他在我没有任何精神病性的情况下把我关进了精神病院，反复让我承认我只是在犯小孩子脾气，在我吞了几百片药之后和我说这根本死不了。但是他又真的很照顾我，真的真的，像对一个动物细心照顾但是并没有看到我。整整一年，我状态很差，我觉的世界完蛋了，用爱杀死我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 216,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 609
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false
+      }
+    ]
+  }
+}

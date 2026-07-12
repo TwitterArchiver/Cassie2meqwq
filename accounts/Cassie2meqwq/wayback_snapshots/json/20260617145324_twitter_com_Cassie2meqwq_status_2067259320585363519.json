@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2067259320585363519",
+    "created_at": "2026-06-17T14:53:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T15:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067259320585363519"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zip_zip0101/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/zip_zip0101/status/2067069482984698275",
+          "start": 5,
+          "url": "https://t.co/mUYTqa3Jbf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067259320585363519",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067069482984698275",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想玩 https://t.co/mUYTqa3Jbf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2067069472217997312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-0u7GboAA5SYQ.jpg",
+        "width": 546
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2067259320585363519",
+        "created_at": "2026-06-17T14:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067259320585363519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zip_zip0101/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/zip_zip0101/status/2067069482984698275",
+              "start": 5,
+              "url": "https://t.co/mUYTqa3Jbf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067259320585363519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067069482984698275",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想玩 https://t.co/mUYTqa3Jbf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067069472217997312"
+          ]
+        },
+        "author_id": "2053114193222479874",
+        "conversation_id": "2067069482984698275",
+        "created_at": "2026-06-17T02:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T03:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067069482984698275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VZrJBTH1sk",
+              "end": 32,
+              "expanded_url": "https://x.com/zip_zip0101/status/2067069482984698275/photo/1",
+              "media_key": "3_2067069472217997312",
+              "start": 9,
+              "url": "https://t.co/VZrJBTH1sk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067069482984698275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 917,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也来跟我玩这个呗 https://t.co/VZrJBTH1sk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 207,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 534
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T14:07:29.000Z",
+        "description": "08/双/自来熟，我有时候说话纯纯的，毕竟我只是一只猫。\n不聊骚不约炮。\n骚扰男私信会被我毕业。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zip_zip0101",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zip_zip0101",
+                "start": 0,
+                "url": "https://t.co/BxEWxGjXzc"
+              }
+            ]
+          }
+        },
+        "id": "2053114193222479874",
+        "name": "Cocoya",
+        "pinned_tweet_id": "2055130283272220730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053115257418059778/qd9shK9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 118,
+          "like_count": 6222,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 719
+        },
+        "url": "https://t.co/BxEWxGjXzc",
+        "username": "zip_zip0101",
+        "verified": false
+      }
+    ]
+  }
+}

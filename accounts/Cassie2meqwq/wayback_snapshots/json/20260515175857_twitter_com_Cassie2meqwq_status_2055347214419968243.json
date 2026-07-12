@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "839543390668673024",
+          "name": "Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Necklaces",
+          "id": "1030537479286190080",
+          "name": "Necklaces"
+        }
+      }
+    ],
+    "conversation_id": "2055347214419968243",
+    "created_at": "2026-05-15T17:58:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T18:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055347214419968243"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/heart_jpg/stat…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/heart_jpg/status/2054996416209023189",
+          "start": 10,
+          "url": "https://t.co/QuzHKwVYJu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055347214419968243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054996416209023189",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给我爱的人一人一个 https://t.co/QuzHKwVYJu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2054860282565152768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRUijVa0AATHvG.jpg",
+        "width": 552
+      },
+      {
+        "height": 628,
+        "media_key": "3_2054860282812678144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRUikQbwAA9d-s.jpg",
+        "width": 554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Necklaces",
+              "id": "1030537479286190080",
+              "name": "Necklaces"
+            }
+          }
+        ],
+        "conversation_id": "2055347214419968243",
+        "created_at": "2026-05-15T17:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T18:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055347214419968243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/heart_jpg/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/heart_jpg/status/2054996416209023189",
+              "start": 10,
+              "url": "https://t.co/QuzHKwVYJu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055347214419968243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054996416209023189",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给我爱的人一人一个 https://t.co/QuzHKwVYJu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054860282565152768",
+            "3_2054860282812678144"
+          ]
+        },
+        "author_id": "43352138",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Necklaces",
+              "id": "1030537479286190080",
+              "name": "Necklaces"
+            }
+          }
+        ],
+        "conversation_id": "2054996416209023189",
+        "created_at": "2026-05-14T18:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T19:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054996416209023189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fRxGTFEDhe",
+              "end": 49,
+              "expanded_url": "https://x.com/heart_jpg/status/2054996416209023189/photo/1",
+              "media_key": "3_2054860282565152768",
+              "start": 26,
+              "url": "https://t.co/fRxGTFEDhe"
+            },
+            {
+              "display_url": "pic.x.com/fRxGTFEDhe",
+              "end": 49,
+              "expanded_url": "https://x.com/heart_jpg/status/2054996416209023189/photo/1",
+              "media_key": "3_2054860282812678144",
+              "start": 26,
+              "url": "https://t.co/fRxGTFEDhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054996416209023189",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 321,
+          "impression_count": 81680,
+          "like_count": 4285,
+          "quote_count": 110,
+          "reply_count": 12,
+          "retweet_count": 785
+        },
+        "reply_settings": "everyone",
+        "text": "heart blood vial necklace https://t.co/fRxGTFEDhe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "回到过去吧",
+        "id": "2053366838248259584",
+        "name": "酸性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053367859225714688/_rd_PqiO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 128,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 63
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-29T15:41:23.000Z",
+        "description": "",
+        "id": "43352138",
+        "name": "♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844735729269927937/8adAg1KF_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219155,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 529,
+          "media_count": 5874,
+          "tweet_count": 6080
+        },
+        "username": "heart_jpg",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2060018632479084970",
+    "created_at": "2026-05-31T07:23:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T08:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060985487079481820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1848095615399682048",
+          "start": 0,
+          "username": "xuwniv"
+        },
+        {
+          "end": 22,
+          "id": "1965129075846193152",
+          "start": 8,
+          "username": "ukhai15367842"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060985487079481820",
+    "in_reply_to_user_id": "1848095615399682048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060861526681219415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuwniv @ukhai15367842 哦～谢谢你🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2060018632479084970",
+        "created_at": "2026-05-31T07:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T08:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060985487079481820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1848095615399682048",
+              "start": 0,
+              "username": "xuwniv"
+            },
+            {
+              "end": 22,
+              "id": "1965129075846193152",
+              "start": 8,
+              "username": "ukhai15367842"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060985487079481820",
+        "in_reply_to_user_id": "1848095615399682048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060861526681219415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuwniv @ukhai15367842 哦～谢谢你🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1848095615399682048",
+        "conversation_id": "2060018632479084970",
+        "created_at": "2026-05-30T23:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T00:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060861526681219415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053366838248259584",
+              "start": 0,
+              "username": "Cassie2meqwq"
+            },
+            {
+              "end": 28,
+              "id": "1965129075846193152",
+              "start": 14,
+              "username": "ukhai15367842"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060861526681219415",
+        "in_reply_to_user_id": "2053366838248259584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060687216226259361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cassie2meqwq @ukhai15367842 交友的宝宝 自我介绍一些 找互fo的宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 166,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 307
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T20:15:52.000Z",
+        "description": "重抑重焦丨08丨INFP丨OD丨自残\n本人非常缺德无下限没三观五毒俱全 互fo看到就回没回私信我呀",
+        "id": "1848095615399682048",
+        "location": "老公大逼里",
+        "name": "reincarnation",
+        "pinned_tweet_id": "2058595152256696378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059571555391434752/vXfwsr_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 427,
+          "like_count": 1954,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 591
+        },
+        "username": "xuwniv",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-08T19:04:27.000Z",
+        "description": "碎碎念/lesb/🔪🩸注意⚠️/歡迎互fo互轉/匿名提問箱https://t.co/cpMSdyKEVY想被看見想交到好朋友……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhi68399",
+                "end": 52,
+                "expanded_url": "https://ngl.link/zhi68399",
+                "start": 29,
+                "url": "https://t.co/cpMSdyKEVY"
+              }
+            ]
+          }
+        },
+        "id": "1965129075846193152",
+        "name": "小小滯",
+        "pinned_tweet_id": "2060018632479084970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053840204767891456/ZbYQ_j1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 26,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 73
+        },
+        "username": "ukhai15367842",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070373482370871296"
+      ]
+    },
+    "author_id": "2053366838248259584",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2070373495150952541",
+    "created_at": "2026-06-26T05:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T06:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070373495150952541"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rcCOIaN8UR",
+          "end": 30,
+          "expanded_url": "https://x.com/Cassie2meqwq/status/2070373495150952541/photo/1",
+          "media_key": "3_2070373482370871296",
+          "start": 7,
+          "url": "https://t.co/rcCOIaN8UR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070373495150952541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "颜料颜料颜料 https://t.co/rcCOIaN8UR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2070373482370871296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtxtoEasAACn11.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070373482370871296"
+          ]
+        },
+        "author_id": "2053366838248259584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070373495150952541",
+        "created_at": "2026-06-26T05:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070373495150952541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rcCOIaN8UR",
+              "end": 30,
+              "expanded_url": "https://x.com/Cassie2meqwq/status/2070373495150952541/photo/1",
+              "media_key": "3_2070373482370871296",
+              "start": 7,
+              "url": "https://t.co/rcCOIaN8UR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070373495150952541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "颜料颜料颜料 https://t.co/rcCOIaN8UR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 213,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 586
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false
+      }
+    ]
+  }
+}

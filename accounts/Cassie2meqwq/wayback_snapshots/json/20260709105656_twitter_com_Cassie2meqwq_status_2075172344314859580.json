@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2074708586740195827",
+    "created_at": "2026-07-09T10:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T11:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075172344314859580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1877886557316689920",
+          "start": 0,
+          "username": "L77TuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075172344314859580",
+    "in_reply_to_user_id": "1877886557316689920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074708586740195827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L77TuT 抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074708569925246977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrYc7raYAEfNux.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074708569933692929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrYc7tbQAErM2j.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2074708586740195827",
+        "created_at": "2026-07-09T10:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075172344314859580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1877886557316689920",
+              "start": 0,
+              "username": "L77TuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075172344314859580",
+        "in_reply_to_user_id": "1877886557316689920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074708586740195827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L77TuT 抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074708569925246977",
+            "3_2074708569933692929"
+          ]
+        },
+        "author_id": "1877886557316689920",
+        "conversation_id": "2074708586740195827",
+        "created_at": "2026-07-08T04:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074708586740195827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MDkYfrWS8b",
+              "end": 58,
+              "expanded_url": "https://x.com/L77TuT/status/2074708586740195827/photo/1",
+              "media_key": "3_2074708569925246977",
+              "start": 35,
+              "url": "https://t.co/MDkYfrWS8b"
+            },
+            {
+              "display_url": "pic.x.com/MDkYfrWS8b",
+              "end": 58,
+              "expanded_url": "https://x.com/L77TuT/status/2074708586740195827/photo/1",
+              "media_key": "3_2074708569933692929",
+              "start": 35,
+              "url": "https://t.co/MDkYfrWS8b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074708586740195827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 226,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "对不起😮‍💨我就是一个孤儿没有朋友一个人 我想聊聊天都没人陪我😮‍💨 https://t.co/MDkYfrWS8b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 216,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 617
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T01:13:55.000Z",
+        "description": "",
+        "id": "1877886557316689920",
+        "name": "77",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071603788427804672/bqvYvOl9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 115,
+          "like_count": 393,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 317
+        },
+        "url": "",
+        "username": "L77TuT",
+        "verified": false
+      }
+    ]
+  }
+}

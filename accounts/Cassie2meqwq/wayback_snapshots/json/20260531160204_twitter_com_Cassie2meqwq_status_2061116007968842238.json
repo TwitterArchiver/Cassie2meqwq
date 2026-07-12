@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2061116007968842238",
+    "created_at": "2026-05-31T16:02:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T17:02:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061116007968842238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1765825463103139840",
+          "start": 3,
+          "username": "Chloris923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061116007968842238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061020226716889401",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chloris923: 俺400fo抽两个人送20块小礼品，一个人送50块左右神秘大礼吧。或者也可以折现。\n转发/评论来参与。万一轮的上你呢（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2061116007968842238",
+        "created_at": "2026-05-31T16:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061116007968842238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1765825463103139840",
+              "start": 3,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061116007968842238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061020226716889401",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chloris923: 俺400fo抽两个人送20块小礼品，一个人送50块左右神秘大礼吧。或者也可以折现。\n转发/评论来参与。万一轮的上你呢（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765825463103139840",
+        "conversation_id": "2061020226716889401",
+        "created_at": "2026-05-31T09:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T10:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061020226716889401"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061020226716889401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 668,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "俺400fo抽两个人送20块小礼品，一个人送50块左右神秘大礼吧。或者也可以折现。\n转发/评论来参与。万一轮的上你呢（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 169,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 323
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "joker　|　我在布里斯班讀高中雖然零人在意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chloris923.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://chloris923.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/F2u8aBkQtL"
+              }
+            ]
+          }
+        },
+        "id": "1765825463103139840",
+        "location": "ᠨᡳᠩᡤᡠᡨᠠ",
+        "name": "大扑棱蛾子",
+        "pinned_tweet_id": "2061020226716889401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042288116799848450/Ru431sCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 316,
+          "like_count": 36143,
+          "listed_count": 5,
+          "media_count": 697,
+          "tweet_count": 20665
+        },
+        "url": "https://t.co/F2u8aBkQtL",
+        "username": "Chloris923",
+        "verified": false
+      }
+    ]
+  }
+}

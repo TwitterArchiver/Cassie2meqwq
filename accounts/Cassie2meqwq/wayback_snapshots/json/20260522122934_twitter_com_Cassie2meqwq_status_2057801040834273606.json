@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057801029249605633"
+      ]
+    },
+    "author_id": "2053366838248259584",
+    "conversation_id": "2057801040834273606",
+    "created_at": "2026-05-22T12:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T13:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057801040834273606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/os5z2Kxbk3",
+          "end": 29,
+          "expanded_url": "https://x.com/Cassie2meqwq/status/2057801040834273606/photo/1",
+          "media_key": "3_2057801029249605633",
+          "start": 6,
+          "url": "https://t.co/os5z2Kxbk3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057801040834273606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的恋爱观 https://t.co/os5z2Kxbk3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 213,
+        "media_key": "3_2057801029249605633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7HIibbIAE3DbQ.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057801029249605633"
+          ]
+        },
+        "author_id": "2053366838248259584",
+        "conversation_id": "2057801040834273606",
+        "created_at": "2026-05-22T12:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T13:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057801040834273606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/os5z2Kxbk3",
+              "end": 29,
+              "expanded_url": "https://x.com/Cassie2meqwq/status/2057801040834273606/photo/1",
+              "media_key": "3_2057801029249605633",
+              "start": 6,
+              "url": "https://t.co/os5z2Kxbk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057801040834273606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的恋爱观 https://t.co/os5z2Kxbk3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 162,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 167
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      }
+    ]
+  }
+}

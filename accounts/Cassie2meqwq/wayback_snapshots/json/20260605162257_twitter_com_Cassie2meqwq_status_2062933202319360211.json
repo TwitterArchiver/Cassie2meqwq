@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062933189262499840"
+      ]
+    },
+    "author_id": "2053366838248259584",
+    "conversation_id": "2062933202319360211",
+    "created_at": "2026-06-05T16:22:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T17:22:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062933202319360211"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QT48oKOkJl",
+          "end": 28,
+          "expanded_url": "https://x.com/Cassie2meqwq/status/2062933202319360211/photo/1",
+          "media_key": "3_2062933189262499840",
+          "start": 5,
+          "url": "https://t.co/QT48oKOkJl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062933202319360211",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "山体滑坡 https://t.co/QT48oKOkJl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2062933189262499840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKECzkVa4AA9wp1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062933189262499840"
+          ]
+        },
+        "author_id": "2053366838248259584",
+        "conversation_id": "2062933202319360211",
+        "created_at": "2026-06-05T16:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062933202319360211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QT48oKOkJl",
+              "end": 28,
+              "expanded_url": "https://x.com/Cassie2meqwq/status/2062933202319360211/photo/1",
+              "media_key": "3_2062933189262499840",
+              "start": 5,
+              "url": "https://t.co/QT48oKOkJl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062933202319360211",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "山体滑坡 https://t.co/QT48oKOkJl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 192,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 419
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      }
+    ]
+  }
+}

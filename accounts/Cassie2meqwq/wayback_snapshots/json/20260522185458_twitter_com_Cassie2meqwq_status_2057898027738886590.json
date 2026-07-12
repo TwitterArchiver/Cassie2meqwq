@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2057898027738886590",
+    "created_at": "2026-05-22T18:54:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T19:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057898027738886590"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lingopark21/st…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/lingopark21/status/2057684490940801327",
+          "start": 64,
+          "url": "https://t.co/Bc5t8zF94N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057898027738886590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057684490940801327",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完全正确，我从来不叠被子，我会扑平。我之前寄宿制高中强制要求把被子叠成豆腐块。但是南方天天下雨被单里面都快长蘑菇了。纯折磨自己 https://t.co/Bc5t8zF94N"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2057898027738886590",
+        "created_at": "2026-05-22T18:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T19:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057898027738886590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lingopark21/st…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/lingopark21/status/2057684490940801327",
+              "start": 64,
+              "url": "https://t.co/Bc5t8zF94N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057898027738886590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057684490940801327",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完全正确，我从来不叠被子，我会扑平。我之前寄宿制高中强制要求把被子叠成豆腐块。但是南方天天下雨被单里面都快长蘑菇了。纯折磨自己 https://t.co/Bc5t8zF94N"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757105459356704768",
+        "conversation_id": "2057684490940801327",
+        "created_at": "2026-05-22T04:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T05:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057684490940801327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057684490940801327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 199365,
+          "like_count": 1880,
+          "quote_count": 13,
+          "reply_count": 161,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得叠被子是人类驯服人类最典型的一个傻逼行为\n被子就是用来盖的，不盖的时候平铺就得了\n叠被子就是形式主义行为"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 162,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 168
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T18:12:54.000Z",
+        "description": "咕咕咕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/links15795",
+                "end": 23,
+                "expanded_url": "https://ngl.link/links15795",
+                "start": 0,
+                "url": "https://t.co/ZNwVVb7OJq"
+              }
+            ]
+          }
+        },
+        "id": "1757105459356704768",
+        "location": "浙江",
+        "name": "麻雀亡命天涯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018275517951315968/YoTBtZ9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 169,
+          "like_count": 3096,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 5198
+        },
+        "url": "https://t.co/ZNwVVb7OJq",
+        "username": "lingopark21",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2057065271110631668",
+    "created_at": "2026-05-20T11:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T12:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057067497401307607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1838620535804317696",
+          "start": 0,
+          "username": "karmakarma1221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057067497401307607",
+    "in_reply_to_user_id": "1838620535804317696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057065271110631668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karmakarma1221 清爽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057065247714725888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwp8anWUAAU1TU.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2057065271110631668",
+        "created_at": "2026-05-20T11:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057067497401307607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1838620535804317696",
+              "start": 0,
+              "username": "karmakarma1221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057067497401307607",
+        "in_reply_to_user_id": "1838620535804317696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057065271110631668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karmakarma1221 清爽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057065247714725888"
+          ]
+        },
+        "author_id": "1838620535804317696",
+        "conversation_id": "2057065271110631668",
+        "created_at": "2026-05-20T11:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057065271110631668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o9t602cl8x",
+              "end": 26,
+              "expanded_url": "https://x.com/karmakarma1221/status/2057065271110631668/photo/1",
+              "media_key": "3_2057065247714725888",
+              "start": 3,
+              "url": "https://t.co/o9t602cl8x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057065271110631668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蛙🐸 https://t.co/o9t602cl8x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053367859225714688/_rd_PqiO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 156,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 143
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T16:44:40.000Z",
+        "description": "我是蛞蝓 这里是一片狼籍 我有男朋友所以别来打扰我 女孩子们可以和我扩列^^",
+        "id": "1838620535804317696",
+        "location": "公共厕所",
+        "name": "蛞蝓神膜拜膜拜",
+        "pinned_tweet_id": "2045369414632276022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885748750670307328/VkxwdAP2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 585,
+          "like_count": 796,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 2469
+        },
+        "username": "karmakarma1221",
+        "verified": false
+      }
+    ]
+  }
+}

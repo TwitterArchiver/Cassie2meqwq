@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2063660880081166457",
+    "created_at": "2026-06-07T16:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T17:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063660880081166457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oliwakami6203/…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/oliwakami6203/status/2063158836383588616",
+          "start": 38,
+          "url": "https://t.co/pfg4Br2I5a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063660880081166457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063158836383588616",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有天赋也浪费的人生，发现自己的天赋渐渐被磨平，清醒的落空。像凌迟一样活下去 https://t.co/pfg4Br2I5a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1640,
+        "media_key": "3_2063158833430863872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHQByXbIAAr1ON.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2063660880081166457",
+        "created_at": "2026-06-07T16:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063660880081166457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oliwakami6203/…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/oliwakami6203/status/2063158836383588616",
+              "start": 38,
+              "url": "https://t.co/pfg4Br2I5a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063660880081166457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063158836383588616",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有天赋也浪费的人生，发现自己的天赋渐渐被磨平，清醒的落空。像凌迟一样活下去 https://t.co/pfg4Br2I5a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063158833430863872"
+          ]
+        },
+        "author_id": "1354770292044820488",
+        "conversation_id": "2063158836383588616",
+        "created_at": "2026-06-06T07:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063158836383588616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zi8fGRbS8q",
+              "end": 23,
+              "expanded_url": "https://x.com/oliwakami6203/status/2063158836383588616/photo/1",
+              "media_key": "3_2063158833430863872",
+              "start": 0,
+              "url": "https://t.co/Zi8fGRbS8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063158836383588616",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 25647,
+          "like_count": 557,
+          "quote_count": 3,
+          "reply_count": 30,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Zi8fGRbS8q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 206,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 462
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-28T12:36:37.000Z",
+        "description": "19岁 osu player\n讨厌某些人 某些事情\n也许心理有问题",
+        "id": "1354770292044820488",
+        "name": "小仓澪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035745649665384448/KJ2bjsH0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 679,
+          "like_count": 1496,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 426
+        },
+        "username": "oliwakami6203",
+        "verified": false
+      }
+    ]
+  }
+}

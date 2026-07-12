@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2066949750814134501",
+    "created_at": "2026-06-16T18:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T19:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066949750814134501"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "酸性✝️’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1qGvv…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1qGvvvqpdQOGB",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2066949752449810432/ekizf2oZ?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2066949752449810432/ekizf2oZ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 嗑药聊天",
+          "unwound_url": "https://twitter.com/i/spaces/1qGvvvqpdQOGB/peek",
+          "url": "https://t.co/LSzkxILayq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066949750814134501",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/LSzkxILayq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2066949750814134501",
+        "created_at": "2026-06-16T18:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T19:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066949750814134501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "酸性✝️’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1qGvv…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1qGvvvqpdQOGB",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2066949752449810432/ekizf2oZ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2066949752449810432/ekizf2oZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 嗑药聊天",
+              "unwound_url": "https://twitter.com/i/spaces/1qGvvvqpdQOGB/peek",
+              "url": "https://t.co/LSzkxILayq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066949750814134501",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LSzkxILayq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 207,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 528
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      }
+    ]
+  }
+}

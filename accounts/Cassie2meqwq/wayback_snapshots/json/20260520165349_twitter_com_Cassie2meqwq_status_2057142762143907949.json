@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2057142762143907949",
+    "created_at": "2026-05-20T16:53:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T17:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057142762143907949"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/glockk1tty/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/glockk1tty/status/2056834585753690498",
+          "start": 6,
+          "url": "https://t.co/didK8qQBVm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057142762143907949",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056834585753690498",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Mommy https://t.co/didK8qQBVm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25866,
+        "height": 656,
+        "media_key": "13_2056834523740897280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056834523740897280/img/znFzAIKN5VyA7BaH.jpg",
+        "public_metrics": {
+          "view_count": 924
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056834523740897280/vid/avc1/364x270/Nf1N9dYslJ4hm89X.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056834523740897280/vid/avc1/486x360/GKQAxVgRH0iDvSMq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056834523740897280/vid/avc1/886x656/-Tph6TgXfmBp47Sj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056834523740897280/pl/YHLcQAAUqlhWeYAu.m3u8?v=cfc"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2057142762143907949",
+        "created_at": "2026-05-20T16:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057142762143907949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/glockk1tty/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/glockk1tty/status/2056834585753690498",
+              "start": 6,
+              "url": "https://t.co/didK8qQBVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057142762143907949",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056834585753690498",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Mommy https://t.co/didK8qQBVm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056834523740897280"
+          ]
+        },
+        "author_id": "1317365789213794305",
+        "conversation_id": "2056834585753690498",
+        "created_at": "2026-05-19T20:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T21:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056834585753690498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/or6VZw05UL",
+              "end": 23,
+              "expanded_url": "https://x.com/glockk1tty/status/2056834585753690498/video/1",
+              "media_key": "13_2056834523740897280",
+              "start": 0,
+              "url": "https://t.co/or6VZw05UL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056834585753690498",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 2993,
+          "like_count": 306,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/or6VZw05UL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053367859225714688/_rd_PqiO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 157,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 147
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-17T07:24:23.000Z",
+        "description": "ig @glockk1tty",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "glockk1tty"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/artist/5VhJoMC…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/artist/5VhJoMCPj40nB9yfMAb99i?si=hJPYu8O8QY-u9Pgffe4CKg",
+                "start": 0,
+                "url": "https://t.co/JGQBaUIydc"
+              }
+            ]
+          }
+        },
+        "id": "1317365789213794305",
+        "location": "The Pit",
+        "name": "GLOCK ✞",
+        "pinned_tweet_id": "2055147114972229749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051570714696671233/Yd84puIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70565,
+          "following_count": 17,
+          "like_count": 34380,
+          "listed_count": 76,
+          "media_count": 453,
+          "tweet_count": 3132
+        },
+        "url": "https://t.co/JGQBaUIydc",
+        "username": "glockk1tty",
+        "verified": true
+      }
+    ]
+  }
+}

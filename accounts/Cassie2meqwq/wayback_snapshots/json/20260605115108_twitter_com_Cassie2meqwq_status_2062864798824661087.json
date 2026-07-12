@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2058836989848547598",
+    "created_at": "2026-06-05T11:51:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T12:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062864798824661087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2016028559228469252",
+          "start": 0,
+          "username": "Alvvaysioffy1"
+        },
+        {
+          "end": 30,
+          "id": "2061450593617563649",
+          "start": 15,
+          "username": "minesavior0311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062864798824661087",
+    "in_reply_to_user_id": "2016028559228469252",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058836989848547598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alvvaysioffy1 @minesavior0311 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2058836989848547598",
+        "created_at": "2026-06-05T11:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062864798824661087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016028559228469252",
+              "start": 0,
+              "username": "Alvvaysioffy1"
+            },
+            {
+              "end": 30,
+              "id": "2061450593617563649",
+              "start": 15,
+              "username": "minesavior0311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062864798824661087",
+        "in_reply_to_user_id": "2016028559228469252",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058836989848547598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alvvaysioffy1 @minesavior0311 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016028559228469252",
+        "conversation_id": "2058836989848547598",
+        "created_at": "2026-05-25T09:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058836989848547598"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058836989848547598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 17890,
+          "like_count": 145,
+          "quote_count": 2,
+          "reply_count": 157,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "100fo了搞个抽奖吧！\n一等奖30t普瑞口崩片+1000yen零食\n二等奖一盒盐野义or一盒白兔（两个各抽一个，折现的话就是1000yen的零食\n三等奖18.88红包*3个 \n全部付邮送 评论参与即可 到时候会让ai帮忙抽奖 八月份回国寄 求转发想交点朋友呀\n爱你们👯‍♂️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 192,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 405
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "不线下。看成分互fo👯‍♂️\n有些关注没有消息提示 所以优先回fo有互动的\n智商很低所以任何攻击都无效 认真你就输了",
+        "id": "2016028559228469252",
+        "name": "小春",
+        "pinned_tweet_id": "2058836989848547598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 164,
+          "like_count": 963,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 689
+        },
+        "username": "Alvvaysioffy1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T14:15:47.000Z",
+        "description": "前世可颂\n我割我o 随便发发低脂小视频\n🚪52纯绿\n欢迎来找我玩\n防炸/雪兔https://t.co/UoBIc9JrtE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/keso1314sxh?s=…",
+                "end": 61,
+                "expanded_url": "https://x.com/keso1314sxh?s=21",
+                "start": 38,
+                "url": "https://t.co/UoBIc9JrtE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/croissant56414",
+                "end": 23,
+                "expanded_url": "https://ngl.link/croissant56414",
+                "start": 0,
+                "url": "https://t.co/E3FFBNW55n"
+              }
+            ]
+          }
+        },
+        "id": "2061450593617563649",
+        "location": "提问👉🏻",
+        "name": "Choke（Croissant5.0）",
+        "pinned_tweet_id": "2062780678484394089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062124667041959936/umI--rr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 135,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 154
+        },
+        "url": "https://t.co/E3FFBNW55n",
+        "username": "minesavior0311",
+        "verified": false
+      }
+    ]
+  }
+}

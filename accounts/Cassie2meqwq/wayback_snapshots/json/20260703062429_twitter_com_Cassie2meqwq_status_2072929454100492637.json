@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2072929454100492637",
+    "created_at": "2026-07-03T06:24:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T07:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072929454100492637"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/alvvaysioffy1/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/alvvaysioffy1/status/2072585462871626038",
+          "start": 3,
+          "url": "https://t.co/PCVvRTw0zJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072929454100492637",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072585462871626038",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "三毛 https://t.co/PCVvRTw0zJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2072929454100492637",
+        "created_at": "2026-07-03T06:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072929454100492637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alvvaysioffy1/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/alvvaysioffy1/status/2072585462871626038",
+              "start": 3,
+              "url": "https://t.co/PCVvRTw0zJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072929454100492637",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072585462871626038",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "三毛 https://t.co/PCVvRTw0zJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016028559228469252",
+        "conversation_id": "2072585462871626038",
+        "created_at": "2026-07-02T07:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T08:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072585462871626038"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072585462871626038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 19260,
+          "like_count": 557,
+          "quote_count": 2,
+          "reply_count": 96,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "您好，鉴于您磕过药，我们这边给你一颗肾的报价是10块钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 220,
+          "like_count": 311,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 610
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "在世界尽头呼唤爱的野兽",
+        "id": "2016028559228469252",
+        "name": "彩華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 224,
+          "like_count": 1369,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 877
+        },
+        "url": "",
+        "username": "Alvvaysioffy1",
+        "verified": false
+      }
+    ]
+  }
+}

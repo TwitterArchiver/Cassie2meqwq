@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2059210490849677336",
+    "created_at": "2026-05-26T10:31:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T11:31:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059220987712090198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2023887772801736704",
+          "start": 0,
+          "username": "lyyouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059220987712090198",
+    "in_reply_to_user_id": "2023887772801736704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059210490849677336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyyouo 过嘴瘾的白骑士综合症"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2059210490849677336",
+        "created_at": "2026-05-26T10:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059220987712090198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2023887772801736704",
+              "start": 0,
+              "username": "lyyouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059220987712090198",
+        "in_reply_to_user_id": "2023887772801736704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059210490849677336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyyouo 过嘴瘾的白骑士综合症"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023887772801736704",
+        "conversation_id": "2059210490849677336",
+        "created_at": "2026-05-26T09:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059210490849677336"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059210490849677336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在很烦一些一直当救世主劝人别od的 又不给我钱 又不给我药 还要我提供情绪价值 唐死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 164,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 259
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T22:30:32.000Z",
+        "description": "前世@o3olyy｜18 ↑｜od 自伤🩹餐券女｜双相情感障碍｜adhd｜认知障碍｜三次自杀未遂｜泛性恋｜bart｜绳缚｜我是精日🚫pink 同类宝宝互fo私一下我♡\n求怜爱 我只是一个可怜的小女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "o3olyy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/o3olyy",
+                "end": 23,
+                "expanded_url": "http://ngl.link/o3olyy",
+                "start": 0,
+                "url": "https://t.co/6FKFe0QKii"
+              }
+            ]
+          }
+        },
+        "id": "2023887772801736704",
+        "location": "看看你身后｜🚪52坐标10",
+        "name": "真理 （二世）",
+        "pinned_tweet_id": "2053586183427649665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048059698948263936/IChWanrt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 162,
+          "like_count": 468,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 129
+        },
+        "url": "https://t.co/6FKFe0QKii",
+        "username": "lyyouo",
+        "verified": false
+      }
+    ]
+  }
+}

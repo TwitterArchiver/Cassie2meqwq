@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2063619273218789610",
+    "created_at": "2026-06-07T14:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063622497489351165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1856662470146039808",
+          "start": 0,
+          "username": "misono_sho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063622497489351165",
+    "in_reply_to_user_id": "1856662470146039808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063622161974329627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misono_sho 粉色会不会不明显，了解，马上改进☺️mua"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2063619273218789610",
+        "created_at": "2026-06-07T14:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063622497489351165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1856662470146039808",
+              "start": 0,
+              "username": "misono_sho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063622497489351165",
+        "in_reply_to_user_id": "1856662470146039808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063622161974329627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misono_sho 粉色会不会不明显，了解，马上改进☺️mua"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856662470146039808",
+        "conversation_id": "2063619273218789610",
+        "created_at": "2026-06-07T14:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063622161974329627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053366838248259584",
+              "start": 0,
+              "username": "Cassie2meqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063622161974329627",
+        "in_reply_to_user_id": "2053366838248259584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063620876294361569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cassie2meqwq 红棕色可能会有点深、粉色的话看着会很日系（恩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 207,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 454
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T11:37:14.000Z",
+        "description": "..ip大阪\n日语苦手\n所以可能会打中文或者用翻译器\n很怪的话请原谅\n🥺🥺(⁠≧⁠▽⁠≦⁠)\n互fo大欢迎\n有啥想问的https://t.co/mrTm5xhM1p\n看到了就回，喜欢你们\nDM可以哟~想发什么都可以哦\n因为我真的很闲😚",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/misonosho",
+                "end": 82,
+                "expanded_url": "https://ngl.link/misonosho",
+                "start": 59,
+                "url": "https://t.co/mrTm5xhM1p"
+              }
+            ]
+          }
+        },
+        "id": "1856662470146039808",
+        "location": "常住大阪谢谢",
+        "name": "美園笙",
+        "pinned_tweet_id": "2037728140387287240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924830810454302720/CiMrr54k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 78,
+          "like_count": 7453,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 449
+        },
+        "username": "misono_sho",
+        "verified": false
+      }
+    ]
+  }
+}

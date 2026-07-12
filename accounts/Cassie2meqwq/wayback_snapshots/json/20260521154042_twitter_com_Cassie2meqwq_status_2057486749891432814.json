@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2057486749891432814",
+    "created_at": "2026-05-21T15:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T16:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057486749891432814"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057486749891432814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我做为一个青少年我已经被社会抛弃了，如果不是别人的期待，我会彻底成为边缘人群玩乐发呆自杀。社会不在乎，去他爸的社会化。世界早就抛下我了，只是我努力在追"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2057486749891432814",
+        "created_at": "2026-05-21T15:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057486749891432814"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057486749891432814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我做为一个青少年我已经被社会抛弃了，如果不是别人的期待，我会彻底成为边缘人群玩乐发呆自杀。社会不在乎，去他爸的社会化。世界早就抛下我了，只是我努力在追"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 160,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 160
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      }
+    ]
+  }
+}

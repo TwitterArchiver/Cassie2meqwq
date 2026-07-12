@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2057878655083405696",
+    "created_at": "2026-05-23T16:50:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T17:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058229014423384224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2893510872",
+          "start": 0,
+          "username": "Hayami_kiraa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058229014423384224",
+    "in_reply_to_user_id": "2893510872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057878655083405696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hayami_kiraa 我的梦想就是去冰岛留学！啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2057878655083405696",
+        "created_at": "2026-05-23T16:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T17:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058229014423384224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2893510872",
+              "start": 0,
+              "username": "Hayami_kiraa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058229014423384224",
+        "in_reply_to_user_id": "2893510872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057878655083405696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hayami_kiraa 我的梦想就是去冰岛留学！啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2893510872",
+        "conversation_id": "2057878655083405696",
+        "created_at": "2026-05-22T17:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057878655083405696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057878655083405696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "北欧简直是高敏感人类的天堂。我觉得我这辈子都没待过这么安静的世界里，有种第一次带上索尼降噪耳机的感觉。海、小岛、山、村落，一切像被提纯过一样，纯净安静得让人舒展。\n\n我想起自己在国内的时候，商场里连绵不断的叫号会让我非常烦躁，餐厅里所有人都在大声交谈也会让我头痛欲裂，景区有喇叭，地铁有喇叭，高铁有外放，回想起来像是汽车尖锐鸣笛带起一阵风把我重重甩在地上。在充斥着高分贝的世界里我无处可逃。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 276,
+          "impression_count": 192001,
+          "like_count": 1571,
+          "quote_count": 24,
+          "reply_count": 195,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "北欧简直是高敏感人类的天堂。我觉得我这辈子都没待过这么安静的世界里，有种第一次带上索尼降噪耳机的感觉。海、小岛、山、村落，一切像被提纯过一样，纯净安静得让人舒展。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 161,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 184
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-08T08:13:17.000Z",
+        "description": "🇨🇳-🇩🇪 Shanghai - Berlin｜AI Builder｜ex Product manager Temu & Tiktok｜Content Creator｜IG：hayami_kiraa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hayami.typlog.io",
+                "end": 23,
+                "expanded_url": "https://hayami.typlog.io",
+                "start": 0,
+                "url": "https://t.co/IrU2I5EGQP"
+              }
+            ]
+          }
+        },
+        "id": "2893510872",
+        "location": "Berlin",
+        "name": "早见Hayami",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046158892506267648/HFMBulGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41693,
+          "following_count": 1051,
+          "like_count": 426,
+          "listed_count": 261,
+          "media_count": 1329,
+          "tweet_count": 3535
+        },
+        "url": "https://t.co/IrU2I5EGQP",
+        "username": "Hayami_kiraa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2062505146412843261",
+    "created_at": "2026-06-04T12:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T13:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062505146412843261"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062505146412843261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家心照不宣的使用着密语防住了谁呢，\n社会要吃掉所有不奴性的刺头，战斗是流血的，社会抓住你的手刺向腹部，柔软的斗士。社会还要生病多久"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2062505146412843261",
+        "created_at": "2026-06-04T12:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062505146412843261"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062505146412843261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家心照不宣的使用着密语防住了谁呢，\n社会要吃掉所有不奴性的刺头，战斗是流血的，社会抓住你的手刺向腹部，柔软的斗士。社会还要生病多久"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 186,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 388
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      }
+    ]
+  }
+}

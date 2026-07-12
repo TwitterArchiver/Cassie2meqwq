@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2067140895447888070",
+    "created_at": "2026-06-17T14:39:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T15:39:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067255799697854872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2014919445488234496",
+          "start": 0,
+          "username": "Haocha_feiming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067255799697854872",
+    "in_reply_to_user_id": "2014919445488234496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067140895447888070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haocha_feiming 好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 321,
+        "media_key": "3_2067140886929330176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_1rzob0AAey_k.jpg",
+        "width": 350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2067140895447888070",
+        "created_at": "2026-06-17T14:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067255799697854872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2014919445488234496",
+              "start": 0,
+              "username": "Haocha_feiming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067255799697854872",
+        "in_reply_to_user_id": "2014919445488234496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067140895447888070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haocha_feiming 好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067140886929330176"
+          ]
+        },
+        "author_id": "2014919445488234496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067140895447888070",
+        "created_at": "2026-06-17T07:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067140895447888070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GVDbhDYSgy",
+              "end": 27,
+              "expanded_url": "https://x.com/Haocha_feiming/status/2067140895447888070/photo/1",
+              "media_key": "3_2067140886929330176",
+              "start": 4,
+              "url": "https://t.co/GVDbhDYSgy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067140895447888070",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hh。 https://t.co/GVDbhDYSgy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 207,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 532
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T04:33:42.000Z",
+        "description": "前世：@LannnOrz自残逼 刻薄逼 es/mha杂食 mrt孝女 爱人@_XnanX_418 查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "username": "_XnanX_418"
+              }
+            ]
+          }
+        },
+        "id": "2014919445488234496",
+        "location": "距离你5.2km",
+        "name": "ずっと",
+        "pinned_tweet_id": "2066390082681245981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048238969914322944/IJeprxx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 223,
+          "like_count": 397,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 717
+        },
+        "username": "Haocha_feiming",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2062079321477640697",
+    "created_at": "2026-06-03T14:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T15:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062183049169903679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1604181895721504771",
+          "start": 0,
+          "username": "mengtunwudaimu"
+        },
+        {
+          "end": 32,
+          "id": "1934458092475080704",
+          "start": 16,
+          "username": "yo2787425235659"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062183049169903679",
+    "in_reply_to_user_id": "1604181895721504771",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062079321477640697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengtunwudaimu @yo2787425235659 肉泥不用高考"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2062079321477640697",
+        "created_at": "2026-06-03T14:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062183049169903679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1604181895721504771",
+              "start": 0,
+              "username": "mengtunwudaimu"
+            },
+            {
+              "end": 32,
+              "id": "1934458092475080704",
+              "start": 16,
+              "username": "yo2787425235659"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062183049169903679",
+        "in_reply_to_user_id": "1604181895721504771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062079321477640697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengtunwudaimu @yo2787425235659 肉泥不用高考"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604181895721504771",
+        "conversation_id": "2062079321477640697",
+        "created_at": "2026-06-03T07:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062079321477640697"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062079321477640697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14485,
+          "like_count": 196,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "高考和64天安门集会时间冲突了。\n我应该参加哪个？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 180,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 362
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T18:29:10.000Z",
+        "description": "我们终将在没有黑暗的地方相会",
+        "id": "1604181895721504771",
+        "location": "IP属地：南京",
+        "name": "川和喵酱薯条🍟🇯🇵井外势力",
+        "pinned_tweet_id": "1729765345424990414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011343699327000576/ngvpFLui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14256,
+          "following_count": 3056,
+          "like_count": 29799,
+          "listed_count": 158,
+          "media_count": 2695,
+          "tweet_count": 17048
+        },
+        "username": "mengtunwudaimu",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-16T03:49:53.000Z",
+        "description": "王洪文你个骚货\nGrok重度依赖🥵\n互fo^_^\n                 无心理问题 无精神疾病 无求死欲望\n  不要怜悯我  不用同情我  也不必用悲情眼光看待我，我只是按照自己的方式生活。世界如此荒谬，我只想活在当下。\n                                 反正我爽到了。",
+        "id": "1934458092475080704",
+        "name": "知名不具",
+        "pinned_tweet_id": "2058944871227072549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988253969832177670/hYzpIQlH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 171,
+          "like_count": 2707,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 351
+        },
+        "username": "yo2787425235659",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2058982837991493886",
+    "created_at": "2026-05-25T18:45:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T19:45:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058982837991493886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1990083055231631361",
+          "start": 3,
+          "username": "1willhateu4ever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058982837991493886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058783868577325493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1willhateu4ever: 我们一起去吸毒吧 在药效里去livehouse看摇滚乐队演出 去跳水去拳击去嚎叫 看完再去便利店买包烟 烟雾缭绕里再喝上两口酒 摸着你的伤痕和头发说你像小猫一样可爱 在迷茫的年华里各种物质滥用 挥霍时间 被欲望裹挟做一个奴隶 也许在未来…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2058982837991493886",
+        "created_at": "2026-05-25T18:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T19:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058982837991493886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1990083055231631361",
+              "start": 3,
+              "username": "1willhateu4ever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058982837991493886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058783868577325493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1willhateu4ever: 我们一起去吸毒吧 在药效里去livehouse看摇滚乐队演出 去跳水去拳击去嚎叫 看完再去便利店买包烟 烟雾缭绕里再喝上两口酒 摸着你的伤痕和头发说你像小猫一样可爱 在迷茫的年华里各种物质滥用 挥霍时间 被欲望裹挟做一个奴隶 也许在未来…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990083055231631361",
+        "conversation_id": "2058783868577325493",
+        "created_at": "2026-05-25T05:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058783868577325493"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058783868577325493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 381,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我们一起去吸毒吧 在药效里去livehouse看摇滚乐队演出 去跳水去拳击去嚎叫 看完再去便利店买包烟 烟雾缭绕里再喝上两口酒 摸着你的伤痕和头发说你像小猫一样可爱 在迷茫的年华里各种物质滥用 挥霍时间 被欲望裹挟做一个奴隶 也许在未来的哪天里被警察抓起来抑或者一起去自杀 把刀插进对方的心脏里 幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 163,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 250
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T15:45:32.000Z",
+        "description": "在你的個人資料上加入自我介紹",
+        "id": "1990083055231631361",
+        "location": "多米力高威威维利星",
+        "name": "^ ^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054966213231706112/5GJyg0EY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 38,
+          "like_count": 5377,
+          "listed_count": 0,
+          "media_count": 358,
+          "tweet_count": 3335
+        },
+        "username": "1willhateu4ever",
+        "verified": false
+      }
+    ]
+  }
+}

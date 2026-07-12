@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2053893178500227186",
+    "created_at": "2026-05-12T14:55:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T15:55:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054213808672174359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1382368172628643845",
+          "start": 0,
+          "username": "Nozomi0891"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054213808672174359",
+    "in_reply_to_user_id": "1382368172628643845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053994516588408883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nozomi0891 谢谢你呀，我就是担心这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2053893178500227186",
+        "created_at": "2026-05-12T14:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054213808672174359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1382368172628643845",
+              "start": 0,
+              "username": "Nozomi0891"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054213808672174359",
+        "in_reply_to_user_id": "1382368172628643845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053994516588408883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nozomi0891 谢谢你呀，我就是担心这个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1382368172628643845",
+        "conversation_id": "2053893178500227186",
+        "created_at": "2026-05-12T00:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T01:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053994516588408883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053366838248259584",
+              "start": 0,
+              "username": "Cassie2meqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053994516588408883",
+        "in_reply_to_user_id": "2053366838248259584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053893178500227186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cassie2meqwq 好漂亮。。。我觉得很合适，就是刚打那段时间会很麻烦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "",
+        "id": "2053366838248259584",
+        "name": "酸性(互关寻回中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053367859225714688/_rd_PqiO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 107,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-14T16:20:42.000Z",
+        "description": "",
+        "id": "1382368172628643845",
+        "name": "小望",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047863762124967936/uixQS6xk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 91,
+          "like_count": 954,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 374
+        },
+        "username": "Nozomi0891",
+        "verified": false
+      }
+    ]
+  }
+}

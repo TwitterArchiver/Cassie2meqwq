@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063664242348494848"
+      ]
+    },
+    "author_id": "2053366838248259584",
+    "conversation_id": "2063664253866062307",
+    "created_at": "2026-06-07T16:47:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T17:47:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063664253866062307"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QZsSiIEhqP",
+          "end": 125,
+          "expanded_url": "https://x.com/Cassie2meqwq/status/2063664253866062307/photo/1",
+          "media_key": "3_2063664242348494848",
+          "start": 102,
+          "url": "https://t.co/QZsSiIEhqP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063664253866062307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "孩子过早的承担现实的社会的压力，没有办法解决，只会让自己更焦虑更痛苦。明年高考还能有采访吗？我们的呐喊我们的痛苦是有意义的吗。这是你想看到的吗？你只在乎你自已\n祝喊话性同意年龄提升至18岁的女士考试顺利 https://t.co/QZsSiIEhqP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 150,
+        "media_key": "3_2063664242348494848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKObsdTbkAAzlv-.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063664242348494848"
+          ]
+        },
+        "author_id": "2053366838248259584",
+        "conversation_id": "2063664253866062307",
+        "created_at": "2026-06-07T16:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063664253866062307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QZsSiIEhqP",
+              "end": 125,
+              "expanded_url": "https://x.com/Cassie2meqwq/status/2063664253866062307/photo/1",
+              "media_key": "3_2063664242348494848",
+              "start": 102,
+              "url": "https://t.co/QZsSiIEhqP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063664253866062307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子过早的承担现实的社会的压力，没有办法解决，只会让自己更焦虑更痛苦。明年高考还能有采访吗？我们的呐喊我们的痛苦是有意义的吗。这是你想看到的吗？你只在乎你自已\n祝喊话性同意年龄提升至18岁的女士考试顺利 https://t.co/QZsSiIEhqP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 206,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 466
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      }
+    ]
+  }
+}

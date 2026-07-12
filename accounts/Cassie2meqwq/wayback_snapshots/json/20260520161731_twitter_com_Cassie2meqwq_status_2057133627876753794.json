@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2057133557987127300"
+      ]
+    },
+    "author_id": "2053366838248259584",
+    "conversation_id": "2057133627876753794",
+    "created_at": "2026-05-20T16:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T17:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057133627876753794"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zkhQ0hzYcr",
+          "end": 28,
+          "expanded_url": "https://x.com/Cassie2meqwq/status/2057133627876753794/video/1",
+          "media_key": "13_2057133557987127300",
+          "start": 5,
+          "url": "https://t.co/zkhQ0hzYcr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057133627876753794",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "敲敲敲敲 https://t.co/zkhQ0hzYcr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14585,
+        "height": 1280,
+        "media_key": "13_2057133557987127300",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057133557987127300/img/WDI8DHBZ1Ovi-KZT.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057133557987127300/vid/avc1/320x568/tuZMJNPjA6RWa7n9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057133557987127300/vid/avc1/480x852/dCHWNSClDoVatN78.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057133557987127300/vid/avc1/720x1280/8fy-XsVPvM6m5p8X.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057133557987127300/pl/QmTKMRmxi14rWSPZ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057133557987127300"
+          ]
+        },
+        "author_id": "2053366838248259584",
+        "conversation_id": "2057133627876753794",
+        "created_at": "2026-05-20T16:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057133627876753794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zkhQ0hzYcr",
+              "end": 28,
+              "expanded_url": "https://x.com/Cassie2meqwq/status/2057133627876753794/video/1",
+              "media_key": "13_2057133557987127300",
+              "start": 5,
+              "url": "https://t.co/zkhQ0hzYcr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057133627876753794",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "敲敲敲敲 https://t.co/zkhQ0hzYcr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053367859225714688/_rd_PqiO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 157,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 145
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      }
+    ]
+  }
+}

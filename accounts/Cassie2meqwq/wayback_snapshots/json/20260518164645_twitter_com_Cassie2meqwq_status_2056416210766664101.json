@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2055978535555420240",
+    "created_at": "2026-05-18T16:46:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T17:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056416210766664101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2031019799485329408",
+          "start": 0,
+          "username": "Jwong8i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056416210766664101",
+    "in_reply_to_user_id": "2031019799485329408",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055978535555420240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jwong8i 멋지게 보여요. 정말 대단해요.  Kiyowo 🥹🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 725,
+        "media_key": "3_2055978522339090432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhNkrHaoAAEiHz.jpg",
+        "width": 940
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055978522360070144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhNkrMawAAezF5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2055978535555420240",
+        "created_at": "2026-05-18T16:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056416210766664101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2031019799485329408",
+              "start": 0,
+              "username": "Jwong8i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056416210766664101",
+        "in_reply_to_user_id": "2031019799485329408",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055978535555420240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jwong8i 멋지게 보여요. 정말 대단해요.  Kiyowo 🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055978522339090432",
+            "3_2055978522360070144"
+          ]
+        },
+        "author_id": "2031019799485329408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055978535555420240",
+        "created_at": "2026-05-17T11:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055978535555420240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mmm4ny3FXf",
+              "end": 38,
+              "expanded_url": "https://x.com/Jwong8i/status/2055978535555420240/photo/1",
+              "media_key": "3_2055978522339090432",
+              "start": 15,
+              "url": "https://t.co/mmm4ny3FXf"
+            },
+            {
+              "display_url": "pic.x.com/mmm4ny3FXf",
+              "end": 38,
+              "expanded_url": "https://x.com/Jwong8i/status/2055978535555420240/photo/1",
+              "media_key": "3_2055978522360070144",
+              "start": 15,
+              "url": "https://t.co/mmm4ny3FXf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055978535555420240",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 53307,
+          "like_count": 3519,
+          "quote_count": 50,
+          "reply_count": 10,
+          "retweet_count": 476
+        },
+        "reply_settings": "everyone",
+        "text": "토이쿠키로 엔친들 만들기🌀 https://t.co/mmm4ny3FXf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|",
+        "id": "2053366838248259584",
+        "name": "酸性（二世长存）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053367859225714688/_rd_PqiO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 139,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 112
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T14:51:11.000Z",
+        "description": "지금🤓☝️/엔친소맞팔 디엠주세요!",
+        "id": "2031019799485329408",
+        "name": "Jwon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044580640939716608/aNIe6oeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 99,
+          "like_count": 1159,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 478
+        },
+        "username": "Jwong8i",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2070516257087197381",
+    "created_at": "2026-06-27T06:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070760202148966644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1952660732132425728",
+          "start": 0,
+          "username": "Dead8964line"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070760202148966644",
+    "in_reply_to_user_id": "1952660732132425728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070516257087197381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dead8964line 好像茶叶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070516247914221568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvzjrKaEAAm5d3.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2070516257087197381",
+        "created_at": "2026-06-27T06:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070760202148966644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1952660732132425728",
+              "start": 0,
+              "username": "Dead8964line"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070760202148966644",
+        "in_reply_to_user_id": "1952660732132425728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070516257087197381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dead8964line 好像茶叶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070516247914221568"
+          ]
+        },
+        "author_id": "1952660732132425728",
+        "conversation_id": "2070516257087197381",
+        "created_at": "2026-06-26T14:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T15:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070516257087197381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/253sXG5Ujp",
+              "end": 27,
+              "expanded_url": "https://x.com/Dead8964line/status/2070516257087197381/photo/1",
+              "media_key": "3_2070516247914221568",
+              "start": 4,
+              "url": "https://t.co/253sXG5Ujp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070516257087197381",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 942,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "菜单？ https://t.co/253sXG5Ujp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 213,
+          "like_count": 300,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 593
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T09:19:39.000Z",
+        "description": "=死线｜LGBTQ+友好｜💛🤍💜🖤｜thay/them｜oder来互fo呀（走来走去）没回fo就是msk吞消息了",
+        "id": "1952660732132425728",
+        "location": "ᴡᴇᴇᴘ ᴀɴᴅ ɢʀᴏᴀɴ ᴡɪᴛʜ ᴍᴇ",
+        "name": "Deadline",
+        "pinned_tweet_id": "2018721981601128657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057060785277542400/AxyLzl8w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 48,
+          "like_count": 609,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 321
+        },
+        "url": "",
+        "username": "Dead8964line",
+        "verified": false
+      }
+    ]
+  }
+}

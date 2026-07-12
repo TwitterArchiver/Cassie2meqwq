@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067389634913726464"
+      ],
+      "media_source_tweet_id": [
+        "2067389645487481107"
+      ]
+    },
+    "author_id": "2053366838248259584",
+    "conversation_id": "2067538540221866056",
+    "created_at": "2026-06-18T09:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T10:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067538540221866056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1919090536180600832",
+          "start": 3,
+          "username": "dokigirlluv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LQqvf78j1G",
+          "end": 48,
+          "expanded_url": "https://x.com/dokigirlluv/status/2067389645487481107/photo/1",
+          "media_key": "3_2067389634913726464",
+          "start": 25,
+          "url": "https://t.co/LQqvf78j1G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067538540221866056",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067389645487481107",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dokigirlluv: bruh..！ https://t.co/LQqvf78j1G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1364,
+        "media_key": "3_2067389634913726464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDX62FbcAAIfH0.jpg",
+        "width": 981
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067389634913726464"
+          ],
+          "media_source_tweet_id": [
+            "2067389645487481107"
+          ]
+        },
+        "author_id": "2053366838248259584",
+        "conversation_id": "2067538540221866056",
+        "created_at": "2026-06-18T09:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067538540221866056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1919090536180600832",
+              "start": 3,
+              "username": "dokigirlluv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LQqvf78j1G",
+              "end": 48,
+              "expanded_url": "https://x.com/dokigirlluv/status/2067389645487481107/photo/1",
+              "media_key": "3_2067389634913726464",
+              "start": 25,
+              "url": "https://t.co/LQqvf78j1G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067538540221866056",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067389645487481107",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dokigirlluv: bruh..！ https://t.co/LQqvf78j1G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067389634913726464"
+          ]
+        },
+        "author_id": "1919090536180600832",
+        "conversation_id": "2067389645487481107",
+        "created_at": "2026-06-17T23:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T00:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067389645487481107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LQqvf78j1G",
+              "end": 31,
+              "expanded_url": "https://x.com/dokigirlluv/status/2067389645487481107/photo/1",
+              "media_key": "3_2067389634913726464",
+              "start": 8,
+              "url": "https://t.co/LQqvf78j1G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067389645487481107",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 476,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "bruh..！ https://t.co/LQqvf78j1G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 212,
+          "like_count": 285,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 552
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T18:03:42.000Z",
+        "description": "https://t.co/k2PgJQA6kY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/sophiasssophia1",
+                "end": 23,
+                "expanded_url": "https://t.me/sophiasssophia1",
+                "start": 0,
+                "url": "https://t.co/k2PgJQA6kY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sophiaqwq00?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/sophiaqwq00?igsh=MXdyYjB5a3NwaGhraQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/EQEkSNJqeG"
+              }
+            ]
+          }
+        },
+        "id": "1919090536180600832",
+        "name": "Sophia",
+        "pinned_tweet_id": "2064401451766665522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067389480114528256/xMsPRX8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16996,
+          "following_count": 30,
+          "like_count": 1663,
+          "listed_count": 6,
+          "media_count": 184,
+          "tweet_count": 538
+        },
+        "url": "https://t.co/EQEkSNJqeG",
+        "username": "dokigirlluv",
+        "verified": false
+      }
+    ]
+  }
+}

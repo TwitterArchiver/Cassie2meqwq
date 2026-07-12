@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2059169720369381849",
+    "created_at": "2026-05-26T07:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T08:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059169720369381849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057338561515655169",
+          "start": 3,
+          "username": "oifk9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059169720369381849",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 685
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058896506904834251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oifk9: 나는 인간관계를 리셋하는 버릇이 있어서 조금이라도 싫어지면 끊어, 미안해. 성격이 맞지 않는 사람은 계속 맞지 않기 때문에 그 사람이 개선할 때까지 연락하지 않아. 더러운 사람이라는 걸 알게 되면 바로 끊어. 내 인생에 스트레스는…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2059169720369381849",
+        "created_at": "2026-05-26T07:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059169720369381849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057338561515655169",
+              "start": 3,
+              "username": "oifk9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059169720369381849",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 685
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058896506904834251",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oifk9: 나는 인간관계를 리셋하는 버릇이 있어서 조금이라도 싫어지면 끊어, 미안해. 성격이 맞지 않는 사람은 계속 맞지 않기 때문에 그 사람이 개선할 때까지 연락하지 않아. 더러운 사람이라는 걸 알게 되면 바로 끊어. 내 인생에 스트레스는…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057338561515655169",
+        "conversation_id": "2058896506904834251",
+        "created_at": "2026-05-25T13:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058896506904834251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058896506904834251",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 486,
+          "impression_count": 205280,
+          "like_count": 2458,
+          "quote_count": 534,
+          "reply_count": 8,
+          "retweet_count": 685
+        },
+        "reply_settings": "everyone",
+        "text": "나는 인간관계를 리셋하는 버릇이 있어서 조금이라도 싫어지면 끊어, 미안해. 성격이 맞지 않는 사람은 계속 맞지 않기 때문에 그 사람이 개선할 때까지 연락하지 않아. 더러운 사람이라는 걸 알게 되면 바로 끊어. 내 인생에 스트레스는 필요 없어"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 163,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 253
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T05:52:28.000Z",
+        "description": "한국어 공부하고 있어",
+        "id": "2057338561515655169",
+        "location": "178/63",
+        "name": "o",
+        "pinned_tweet_id": "2059149859274588665",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 33,
+          "like_count": 1104,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 42
+        },
+        "username": "oifk9",
+        "verified": false
+      }
+    ]
+  }
+}

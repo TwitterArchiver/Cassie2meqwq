@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2062452198651596816",
+    "created_at": "2026-06-04T08:31:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062452198651596816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1548938925011795970",
+          "start": 3,
+          "username": "sindenekoninaru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062452198651596816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 210
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062233653481238923",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sindenekoninaru: 痩せるためにマンジャロを打とう\n背を伸ばすために足の骨を折ろう\n仕事をするためにコカインやろう\n感情を無にするためにODしよう\n経済回すために特殊詐欺しよう\n元気になるためにシャブしよう\nこの汚い世界見たくないからジャンプしよう"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2062452198651596816",
+        "created_at": "2026-06-04T08:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062452198651596816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1548938925011795970",
+              "start": 3,
+              "username": "sindenekoninaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062452198651596816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 210
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062233653481238923",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sindenekoninaru: 痩せるためにマンジャロを打とう\n背を伸ばすために足の骨を折ろう\n仕事をするためにコカインやろう\n感情を無にするためにODしよう\n経済回すために特殊詐欺しよう\n元気になるためにシャブしよう\nこの汚い世界見たくないからジャンプしよう"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548938925011795970",
+        "conversation_id": "2062233653481238923",
+        "created_at": "2026-06-03T18:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062233653481238923"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062233653481238923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 111620,
+          "like_count": 1841,
+          "quote_count": 27,
+          "reply_count": 4,
+          "retweet_count": 210
+        },
+        "reply_settings": "everyone",
+        "text": "痩せるためにマンジャロを打とう\n背を伸ばすために足の骨を折ろう\n仕事をするためにコカインやろう\n感情を無にするためにODしよう\n経済回すために特殊詐欺しよう\n元気になるためにシャブしよう\nこの汚い世界見たくないからジャンプしよう"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 185,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 383
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T07:54:01.000Z",
+        "description": "投稿内容はすべてフィクションです。 情報提供・相談・依頼はメッセージで送ってください。開示請求の前には削除依頼をメッセージで送ってください。殺す前には殺害予告をこれまたメッセージで送ってください。僕は、生きたいんです。",
+        "id": "1548938925011795970",
+        "location": "情報提供・相談・依頼はDMまで",
+        "name": "しんでねこになる",
+        "pinned_tweet_id": "2057151533377261601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612175992134701057/9FM4ts-E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44078,
+          "following_count": 244,
+          "like_count": 2778,
+          "listed_count": 115,
+          "media_count": 104,
+          "tweet_count": 607
+        },
+        "username": "sindenekoninaru",
+        "verified": true
+      }
+    ]
+  }
+}

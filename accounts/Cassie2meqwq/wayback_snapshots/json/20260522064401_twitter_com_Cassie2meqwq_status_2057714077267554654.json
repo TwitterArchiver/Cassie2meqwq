@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057588107751432192"
+      ],
+      "media_source_tweet_id": [
+        "2057588110792245509"
+      ]
+    },
+    "author_id": "2053366838248259584",
+    "conversation_id": "2057714077267554654",
+    "created_at": "2026-05-22T06:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T07:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057714077267554654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1899359985080881152",
+          "start": 3,
+          "username": "bitedesires"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2hguqxk1Dx",
+          "end": 40,
+          "expanded_url": "https://x.com/bitedesires/status/2057588110792245509/photo/1",
+          "media_key": "3_2057588107751432192",
+          "start": 17,
+          "url": "https://t.co/2hguqxk1Dx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057714077267554654",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 992
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057588110792245509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bitedesires: https://t.co/2hguqxk1Dx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1493,
+        "media_key": "3_2057588107751432192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI4Fe4CXoAAqKNV.jpg",
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057588107751432192"
+          ],
+          "media_source_tweet_id": [
+            "2057588110792245509"
+          ]
+        },
+        "author_id": "2053366838248259584",
+        "conversation_id": "2057714077267554654",
+        "created_at": "2026-05-22T06:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057714077267554654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1899359985080881152",
+              "start": 3,
+              "username": "bitedesires"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2hguqxk1Dx",
+              "end": 40,
+              "expanded_url": "https://x.com/bitedesires/status/2057588110792245509/photo/1",
+              "media_key": "3_2057588107751432192",
+              "start": 17,
+              "url": "https://t.co/2hguqxk1Dx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057714077267554654",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 992
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057588110792245509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bitedesires: https://t.co/2hguqxk1Dx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057588107751432192"
+          ]
+        },
+        "author_id": "1899359985080881152",
+        "conversation_id": "2057588110792245509",
+        "created_at": "2026-05-21T22:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T23:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057588110792245509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2hguqxk1Dx",
+              "end": 23,
+              "expanded_url": "https://x.com/bitedesires/status/2057588110792245509/photo/1",
+              "media_key": "3_2057588107751432192",
+              "start": 0,
+              "url": "https://t.co/2hguqxk1Dx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057588110792245509",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 263,
+          "impression_count": 56919,
+          "like_count": 4371,
+          "quote_count": 45,
+          "reply_count": 0,
+          "retweet_count": 992
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2hguqxk1Dx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 162,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 165
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-11T07:22:05.000Z",
+        "description": "vampire priestess 𓆩݁ᛪ༙𓆪 sexy bitch",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/k27sr",
+                "end": 23,
+                "expanded_url": "https://boxd.it/k27sr",
+                "start": 0,
+                "url": "https://t.co/Jdc8F7jRab"
+              }
+            ]
+          }
+        },
+        "id": "1899359985080881152",
+        "location": "she ╱ her     21.",
+        "name": "໊",
+        "pinned_tweet_id": "2037365401940529204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056106628051619841/RXKsBEfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8414,
+          "following_count": 417,
+          "like_count": 34530,
+          "listed_count": 50,
+          "media_count": 415,
+          "tweet_count": 3092
+        },
+        "url": "https://t.co/Jdc8F7jRab",
+        "username": "bitedesires",
+        "verified": false
+      }
+    ]
+  }
+}

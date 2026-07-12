@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2068046970359599322",
+    "created_at": "2026-06-21T11:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T12:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068659668332028223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1940056020635750401",
+          "start": 0,
+          "username": "_myex1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068659668332028223",
+    "in_reply_to_user_id": "1940056020635750401",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068046970359599322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_myex1 don't worry🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2068046970359599322",
+        "created_at": "2026-06-21T11:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068659668332028223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1940056020635750401",
+              "start": 0,
+              "username": "_myex1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068659668332028223",
+        "in_reply_to_user_id": "1940056020635750401",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068046970359599322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_myex1 don't worry🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940056020635750401",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          }
+        ],
+        "conversation_id": "2068046970359599322",
+        "created_at": "2026-06-19T19:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T20:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068046970359599322"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068046970359599322",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 278,
+          "impression_count": 544448,
+          "like_count": 4850,
+          "quote_count": 260,
+          "reply_count": 18,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "자해 끝처리 가장 멍청한 짓\n\n1. 알콜솜으로 닦기\n2. 밴드 붙이기\n\n나는 2번을 해버림 개멍청"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 208,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 566
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T14:33:19.000Z",
+        "description": "@_myexl1 비계  ♡ @ifi4z ♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "_myexl1"
+              },
+              {
+                "end": 21,
+                "start": 15,
+                "username": "ifi4z"
+              }
+            ]
+          }
+        },
+        "id": "1940056020635750401",
+        "location": "7777035954863 카뱅",
+        "name": "소멸",
+        "pinned_tweet_id": "2068308397175591203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065354836447735808/yC1VV8c8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 142,
+          "like_count": 511,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 169
+        },
+        "url": "",
+        "username": "_myex1",
+        "verified": false
+      }
+    ]
+  }
+}

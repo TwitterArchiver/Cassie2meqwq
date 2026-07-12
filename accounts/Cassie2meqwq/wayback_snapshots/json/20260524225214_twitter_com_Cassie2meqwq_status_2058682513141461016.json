@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2027269966790062080"
+      ],
+      "media_source_tweet_id": [
+        "2027270018350629141"
+      ]
+    },
+    "author_id": "2053366838248259584",
+    "conversation_id": "2058682513141461016",
+    "created_at": "2026-05-24T22:52:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T23:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058682513141461016"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/En3R7C77aP",
+          "end": 23,
+          "expanded_url": "https://x.com/glockk1tty/status/2027270018350629141/video/1",
+          "media_key": "13_2027269966790062080",
+          "start": 0,
+          "url": "https://t.co/En3R7C77aP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058682513141461016",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/En3R7C77aP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6300,
+        "height": 658,
+        "media_key": "13_2027269966790062080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027269966790062080/img/0LA8OWYyed8_3RAv.jpg",
+        "public_metrics": {
+          "view_count": 9635
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027269966790062080/vid/avc1/362x270/dsJPoNCz7JVMFmbv.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027269966790062080/vid/avc1/484x360/uYbn4gCBYCzHH2gK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027269966790062080/vid/avc1/886x658/2paogLq45Nz7FJTh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027269966790062080/pl/wS_16-XlAnp_eirx.m3u8"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027269966790062080"
+          ],
+          "media_source_tweet_id": [
+            "2027270018350629141"
+          ]
+        },
+        "author_id": "2053366838248259584",
+        "conversation_id": "2058682513141461016",
+        "created_at": "2026-05-24T22:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T23:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058682513141461016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/En3R7C77aP",
+              "end": 23,
+              "expanded_url": "https://x.com/glockk1tty/status/2027270018350629141/video/1",
+              "media_key": "13_2027269966790062080",
+              "start": 0,
+              "url": "https://t.co/En3R7C77aP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058682513141461016",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/En3R7C77aP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 163,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 235
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      }
+    ]
+  }
+}

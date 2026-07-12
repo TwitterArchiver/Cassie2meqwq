@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2056411329033097294",
+    "created_at": "2026-05-19T17:10:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T18:10:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056784673788113301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1927736722726551553",
+          "start": 0,
+          "username": "chodan0119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056784673788113301",
+    "in_reply_to_user_id": "1927736722726551553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056411329033097294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chodan0119 谢谢你呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2056411329033097294",
+        "created_at": "2026-05-19T17:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056784673788113301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1927736722726551553",
+              "start": 0,
+              "username": "chodan0119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056784673788113301",
+        "in_reply_to_user_id": "1927736722726551553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056411329033097294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chodan0119 谢谢你呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927736722726551553",
+        "conversation_id": "2056411329033097294",
+        "created_at": "2026-05-18T16:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056411329033097294"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056411329033097294",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 23357,
+          "like_count": 1394,
+          "quote_count": 93,
+          "reply_count": 4,
+          "retweet_count": 209
+        },
+        "reply_settings": "everyone",
+        "text": "화장실에서 몰래 울었던 사람들\n불 꺼진 방 안에서 이불 뒤집어쓰고울었던사람들\n샤워 소리에 묻어서 몰래 울었던 사람들\n비오는날 우산으로 가리고 몰래 울었던 사람들\n노래 한 곡 반복재생해두고 가만히 울었던 사람들\n옥상에서 울었던 사람들\n\n전부다 내품에서 울어도 된다고\n말해주고싶어."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|",
+        "id": "2053366838248259584",
+        "name": "酸性（二世长存）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053367859225714688/_rd_PqiO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 153,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 133
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-28T14:40:35.000Z",
+        "description": "13년생/女/학안청/초멘초뎀🫶\n비계:  @C0DaN23 \n🩷 : @10vxc10 / @Haxu_n / @tlqkfwndj\n@yoyo96418720515 / @esouwx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "C0DaN23"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "10vxc10"
+              },
+              {
+                "end": 54,
+                "start": 47,
+                "username": "Haxu_n"
+              },
+              {
+                "end": 67,
+                "start": 57,
+                "username": "tlqkfwndj"
+              },
+              {
+                "end": 84,
+                "start": 68,
+                "username": "yoyo96418720515"
+              },
+              {
+                "end": 94,
+                "start": 87,
+                "username": "esouwx"
+              }
+            ]
+          }
+        },
+        "id": "1927736722726551553",
+        "location": "사랑이 사랑해 💞",
+        "name": "초댠たん",
+        "pinned_tweet_id": "2054517503725011129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055706941519962112/mGFKj7xd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193,
+          "following_count": 1338,
+          "like_count": 42124,
+          "listed_count": 12,
+          "media_count": 34,
+          "tweet_count": 2101
+        },
+        "username": "chodan0119",
+        "verified": false
+      }
+    ]
+  }
+}

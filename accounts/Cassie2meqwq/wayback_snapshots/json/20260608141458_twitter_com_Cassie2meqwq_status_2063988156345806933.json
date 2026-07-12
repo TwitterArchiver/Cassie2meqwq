@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2063987122370224196",
+    "created_at": "2026-06-08T14:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063988156345806933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1537203757250797569",
+          "start": 0,
+          "username": "yongqingwen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063988156345806933",
+    "in_reply_to_user_id": "1537203757250797569",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063987122370224196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yongqingwen 🫂🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2063987122370224196",
+        "created_at": "2026-06-08T14:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063988156345806933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1537203757250797569",
+              "start": 0,
+              "username": "yongqingwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063988156345806933",
+        "in_reply_to_user_id": "1537203757250797569",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063987122370224196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yongqingwen 🫂🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537203757250797569",
+        "conversation_id": "2063987122370224196",
+        "created_at": "2026-06-08T14:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063987122370224196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cassie2meqwq/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/Cassie2meqwq/status/2063985897792741739",
+              "start": 2,
+              "url": "https://t.co/GD5qEmlsdu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063987122370224196",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063985897792741739",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🫂 https://t.co/GD5qEmlsdu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 210,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 483
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T22:42:22.000Z",
+        "description": "我不想成为被人类统治的一员，但他们命中注定要接替神。",
+        "id": "1537203757250797569",
+        "name": "Angela da Foligno",
+        "pinned_tweet_id": "2027229711500468473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024794929197953024/PGuxU9jk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 358,
+          "like_count": 1065,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 377
+        },
+        "username": "yongqingwen",
+        "verified": false
+      }
+    ]
+  }
+}

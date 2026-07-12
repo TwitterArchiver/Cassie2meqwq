@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2063511586007031910",
+    "created_at": "2026-06-07T17:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T18:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063678421792919968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1830882335153422336",
+          "start": 0,
+          "username": "liulz_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063678421792919968",
+    "in_reply_to_user_id": "1830882335153422336",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063511586007031910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liulz_ 진리"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2063511586007031910",
+        "created_at": "2026-06-07T17:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T18:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063678421792919968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1830882335153422336",
+              "start": 0,
+              "username": "liulz_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063678421792919968",
+        "in_reply_to_user_id": "1830882335153422336",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063511586007031910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liulz_ 진리"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830882335153422336",
+        "conversation_id": "2063511586007031910",
+        "created_at": "2026-06-07T06:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063511586007031910"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063511586007031910",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 11814,
+          "like_count": 582,
+          "quote_count": 8,
+          "reply_count": 6,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "여자는 여자끼리 사귀는 게 맞다고 생각해"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 206,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 473
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T08:15:50.000Z",
+        "description": "e",
+        "id": "1830882335153422336",
+        "location": "💋",
+        "name": "삐",
+        "pinned_tweet_id": "2062536262255599690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061170043707387904/EuhArAyM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 96,
+          "like_count": 1942,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 43
+        },
+        "username": "liulz_",
+        "verified": false
+      }
+    ]
+  }
+}

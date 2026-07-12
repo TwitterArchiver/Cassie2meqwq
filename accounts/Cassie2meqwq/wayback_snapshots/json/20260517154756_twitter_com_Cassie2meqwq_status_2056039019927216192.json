@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2056025874462544309",
+    "created_at": "2026-05-17T15:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T16:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056039019927216192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1911429624694730753",
+          "start": 0,
+          "username": "huixue888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056039019927216192",
+    "in_reply_to_user_id": "1911429624694730753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056025874462544309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huixue888 布拿拿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2056025866833121280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIh4ofGaUAAzuBS.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056025867068018689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIh4of-akAEZidx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2056025874462544309",
+        "created_at": "2026-05-17T15:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056039019927216192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1911429624694730753",
+              "start": 0,
+              "username": "huixue888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056039019927216192",
+        "in_reply_to_user_id": "1911429624694730753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056025874462544309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huixue888 布拿拿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056025866833121280",
+            "3_2056025867068018689"
+          ]
+        },
+        "author_id": "1911429624694730753",
+        "conversation_id": "2056025874462544309",
+        "created_at": "2026-05-17T14:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056025874462544309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6CmkTO2N2g",
+              "end": 31,
+              "expanded_url": "https://x.com/huixue888/status/2056025874462544309/photo/1",
+              "media_key": "3_2056025866833121280",
+              "start": 8,
+              "url": "https://t.co/6CmkTO2N2g"
+            },
+            {
+              "display_url": "pic.x.com/6CmkTO2N2g",
+              "end": 31,
+              "expanded_url": "https://x.com/huixue888/status/2056025874462544309/photo/1",
+              "media_key": "3_2056025867068018689",
+              "start": 8,
+              "url": "https://t.co/6CmkTO2N2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056025874462544309",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "且吧悲欢歌唱！ https://t.co/6CmkTO2N2g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|",
+        "id": "2053366838248259584",
+        "name": "酸性（二世长存）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053367859225714688/_rd_PqiO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 132,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 85
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T14:42:06.000Z",
+        "description": "生理男｜09高中辍学｜超级社恐｜喜欢听0014556 尹康 小怜 极贵｜同类，od妹，边缘化青少年互fo好不好！（会查成分\n｜不鉴证 不发黄｜",
+        "id": "1911429624694730753",
+        "location": "上海",
+        "name": "奶猪🧸🐖🐽",
+        "pinned_tweet_id": "2031575477773808131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024139862908002305/H8Uz73bI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 296,
+          "like_count": 5671,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1311
+        },
+        "username": "huixue888",
+        "verified": false
+      }
+    ]
+  }
+}

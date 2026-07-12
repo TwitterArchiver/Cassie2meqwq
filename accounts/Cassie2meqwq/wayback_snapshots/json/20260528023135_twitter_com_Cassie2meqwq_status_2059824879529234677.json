@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2059824879529234677",
+    "created_at": "2026-05-28T02:31:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T03:31:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059824879529234677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1971488604456353794",
+          "start": 3,
+          "username": "wwiwwwwv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059824879529234677",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4535
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059279826725585189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wwiwwwwv: ・～40kg ＝ 천사\n・40～43kg ＝ 천사\n・43～46kg ＝ 천사\n・46～49kg ＝ 천사 \n・49～52kg ＝ 천사\n・52～55kg ＝ 천사\n・55～58kg ＝ 천사\n・58～62kg ＝ 천사\n・62～66kg ＝ 천사…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2059824879529234677",
+        "created_at": "2026-05-28T02:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T03:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059824879529234677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1971488604456353794",
+              "start": 3,
+              "username": "wwiwwwwv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059824879529234677",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4535
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059279826725585189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wwiwwwwv: ・～40kg ＝ 천사\n・40～43kg ＝ 천사\n・43～46kg ＝ 천사\n・46～49kg ＝ 천사 \n・49～52kg ＝ 천사\n・52～55kg ＝ 천사\n・55～58kg ＝ 천사\n・58～62kg ＝ 천사\n・62～66kg ＝ 천사…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971488604456353794",
+        "conversation_id": "2059279826725585189",
+        "created_at": "2026-05-26T14:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059279826725585189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iamnamake_/sta…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/iamnamake_/status/2059111032380100832",
+              "start": 169,
+              "url": "https://t.co/xL5fd9DB16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059279826725585189",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 586,
+          "impression_count": 856389,
+          "like_count": 28633,
+          "quote_count": 210,
+          "reply_count": 25,
+          "retweet_count": 4535
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059111032380100832",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "・～40kg ＝ 천사\n・40～43kg ＝ 천사\n・43～46kg ＝ 천사\n・46～49kg ＝ 천사 \n・49～52kg ＝ 천사\n・52～55kg ＝ 천사\n・55～58kg ＝ 천사\n・58～62kg ＝ 천사\n・62～66kg ＝ 천사\n・66～70kg ＝ 천사\n・70kg 이상 ＝ 천사\n모든 소녀는 천사다 알앗냐? https://t.co/xL5fd9DB16"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 170,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 283
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-26T08:15:11.000Z",
+        "description": "18 ↓ | シャチ⋆⑅˚₊ | 트친소외 선팔 구독간주\n💍 @iryu348 \n○o。. @zldnlzl @hyeon1301113\n少女が好きです！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 32,
+                "username": "iryu348"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "zldnlzl"
+              },
+              {
+                "end": 69,
+                "start": 56,
+                "username": "hyeon1301113"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/5191347726/",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/5191347726/",
+                "start": 0,
+                "url": "https://t.co/rzJ4cyoBvX"
+              }
+            ]
+          }
+        },
+        "id": "1971488604456353794",
+        "location": "깊은 바다속은 너무 외로워",
+        "name": "鯨 (상태:본진들다터져서정신병온 에로망가사우루스)",
+        "pinned_tweet_id": "2006233257810223434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045739985475878912/UIsrUXH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 1165,
+          "like_count": 67089,
+          "listed_count": 36,
+          "media_count": 141,
+          "tweet_count": 11712
+        },
+        "url": "https://t.co/rzJ4cyoBvX",
+        "username": "wwiwwwwv",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2058630597015433386",
+    "created_at": "2026-05-24T19:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T20:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058630597015433386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1541786262046113793",
+          "start": 3,
+          "username": "C0ffeeMachine32"
+        },
+        {
+          "end": 34,
+          "id": "1993455710274043905",
+          "start": 21,
+          "username": "satireorcry1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058630597015433386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058512628658348144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @C0ffeeMachine32: @satireorcry1 所以，性观念比较开放的的欧美国家性同意年龄最低是16岁，而保守的中国大陆性同意年龄是14岁\n\n这让我想到最近出台的公务员贪污300万不入刑的规定，因为贪污300万入刑的话中国公务员监狱就不够用了\n\n同理，要按…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2058630597015433386",
+        "created_at": "2026-05-24T19:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T20:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058630597015433386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1541786262046113793",
+              "start": 3,
+              "username": "C0ffeeMachine32"
+            },
+            {
+              "end": 34,
+              "id": "1993455710274043905",
+              "start": 21,
+              "username": "satireorcry1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058630597015433386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058512628658348144",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @C0ffeeMachine32: @satireorcry1 所以，性观念比较开放的的欧美国家性同意年龄最低是16岁，而保守的中国大陆性同意年龄是14岁\n\n这让我想到最近出台的公务员贪污300万不入刑的规定，因为贪污300万入刑的话中国公务员监狱就不够用了\n\n同理，要按…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541786262046113793",
+        "conversation_id": "2058437744611762437",
+        "created_at": "2026-05-24T11:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058512628658348144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1993455710274043905",
+              "start": 0,
+              "username": "satireorcry1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058512628658348144",
+        "in_reply_to_user_id": "1993455710274043905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2522,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058437744611762437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satireorcry1 所以，性观念比较开放的的欧美国家性同意年龄最低是16岁，而保守的中国大陆性同意年龄是14岁\n\n这让我想到最近出台的公务员贪污300万不入刑的规定，因为贪污300万入刑的话中国公务员监狱就不够用了\n\n同理，要按照14岁算，那太多官员就都被抓进去了，监狱容量告急"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 163,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 228
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T14:11:20.000Z",
+        "description": "",
+        "id": "1541786262046113793",
+        "name": "C0ffeeM",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058468425857400833/w_VhLEIh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 65,
+          "like_count": 3248,
+          "listed_count": 2,
+          "media_count": 681,
+          "tweet_count": 3701
+        },
+        "username": "C0ffeeMachine32",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvog37z"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2038163914714660961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31402,
+          "following_count": 1614,
+          "like_count": 18831,
+          "listed_count": 74,
+          "media_count": 4094,
+          "tweet_count": 5734
+        },
+        "url": "https://t.co/EYxWvog37z",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

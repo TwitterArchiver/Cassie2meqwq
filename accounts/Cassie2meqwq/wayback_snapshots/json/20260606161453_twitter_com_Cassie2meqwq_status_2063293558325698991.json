@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2062728424603468013",
+    "created_at": "2026-06-06T16:14:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T17:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063293558325698991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1596128240833548288",
+          "start": 0,
+          "username": "Ayuan_ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063293558325698991",
+    "in_reply_to_user_id": "1596128240833548288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062728424603468013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayuan_ai 为了保护自己呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2062728424603468013",
+        "created_at": "2026-06-06T16:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063293558325698991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1596128240833548288",
+              "start": 0,
+              "username": "Ayuan_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063293558325698991",
+        "in_reply_to_user_id": "1596128240833548288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062728424603468013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayuan_ai 为了保护自己呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596128240833548288",
+        "conversation_id": "2062728424603468013",
+        "created_at": "2026-06-05T02:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062728424603468013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062728424603468013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3196,
+          "like_count": 64,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "共情能力很强的人一般情感漠视也很严重"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 199,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 441
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-25T13:06:54.000Z",
+        "description": "🌱03 \n🎓 数学&经济学在读\n📍香港｜上海｜多伦多\n💡AI产品经理学习中\n做有意义和有趣的事\n MORE：酒鬼、户外爱好者、业余摄影爱好者、各种球类运动全能玩家、音乐剧艺术展痴迷、黑暗料理创造家、纯爱战士",
+        "id": "1596128240833548288",
+        "location": "0.1 km",
+        "name": "Ayuan",
+        "pinned_tweet_id": "2058717660859269314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061292547910107138/1Vu2wd6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 270,
+          "like_count": 3952,
+          "listed_count": 7,
+          "media_count": 91,
+          "tweet_count": 1332
+        },
+        "username": "Ayuan_ai",
+        "verified": true
+      }
+    ]
+  }
+}

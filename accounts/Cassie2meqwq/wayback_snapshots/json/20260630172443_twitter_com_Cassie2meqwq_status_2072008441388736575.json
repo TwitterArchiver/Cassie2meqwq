@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072008368676544512"
+      ]
+    },
+    "author_id": "2053366838248259584",
+    "conversation_id": "2072008441388736575",
+    "created_at": "2026-06-30T17:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T18:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072008441388736575"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pXzXNUfewt",
+          "end": 23,
+          "expanded_url": "https://x.com/Cassie2meqwq/status/2072008441388736575/photo/1",
+          "media_key": "3_2072008368676544512",
+          "start": 0,
+          "url": "https://t.co/pXzXNUfewt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072008441388736575",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/pXzXNUfewt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072008368676544512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFAoiKaIAAp0Z_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072008368676544512"
+          ]
+        },
+        "author_id": "2053366838248259584",
+        "conversation_id": "2072008441388736575",
+        "created_at": "2026-06-30T17:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072008441388736575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pXzXNUfewt",
+              "end": 23,
+              "expanded_url": "https://x.com/Cassie2meqwq/status/2072008441388736575/photo/1",
+              "media_key": "3_2072008368676544512",
+              "start": 0,
+              "url": "https://t.co/pXzXNUfewt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072008441388736575",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pXzXNUfewt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 216,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 601
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false
+      }
+    ]
+  }
+}

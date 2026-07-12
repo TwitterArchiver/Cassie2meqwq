@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2056408887449006299",
+    "created_at": "2026-05-18T16:38:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T17:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056414160435761377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1918999762445193216",
+          "start": 0,
+          "username": "xbksgpgxp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056414160435761377",
+    "in_reply_to_user_id": "1918999762445193216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056408887449006299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xbksgpgxp 肯定是有真心的但是有多少，也会变的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2056408887449006299",
+        "created_at": "2026-05-18T16:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056414160435761377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1918999762445193216",
+              "start": 0,
+              "username": "xbksgpgxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056414160435761377",
+        "in_reply_to_user_id": "1918999762445193216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056408887449006299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xbksgpgxp 肯定是有真心的但是有多少，也会变的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918999762445193216",
+        "conversation_id": "2056408887449006299",
+        "created_at": "2026-05-18T16:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056408887449006299"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056408887449006299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有的时候真的很认真的在想，这些爱豆这些屏幕背后甚至见过面说过话有过交集的人，真的有心吗，真的记得发生过的事情吗，发生的这些那些事情居然真的发生了？只有我一个人记得在意吗 真的不是我的幻想吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|",
+        "id": "2053366838248259584",
+        "name": "酸性（二世长存）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053367859225714688/_rd_PqiO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 139,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 109
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T12:03:05.000Z",
+        "description": "듣지마^^~♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/xbksgpgxp/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/xbksgpgxp/",
+                "start": 0,
+                "url": "https://t.co/lV5DtFzljr"
+              }
+            ]
+          }
+        },
+        "id": "1918999762445193216",
+        "name": "视觉系口欲期隔壁小白",
+        "pinned_tweet_id": "2051664599729185003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047861501613199360/ylK7xLOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 218,
+          "like_count": 4838,
+          "listed_count": 0,
+          "media_count": 1227,
+          "tweet_count": 3806
+        },
+        "url": "https://t.co/lV5DtFzljr",
+        "username": "xbksgpgxp",
+        "verified": false
+      }
+    ]
+  }
+}

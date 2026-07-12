@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053508430246383617"
+      ]
+    },
+    "author_id": "2053366838248259584",
+    "conversation_id": "2053508447031964108",
+    "created_at": "2026-05-10T16:12:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T17:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053508447031964108"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z9WfWCbi2t",
+          "end": 23,
+          "expanded_url": "https://x.com/Cassie2meqwq/status/2053508447031964108/photo/1",
+          "media_key": "3_2053508430246383617",
+          "start": 0,
+          "url": "https://t.co/Z9WfWCbi2t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053508447031964108",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Z9WfWCbi2t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 784,
+        "media_key": "3_2053508430246383617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-HCZAbEAEPfzG.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053508430246383617"
+          ]
+        },
+        "author_id": "2053366838248259584",
+        "conversation_id": "2053508447031964108",
+        "created_at": "2026-05-10T16:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T17:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053508447031964108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z9WfWCbi2t",
+              "end": 23,
+              "expanded_url": "https://x.com/Cassie2meqwq/status/2053508447031964108/photo/1",
+              "media_key": "3_2053508430246383617",
+              "start": 0,
+              "url": "https://t.co/Z9WfWCbi2t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053508447031964108",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Z9WfWCbi2t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "",
+        "id": "2053366838248259584",
+        "name": "酸性(互关寻回中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053367859225714688/_rd_PqiO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 48,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      }
+    ]
+  }
+}

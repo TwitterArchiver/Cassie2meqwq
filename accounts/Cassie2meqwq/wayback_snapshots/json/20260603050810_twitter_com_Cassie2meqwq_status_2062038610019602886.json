@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2061974492076020209",
+    "created_at": "2026-06-03T05:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T06:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062038610019602886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2049679021513056256",
+          "start": 0,
+          "username": "Valeywis2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062038610019602886",
+    "in_reply_to_user_id": "2049679021513056256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061974492076020209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Valeywis2 晚安呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2061974492076020209",
+        "created_at": "2026-06-03T05:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062038610019602886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2049679021513056256",
+              "start": 0,
+              "username": "Valeywis2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062038610019602886",
+        "in_reply_to_user_id": "2049679021513056256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061974492076020209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Valeywis2 晚安呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049679021513056256",
+        "conversation_id": "2061974492076020209",
+        "created_at": "2026-06-03T00:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T01:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061974492076020209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dontweepalone/…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/dontweepalone/status/2061919031095918983",
+              "start": 143,
+              "url": "https://t.co/oQHUPzxsqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061974492076020209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061919031095918983",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我第一次转讣告推，因为死亡只是生命的一部分，在我享乐或挣扎的时候，天南海北的人都在zs。你说大家见不见呢，你平时的自我表达没有什么流量，现在却给你风光大葬。我不想祝你幸福，那样的祝福太飘渺了。我愿你平静，愿你终于可以不用那么累了。你会见到Plath吗。你可以和她炫耀你是吞药s的🥺 https://t.co/oQHUPzxsqB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 179,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 352
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T02:39:52.000Z",
+        "description": "this is an alt account\nI’m young enough to know everything.",
+        "id": "2049679021513056256",
+        "name": "Silvia V",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049812590336106496/F864IhgO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 57,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 35
+        },
+        "username": "Valeywis2",
+        "verified": false
+      }
+    ]
+  }
+}

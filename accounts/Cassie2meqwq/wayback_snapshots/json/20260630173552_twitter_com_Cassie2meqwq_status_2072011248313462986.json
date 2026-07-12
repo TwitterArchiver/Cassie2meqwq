@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2072011240772349952"
+      ]
+    },
+    "author_id": "2053366838248259584",
+    "conversation_id": "2071600871373259163",
+    "created_at": "2026-06-30T17:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T18:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072011248313462986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1877886557316689920",
+          "start": 0,
+          "username": "L77TuT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OlHngCEkug",
+          "end": 31,
+          "expanded_url": "https://x.com/Cassie2meqwq/status/2072011248313462986/photo/1",
+          "media_key": "16_2072011240772349952",
+          "start": 8,
+          "url": "https://t.co/OlHngCEkug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072011248313462986",
+    "in_reply_to_user_id": "1877886557316689920",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071600871373259163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L77TuT https://t.co/OlHngCEkug"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 366,
+        "media_key": "16_2072011240772349952",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMFDPtjaMAAmvdo.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMFDPtjaMAAmvdo.mp4"
+          }
+        ],
+        "width": 462
+      },
+      {
+        "height": 678,
+        "media_key": "3_2071600832341008384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_N-zAW4AAmD-H.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2072011240772349952"
+          ]
+        },
+        "author_id": "2053366838248259584",
+        "conversation_id": "2071600871373259163",
+        "created_at": "2026-06-30T17:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072011248313462986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1877886557316689920",
+              "start": 0,
+              "username": "L77TuT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OlHngCEkug",
+              "end": 31,
+              "expanded_url": "https://x.com/Cassie2meqwq/status/2072011248313462986/photo/1",
+              "media_key": "16_2072011240772349952",
+              "start": 8,
+              "url": "https://t.co/OlHngCEkug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072011248313462986",
+        "in_reply_to_user_id": "1877886557316689920",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071600871373259163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L77TuT https://t.co/OlHngCEkug"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071600832341008384"
+          ]
+        },
+        "author_id": "1877886557316689920",
+        "conversation_id": "2071600871373259163",
+        "created_at": "2026-06-29T14:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071600871373259163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i0HpBDyw2S",
+              "end": 30,
+              "expanded_url": "https://x.com/L77TuT/status/2071600871373259163/photo/1",
+              "media_key": "3_2071600832341008384",
+              "start": 7,
+              "url": "https://t.co/i0HpBDyw2S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071600871373259163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "画的爱心好丑 https://t.co/i0HpBDyw2S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 216,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 602
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T01:13:55.000Z",
+        "description": "",
+        "id": "1877886557316689920",
+        "name": "77",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071603788427804672/bqvYvOl9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 108,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 260
+        },
+        "url": "",
+        "username": "L77TuT",
+        "verified": false
+      }
+    ]
+  }
+}

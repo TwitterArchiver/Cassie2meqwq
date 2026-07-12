@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2062850040822112316",
+    "created_at": "2026-06-05T11:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T12:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062865124269150509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1672795881647800321",
+          "start": 0,
+          "username": "LJprotector"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062865124269150509",
+    "in_reply_to_user_id": "1672795881647800321",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062850040822112316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LJprotector 小猫嘴萌呦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2062850036204228608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKC3LbDa0AAGKTL.jpg",
+        "width": 600
+      },
+      {
+        "height": 802,
+        "media_key": "3_2062850036187467776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKC3La_bEAAT95f.jpg",
+        "width": 642
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2062850040822112316",
+        "created_at": "2026-06-05T11:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062865124269150509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1672795881647800321",
+              "start": 0,
+              "username": "LJprotector"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062865124269150509",
+        "in_reply_to_user_id": "1672795881647800321",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062850040822112316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LJprotector 小猫嘴萌呦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062850036204228608",
+            "3_2062850036187467776"
+          ]
+        },
+        "author_id": "1672795881647800321",
+        "conversation_id": "2062850040822112316",
+        "created_at": "2026-06-05T10:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062850040822112316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yulWEv6Ovv",
+              "end": 27,
+              "expanded_url": "https://x.com/LJprotector/status/2062850040822112316/photo/1",
+              "media_key": "3_2062850036204228608",
+              "start": 4,
+              "url": "https://t.co/yulWEv6Ovv"
+            },
+            {
+              "display_url": "pic.x.com/yulWEv6Ovv",
+              "end": 27,
+              "expanded_url": "https://x.com/LJprotector/status/2062850040822112316/photo/1",
+              "media_key": "3_2062850036187467776",
+              "start": 4,
+              "url": "https://t.co/yulWEv6Ovv"
+            },
+            {
+              "display_url": "x.com/freshvv7/statu…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/freshvv7/status/2062763255370801520",
+              "start": 28,
+              "url": "https://t.co/dIqw4y9fCb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062850040822112316",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1220,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062763255370801520",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "주여니 https://t.co/yulWEv6Ovv https://t.co/dIqw4y9fCb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 192,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 406
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T02:36:41.000Z",
+        "description": "요즘 애들은 간장게장 아나?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/LJprotector",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/LJprotector",
+                "start": 0,
+                "url": "https://t.co/H11a5GWDS8"
+              }
+            ]
+          }
+        },
+        "id": "1672795881647800321",
+        "name": "心",
+        "pinned_tweet_id": "2054546835793158380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672796651239665665/VQhzlqIC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 44,
+          "like_count": 6473,
+          "listed_count": 5,
+          "media_count": 1109,
+          "tweet_count": 19056
+        },
+        "url": "https://t.co/H11a5GWDS8",
+        "username": "LJprotector",
+        "verified": false
+      }
+    ]
+  }
+}

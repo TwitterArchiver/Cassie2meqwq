@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2057479929449820181",
+    "created_at": "2026-05-21T15:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T16:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057487917292138561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1575765089030139905",
+          "start": 0,
+          "username": "wodanggangqiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057487917292138561",
+    "in_reply_to_user_id": "1575765089030139905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057479929449820181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wodanggangqiang 男的能干好啥。同情心为零"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 52111,
+        "height": 1248,
+        "media_key": "13_2057479754434150400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057479754434150400/img/lw1amsXo2Lz8Pj3e.jpg",
+        "public_metrics": {
+          "view_count": 124
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057479754434150400/vid/avc1/720x744/0kW_kRv5UIzSYzdI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057479754434150400/vid/avc1/480x496/hjZQtigjYw29Y0Ae.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057479754434150400/vid/avc1/1206x1248/NUqWSxh66y_hDmpQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057479754434150400/pl/TSRxJU61BdwmyBjK.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057479754434150400/vid/avc1/320x330/J2C246wr9bIatsjO.mp4"
+          }
+        ],
+        "width": 1206
+      },
+      {
+        "height": 1590,
+        "media_key": "3_2057479754438332416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2i74fa0AAi5dL.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2057479929449820181",
+        "created_at": "2026-05-21T15:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057487917292138561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1575765089030139905",
+              "start": 0,
+              "username": "wodanggangqiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057487917292138561",
+        "in_reply_to_user_id": "1575765089030139905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057479929449820181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wodanggangqiang 男的能干好啥。同情心为零"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057479754434150400",
+            "3_2057479754438332416"
+          ]
+        },
+        "author_id": "1575765089030139905",
+        "conversation_id": "2057479929449820181",
+        "created_at": "2026-05-21T15:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057479929449820181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6pwUXHeGUi",
+              "end": 86,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2057479929449820181/video/1",
+              "media_key": "13_2057479754434150400",
+              "start": 63,
+              "url": "https://t.co/6pwUXHeGUi"
+            },
+            {
+              "display_url": "pic.x.com/6pwUXHeGUi",
+              "end": 86,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2057479929449820181/video/1",
+              "media_key": "3_2057479754438332416",
+              "start": 63,
+              "url": "https://t.co/6pwUXHeGUi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057479929449820181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 384,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男司机接了包车订单，为了多赚钱把小猫放进后备箱导致小猫死亡，并在小猫死亡后拒绝道歉，拉黑了阿姨，男司机的照片已经被网友扒出。 https://t.co/6pwUXHeGUi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 160,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 162
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:31:04.000Z",
+        "description": "独立而自由的灵魂，才是幸福之源。做自己，比任何事情都重要。",
+        "id": "1575765089030139905",
+        "location": "Japan",
+        "name": "我当刚强壮胆",
+        "pinned_tweet_id": "1824841439647515059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961052065981194240/mj8Sddub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29314,
+          "following_count": 564,
+          "like_count": 35994,
+          "listed_count": 89,
+          "media_count": 10082,
+          "tweet_count": 27625
+        },
+        "username": "wodanggangqiang",
+        "verified": true
+      }
+    ]
+  }
+}

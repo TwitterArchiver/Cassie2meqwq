@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2064061946245398550",
+    "created_at": "2026-06-08T19:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T20:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064061946245398550"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064061946245398550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "转躁？整夜整夜失眠，一直无意识的玩手机，腿缺钙好痛，头也痛。我应该睡觉了但是世界没停止。希望安静的睡一觉，吵死了还感觉自己在下坠，好累"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2064061946245398550",
+        "created_at": "2026-06-08T19:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T20:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064061946245398550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064061946245398550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "转躁？整夜整夜失眠，一直无意识的玩手机，腿缺钙好痛，头也痛。我应该睡觉了但是世界没停止。希望安静的睡一觉，吵死了还感觉自己在下坠，好累"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 207,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 487
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2069001000417923309",
+    "created_at": "2026-06-25T15:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T16:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070169186706575490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1911973715908411392",
+          "start": 0,
+          "username": "yinguo___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070169186706575490",
+    "in_reply_to_user_id": "1911973715908411392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069001000417923309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yinguo___ 要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2069001000417923309",
+        "created_at": "2026-06-25T15:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070169186706575490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1911973715908411392",
+              "start": 0,
+              "username": "yinguo___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070169186706575490",
+        "in_reply_to_user_id": "1911973715908411392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069001000417923309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yinguo___ 要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911973715908411392",
+        "conversation_id": "2069001000417923309",
+        "created_at": "2026-06-22T10:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069001000417923309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069001000417923309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 605,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "救救孩子 愈美滞销 帮帮我们！22一盒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 206,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 582
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T02:44:03.000Z",
+        "description": "我也想殺死傷痛讓那恩怨有始有終",
+        "id": "1911973715908411392",
+        "name": "因果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911973922016202752/Gt2YZNCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 144,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 160
+        },
+        "url": "",
+        "username": "yinguo___",
+        "verified": false
+      }
+    ]
+  }
+}

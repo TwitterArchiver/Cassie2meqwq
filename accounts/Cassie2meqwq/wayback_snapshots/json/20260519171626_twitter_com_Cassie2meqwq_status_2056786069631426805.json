@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056515940884303872"
+      ],
+      "media_source_tweet_id": [
+        "2056516207176462765"
+      ]
+    },
+    "author_id": "2053366838248259584",
+    "conversation_id": "2056786069631426805",
+    "created_at": "2026-05-19T17:16:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T18:16:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056786069631426805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2034700562982162432",
+          "start": 3,
+          "username": "Ibingewithdrugs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bYYD3WQ3Ny",
+          "end": 69,
+          "expanded_url": "https://x.com/Ibingewithdrugs/status/2056516207176462765/photo/1",
+          "media_key": "3_2056515940884303872",
+          "start": 46,
+          "url": "https://t.co/bYYD3WQ3Ny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056786069631426805",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056516207176462765",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ibingewithdrugs: My happy place indeed. 😊 https://t.co/bYYD3WQ3Ny"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1389,
+        "media_key": "3_2056515940884303872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIo2WjNWUAAOpJ-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056515940884303872"
+          ],
+          "media_source_tweet_id": [
+            "2056516207176462765"
+          ]
+        },
+        "author_id": "2053366838248259584",
+        "conversation_id": "2056786069631426805",
+        "created_at": "2026-05-19T17:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056786069631426805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2034700562982162432",
+              "start": 3,
+              "username": "Ibingewithdrugs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bYYD3WQ3Ny",
+              "end": 69,
+              "expanded_url": "https://x.com/Ibingewithdrugs/status/2056516207176462765/photo/1",
+              "media_key": "3_2056515940884303872",
+              "start": 46,
+              "url": "https://t.co/bYYD3WQ3Ny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056786069631426805",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056516207176462765",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ibingewithdrugs: My happy place indeed. 😊 https://t.co/bYYD3WQ3Ny"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056515940884303872"
+          ]
+        },
+        "author_id": "2034700562982162432",
+        "conversation_id": "2056516207176462765",
+        "created_at": "2026-05-18T23:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T00:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056516207176462765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bYYD3WQ3Ny",
+              "end": 48,
+              "expanded_url": "https://x.com/Ibingewithdrugs/status/2056516207176462765/photo/1",
+              "media_key": "3_2056515940884303872",
+              "start": 25,
+              "url": "https://t.co/bYYD3WQ3Ny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056516207176462765",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 17293,
+          "like_count": 693,
+          "quote_count": 7,
+          "reply_count": 25,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "My happy place indeed. 😊 https://t.co/bYYD3WQ3Ny"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|",
+        "id": "2053366838248259584",
+        "name": "酸性（二世长存）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053367859225714688/_rd_PqiO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 154,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 136
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T18:37:54.000Z",
+        "description": "The Pessimist sees difficulty in every opportunity. The Optimist sees opportunity in every difficulty",
+        "id": "2034700562982162432",
+        "name": "John Smith",
+        "pinned_tweet_id": "2055497101199413427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055499345592496128/fKuh1cqc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 289,
+          "like_count": 156,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 55
+        },
+        "username": "Ibingewithdrugs",
+        "verified": false
+      }
+    ]
+  }
+}

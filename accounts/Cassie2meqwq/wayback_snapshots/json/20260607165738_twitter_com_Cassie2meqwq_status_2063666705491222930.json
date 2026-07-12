@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2063560356061200811",
+    "created_at": "2026-06-07T16:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T17:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063666705491222930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1788098106254651392",
+          "start": 0,
+          "username": "oxieun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063666705491222930",
+    "in_reply_to_user_id": "1788098106254651392",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063560356061200811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oxieun 이 남자들은 정말 망할 거야"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2063560356061200811",
+        "created_at": "2026-06-07T16:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063666705491222930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1788098106254651392",
+              "start": 0,
+              "username": "oxieun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063666705491222930",
+        "in_reply_to_user_id": "1788098106254651392",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063560356061200811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oxieun 이 남자들은 정말 망할 거야"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788098106254651392",
+        "conversation_id": "2063560356061200811",
+        "created_at": "2026-06-07T09:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063560356061200811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/snsnokyoufu/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/snsnokyoufu/status/2063530567724114287",
+              "start": 18,
+              "url": "https://t.co/EsJXSHNnxX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063560356061200811",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 444,
+          "impression_count": 575100,
+          "like_count": 17354,
+          "quote_count": 31,
+          "reply_count": 43,
+          "retweet_count": 611
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063530567724114287",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "진짜죽어 남의몸확대해서보고 지랄 https://t.co/EsJXSHNnxX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 206,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 469
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T06:46:55.000Z",
+        "description": "말하는칸쵸",
+        "id": "1788098106254651392",
+        "name": "채은이",
+        "pinned_tweet_id": "2058759462564008360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004895604263235584/HVmLZbN7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 1920,
+          "like_count": 60888,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 21158
+        },
+        "username": "oxieun",
+        "verified": false
+      }
+    ]
+  }
+}

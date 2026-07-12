@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2068245416848613728",
+    "created_at": "2026-06-21T11:33:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T12:33:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068658601867280611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1838620535804317696",
+          "start": 0,
+          "username": "karmakarma1221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068658601867280611",
+    "in_reply_to_user_id": "1838620535804317696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068245416848613728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karmakarma1221 女神？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2068245399349907456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPiO5CWUAAiX_o.jpg",
+        "width": 768
+      },
+      {
+        "height": 768,
+        "media_key": "3_2068245399354159104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPiO5DXMAAZxCA.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2068245416848613728",
+        "created_at": "2026-06-21T11:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068658601867280611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1838620535804317696",
+              "start": 0,
+              "username": "karmakarma1221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068658601867280611",
+        "in_reply_to_user_id": "1838620535804317696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068245416848613728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karmakarma1221 女神？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068245399349907456",
+            "3_2068245399354159104"
+          ]
+        },
+        "author_id": "1838620535804317696",
+        "conversation_id": "2068245416848613728",
+        "created_at": "2026-06-20T08:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T09:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068245416848613728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sXlhCZhong",
+              "end": 37,
+              "expanded_url": "https://x.com/karmakarma1221/status/2068245416848613728/photo/1",
+              "media_key": "3_2068245399349907456",
+              "start": 14,
+              "url": "https://t.co/sXlhCZhong"
+            },
+            {
+              "display_url": "pic.x.com/sXlhCZhong",
+              "end": 37,
+              "expanded_url": "https://x.com/karmakarma1221/status/2068245416848613728/photo/1",
+              "media_key": "3_2068245399354159104",
+              "start": 14,
+              "url": "https://t.co/sXlhCZhong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068245416848613728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 989,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "晒太阳好舒服♪(´ε｀ ) https://t.co/sXlhCZhong"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 208,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 564
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T16:44:40.000Z",
+        "description": "我是蛞蝓 这里是一片狼籍 女孩子们可以和我扩列^^",
+        "id": "1838620535804317696",
+        "location": "公共厕所",
+        "name": "蛞蝓神膜拜膜拜",
+        "pinned_tweet_id": "2045369414632276022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068374958074413056/lXNJV8S8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 607,
+          "like_count": 857,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 2582
+        },
+        "url": "",
+        "username": "karmakarma1221",
+        "verified": false
+      }
+    ]
+  }
+}
