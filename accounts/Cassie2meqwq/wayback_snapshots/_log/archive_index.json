@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-12T09:55:47",
+  "last_updated": "2026-07-19T06:40:14",
   "html": {
     "https://web.archive.org/web/20260510065616if_/https://twitter.com/Cassie2meqwq/status/2053368507442884824": {
       "status": "done",
@@ -2605,18 +2605,18 @@
       "referenced_by": [
         "20260511174107_twitter_com_Cassie2meqwq_status_2053893178500227186.json"
       ],
-      "last_updated": "2026-07-12T09:48:46",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260511174107if_/https://pbs.twimg.com/media/HIDk8vjbIAEQWJa.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b837e30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:34:41",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260511174107/https://pbs.twimg.com/media/HIDk8vjbIAEQWJa.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f5587272ed0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HIFY049bQAAoXxR.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260512151724_twitter_com_Cassie2meqwq_status_2054219396374286642.json"
       ],
-      "last_updated": "2026-07-12T09:48:50",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512151724im_/https://pbs.twimg.com/media/HIFY049bQAAoXxR.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b885be0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:34:44",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512151724/https://pbs.twimg.com/media/HIFY049bQAAoXxR.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f55872d4e00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HIHFiyabYAAUtxI.jpg": {
       "status": "done",
@@ -2630,54 +2630,54 @@
       "referenced_by": [
         "20260512155041_twitter_com_Cassie2meqwq_status_2054227772395114652.json"
       ],
-      "last_updated": "2026-07-12T09:48:54",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512155041im_/https://pbs.twimg.com/media/HIIT1jFacAAJm29.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b884380>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:34:47",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512155041/https://pbs.twimg.com/media/HIIT1jFacAAJm29.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f5587315070>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HHu9raFbQAANUcN.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260512161145_twitter_com_Cassie2meqwq_status_2054233073588535649.json"
       ],
-      "last_updated": "2026-07-12T09:48:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512161145im_/https://pbs.twimg.com/media/HHu9raFbQAANUcN.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b837800>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:34:51",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512161145/https://pbs.twimg.com/media/HHu9raFbQAANUcN.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f55872d7a40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HHu9raNakAAOBGJ.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260512161145_twitter_com_Cassie2meqwq_status_2054233073588535649.json"
       ],
-      "last_updated": "2026-07-12T09:49:03",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512161145im_/https://pbs.twimg.com/media/HHu9raNakAAOBGJ.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b852e70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:34:54",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512161145/https://pbs.twimg.com/media/HHu9raNakAAOBGJ.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f5587315340>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HHu9raLbAAIO71L.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260512161145_twitter_com_Cassie2meqwq_status_2054233073588535649.json"
       ],
-      "last_updated": "2026-07-12T09:49:08",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512161145im_/https://pbs.twimg.com/media/HHu9raLbAAIO71L.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8b0c20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:34:57",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512161145/https://pbs.twimg.com/media/HHu9raLbAAIO71L.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f5587273e30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HHu9raIagAAXjLb.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260512161145_twitter_com_Cassie2meqwq_status_2054233073588535649.json"
       ],
-      "last_updated": "2026-07-12T09:49:12",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512161145im_/https://pbs.twimg.com/media/HHu9raIagAAXjLb.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b835070>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:35:00",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512161145/https://pbs.twimg.com/media/HHu9raIagAAXjLb.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f55872716a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HINPPrIaEAAT37i.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260513153229_twitter_com_Cassie2meqwq_status_2054585582375100713.json"
       ],
-      "last_updated": "2026-07-12T09:49:17",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260513153229im_/https://pbs.twimg.com/media/HINPPrIaEAAT37i.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8851c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:35:04",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260513153229/https://pbs.twimg.com/media/HINPPrIaEAAT37i.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f55873178c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HIJeaFGaoAA36k4.jpg": {
       "status": "done",
@@ -2691,9 +2691,9 @@
       "referenced_by": [
         "20260514152119_twitter_com_Cassie2meqwq_status_2054945157288701978.json"
       ],
-      "last_updated": "2026-07-12T09:49:21",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260514152119im_/https://pbs.twimg.com/media/HIRAxzQaMAAD1AR.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b853680>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:35:07",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260514152119/https://pbs.twimg.com/media/HIRAxzQaMAAD1AR.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f558733e8d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HISrZt3WMAI_8tc.jpg": {
       "status": "done",
@@ -2743,9 +2743,9 @@
         "20260515181330_twitter_com_Cassie2meqwq_status_2055350877720895869.json",
         "20260515181510_twitter_com_Cassie2meqwq_status_2055351298527236283.json"
       ],
-      "last_updated": "2026-07-12T09:49:26",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260515181330im_/https://pbs.twimg.com/media/HIYSt1ubwAAnfEN.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8b09b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-07-19T06:35:11",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260515181330/https://pbs.twimg.com/media/HIYSt1ubwAAnfEN.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f558733d520>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 9
     },
     "https://pbs.twimg.com/media/HIbHhWGa4AAdmdR.jpg": {
       "status": "done",
@@ -2787,27 +2787,27 @@
       "referenced_by": [
         "20260516164701_twitter_com_Cassie2meqwq_status_2055691502169579837.json"
       ],
-      "last_updated": "2026-07-12T09:49:30",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516164701im_/https://pbs.twimg.com/media/HIZrk_8bQAAisXe.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8524e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:35:14",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516164701/https://pbs.twimg.com/media/HIZrk_8bQAAisXe.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f558733c1d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HIZrlEza0AACQlL.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260516164701_twitter_com_Cassie2meqwq_status_2055691502169579837.json"
       ],
-      "last_updated": "2026-07-12T09:49:35",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516164701im_/https://pbs.twimg.com/media/HIZrlEza0AACQlL.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b851b80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:35:17",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516164701/https://pbs.twimg.com/media/HIZrlEza0AACQlL.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f558733ff80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HIZrlH8aAAAC9F-.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260516164701_twitter_com_Cassie2meqwq_status_2055691502169579837.json"
       ],
-      "last_updated": "2026-07-12T09:49:39",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516164701im_/https://pbs.twimg.com/media/HIZrlH8aAAAC9F-.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b884aa0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:35:23",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516164701/https://pbs.twimg.com/media/HIZrlH8aAAAC9F-.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5587317920>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HIZ8PD3bsAAwOhS.jpg": {
       "status": "done",
@@ -2828,27 +2828,27 @@
       "referenced_by": [
         "20260517083021_twitter_com_Cassie2meqwq_status_2055928897959825539.json"
       ],
-      "last_updated": "2026-07-12T09:49:43",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517083021im_/https://pbs.twimg.com/media/HIfWx1ZaEAAVtHK.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b853e00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:35:26",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517083021/https://pbs.twimg.com/media/HIfWx1ZaEAAVtHK.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f558733d9d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HIh4ofGaUAAzuBS.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260517154756_twitter_com_Cassie2meqwq_status_2056039019927216192.json"
       ],
-      "last_updated": "2026-07-12T09:49:48",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517154756im_/https://pbs.twimg.com/media/HIh4ofGaUAAzuBS.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8526f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:35:32",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517154756/https://pbs.twimg.com/media/HIh4ofGaUAAzuBS.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5587317e90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HIh4of-akAEZidx.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260517154756_twitter_com_Cassie2meqwq_status_2056039019927216192.json"
       ],
-      "last_updated": "2026-07-12T09:49:53",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517154756im_/https://pbs.twimg.com/media/HIh4of-akAEZidx.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b836690>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:35:35",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517154756/https://pbs.twimg.com/media/HIh4of-akAEZidx.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f558733dbe0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HIiD-vbWoAEX0Fi.jpg": {
       "status": "done",
@@ -2883,9 +2883,9 @@
       "referenced_by": [
         "20260518124928_twitter_com_Cassie2meqwq_status_2056356495873409102.json"
       ],
-      "last_updated": "2026-07-12T09:49:57",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260518124928im_/https://pbs.twimg.com/media/HImjJdWbsAAl0bl.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8509e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:35:42",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260518124928/https://pbs.twimg.com/media/HImjJdWbsAAl0bl.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5587317b00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HIlaSa4boAE-9vw.jpg": {
       "status": "done",
@@ -2899,18 +2899,18 @@
       "referenced_by": [
         "20260518130755_twitter_com_Cassie2meqwq_status_2056361139454513270.json"
       ],
-      "last_updated": "2026-07-12T09:50:01",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260518130755im_/https://pbs.twimg.com/media/HImF19UbsAAf8AX.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b850080>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:35:45",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260518130755/https://pbs.twimg.com/media/HImF19UbsAAf8AX.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f5587315580>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HIl93OyXcAAwTG7.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260518142518_twitter_com_Cassie2meqwq_status_2056380613079470568.json"
       ],
-      "last_updated": "2026-07-12T09:50:04",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260518142518im_/https://pbs.twimg.com/media/HIl93OyXcAAwTG7.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8b05c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:35:47",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260518142518/https://pbs.twimg.com/media/HIl93OyXcAAwTG7.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f558733d4f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HInUJuubEAAGjoZ.jpg": {
       "status": "done",
@@ -2960,43 +2960,43 @@
       "referenced_by": [
         "20260519120409_twitter_com_Cassie2meqwq_status_2056707481062297729.json"
       ],
-      "last_updated": "2026-07-12T09:39:24"
+      "last_updated": "2026-07-19T06:34:15"
     },
     "https://pbs.twimg.com/media/HIqqEofXkAAUbEl.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260519171433_twitter_com_Cassie2meqwq_status_2056785595213766679.json"
       ],
-      "last_updated": "2026-07-12T09:50:09",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260519171433if_/https://pbs.twimg.com/media/HIqqEofXkAAUbEl.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b850e30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:35:51",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260519171433im_/https://pbs.twimg.com/media/HIqqEofXkAAUbEl.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f558735c3b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HIqqEocXoAA1bhj.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260519171433_twitter_com_Cassie2meqwq_status_2056785595213766679.json"
       ],
-      "last_updated": "2026-07-12T09:50:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260519171433im_/https://pbs.twimg.com/media/HIqqEocXoAA1bhj.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b837920>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:35:54",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260519171433/https://pbs.twimg.com/media/HIqqEocXoAA1bhj.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f558733ff20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HIqqEogXsAAQK5Y.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260519171433_twitter_com_Cassie2meqwq_status_2056785595213766679.json"
       ],
-      "last_updated": "2026-07-12T09:50:17",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260519171433im_/https://pbs.twimg.com/media/HIqqEogXsAAQK5Y.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b887410>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:35:56",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260519171433/https://pbs.twimg.com/media/HIqqEogXsAAQK5Y.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f55872d7560>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HIqqEoeWsAA1HQo.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260519171433_twitter_com_Cassie2meqwq_status_2056785595213766679.json"
       ],
-      "last_updated": "2026-07-12T09:50:21",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260519171433im_/https://pbs.twimg.com/media/HIqqEoeWsAA1HQo.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314c9b3f80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:36:00",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260519171433im_/https://pbs.twimg.com/media/HIqqEoeWsAA1HQo.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5587272180>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HIo2WjNWUAAOpJ-.jpg": {
       "status": "done",
@@ -3038,14 +3038,14 @@
       "referenced_by": [
         "20260520061720_twitter_com_Cassie2meqwq_status_2056982588930363489.json"
       ],
-      "last_updated": "2026-07-12T09:39:24"
+      "last_updated": "2026-07-19T06:34:15"
     },
     "https://pbs.twimg.com/media/HIsfLUHa4AISTy8.jpg": {
       "status": "done",
       "referenced_by": [
         "20260520061720_twitter_com_Cassie2meqwq_status_2056982588930363489.json"
       ],
-      "last_updated": "2026-07-12T09:39:24"
+      "last_updated": "2026-07-19T06:34:15"
     },
     "https://pbs.twimg.com/media/HIwp8anWUAAU1TU.jpg": {
       "status": "done",
@@ -3080,18 +3080,18 @@
       "referenced_by": [
         "20260521114409_twitter_com_Cassie2meqwq_status_2057427220076036324.json"
       ],
-      "last_updated": "2026-07-12T09:50:24",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521114409im_/https://pbs.twimg.com/media/HI1iXw4WAAAHf96.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b837d70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:36:02",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521114409/https://pbs.twimg.com/media/HI1iXw4WAAAHf96.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f55872d44a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HI1jt5lXkAAmc63.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260521114615_twitter_com_Cassie2meqwq_status_2057427749816721435.json"
       ],
-      "last_updated": "2026-07-12T09:50:28",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521114615im_/https://pbs.twimg.com/media/HI1jt5lXkAAmc63.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b885f10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:36:04",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521114615/https://pbs.twimg.com/media/HI1jt5lXkAAmc63.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f558733fd10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HI2i74fa0AAi5dL.jpg": {
       "status": "done",
@@ -3105,7 +3105,7 @@
       "referenced_by": [
         "20260522064401_twitter_com_Cassie2meqwq_status_2057714077267554654.json"
       ],
-      "last_updated": "2026-07-12T09:39:24"
+      "last_updated": "2026-07-19T06:34:15"
     },
     "https://pbs.twimg.com/media/HI0k1LWa4AA6vAl.jpg": {
       "status": "done",
@@ -3133,9 +3133,9 @@
       "referenced_by": [
         "20260522190213_twitter_com_Cassie2meqwq_status_2057899851741073525.json"
       ],
-      "last_updated": "2026-07-12T09:50:31",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522190213im_/https://pbs.twimg.com/media/HI6UvtYXQAAtxXa.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314c9b3ce0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:36:08",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522190213im_/https://pbs.twimg.com/media/HI6UvtYXQAAtxXa.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f558733d790>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HI4RabSXoAAHJOn.jpg": {
       "status": "done",
@@ -3149,7 +3149,7 @@
       "referenced_by": [
         "20260523102624_twitter_com_Cassie2meqwq_status_2058132429580517514.json"
       ],
-      "last_updated": "2026-07-12T09:39:24"
+      "last_updated": "2026-07-19T06:34:15"
     },
     "https://pbs.twimg.com/media/HI_n2W6akAAOce3.jpg": {
       "status": "done",
@@ -3163,27 +3163,27 @@
       "referenced_by": [
         "20260523164108_twitter_com_Cassie2meqwq_status_2058226737797087715.json"
       ],
-      "last_updated": "2026-07-12T09:50:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260523164108im_/https://pbs.twimg.com/media/HJANjblacAAPHCi.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b835e80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:36:11",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260523164108/https://pbs.twimg.com/media/HJANjblacAAPHCi.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f558733e150>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HJFQYa6bAAATHP9.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260524114802_twitter_com_Cassie2meqwq_status_2058515360664658199.json"
       ],
-      "last_updated": "2026-07-12T09:50:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524114802im_/https://pbs.twimg.com/media/HJFQYa6bAAATHP9.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b852150>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:36:17",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524114802/https://pbs.twimg.com/media/HJFQYa6bAAATHP9.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5587c1fe30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HJELBvib0AASn1F.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260524114836_twitter_com_Cassie2meqwq_status_2058515504332181919.json"
       ],
-      "last_updated": "2026-07-12T09:50:44",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524114836im_/https://pbs.twimg.com/media/HJELBvib0AASn1F.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8b0f20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:36:20",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524114836/https://pbs.twimg.com/media/HJELBvib0AASn1F.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f558733cf50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HJEa01abAAAvj6U.jpg": {
       "status": "done",
@@ -3225,18 +3225,18 @@
       "referenced_by": [
         "20260524165329_twitter_com_Cassie2meqwq_status_2058592233155399719.json"
       ],
-      "last_updated": "2026-07-12T09:50:48",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524165329im_/https://pbs.twimg.com/media/HJE1sWEbIAAazxI.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8366c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:36:23",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524165329/https://pbs.twimg.com/media/HJE1sWEbIAAazxI.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f5587316450>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HJE1sWEa4AAH9cu.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260524165329_twitter_com_Cassie2meqwq_status_2058592233155399719.json"
       ],
-      "last_updated": "2026-07-12T09:50:53",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524165329im_/https://pbs.twimg.com/media/HJE1sWEa4AAH9cu.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8b0b00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:36:26",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524165329/https://pbs.twimg.com/media/HJE1sWEa4AAH9cu.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f55872728d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HJD0MRwbUAAAJzZ.jpg": {
       "status": "done",
@@ -3264,16 +3264,16 @@
       "referenced_by": [
         "20260525064444_twitter_com_Cassie2meqwq_status_2058801421664096351.json"
       ],
-      "last_updated": "2026-07-12T09:39:24"
+      "last_updated": "2026-07-19T06:34:15"
     },
     "https://pbs.twimg.com/media/HJKM4jUWEAAtUFl.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260525143007_twitter_com_Cassie2meqwq_status_2058918540540068225.json"
       ],
-      "last_updated": "2026-07-12T09:50:56",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260525143007im_/https://pbs.twimg.com/media/HJKM4jUWEAAtUFl.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8b0c50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:36:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260525143007im_/https://pbs.twimg.com/media/HJKM4jUWEAAtUFl.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f55872d7b30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HJJq1zCbgAAGGio.jpg": {
       "status": "done",
@@ -3287,18 +3287,18 @@
       "referenced_by": [
         "20260525170241_twitter_com_Cassie2meqwq_status_2058956936696185223.json"
       ],
-      "last_updated": "2026-07-12T09:51:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260525170241/https://pbs.twimg.com/media/HJLhA3vbkAA4MsA.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8537d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:36:34",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260525170241im_/https://pbs.twimg.com/media/HJLhA3vbkAA4MsA.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f55872d5520>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HJLhA3wasAAXqaJ.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260525170241_twitter_com_Cassie2meqwq_status_2058956936696185223.json"
       ],
-      "last_updated": "2026-07-12T09:51:11",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260525170241im_/https://pbs.twimg.com/media/HJLhA3wasAAXqaJ.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8b0440>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:36:37",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260525170241/https://pbs.twimg.com/media/HJLhA3wasAAXqaJ.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f5587272c60>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HJOVxWKaUAEH67d.jpg": {
       "status": "done",
@@ -3326,9 +3326,9 @@
       "referenced_by": [
         "20260526123511_twitter_com_Cassie2meqwq_status_2059252002400715158.json"
       ],
-      "last_updated": "2026-07-12T09:51:15",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260526123511im_/https://pbs.twimg.com/media/HJPWgVlboAEu2l4.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b852780>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:36:43",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260526123511/https://pbs.twimg.com/media/HJPWgVlboAEu2l4.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f558735ca70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HJQIUOhaQAAH0YH.jpg": {
       "status": "done",
@@ -3370,52 +3370,52 @@
       "referenced_by": [
         "20260527163711_twitter_com_Cassie2meqwq_status_2059675295247175747.json"
       ],
-      "last_updated": "2026-07-12T09:39:28"
+      "last_updated": "2026-07-19T06:34:20"
     },
     "https://pbs.twimg.com/media/HJVxtSdbEAgqeg6.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260527164831_twitter_com_Cassie2meqwq_status_2059678144106532979.json"
       ],
-      "last_updated": "2026-07-12T09:51:20",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260527164831im_/https://pbs.twimg.com/media/HJVxtSdbEAgqeg6.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b885f70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:36:48",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260527164831im_/https://pbs.twimg.com/media/HJVxtSdbEAgqeg6.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5587317d10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HJZo-Fca0AA3Yt1.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260528155656_twitter_com_Cassie2meqwq_status_2060027551242952743.json"
       ],
-      "last_updated": "2026-07-12T09:51:23",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528155656im_/https://pbs.twimg.com/media/HJZo-Fca0AA3Yt1.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8b2450>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:36:51",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528155656/https://pbs.twimg.com/media/HJZo-Fca0AA3Yt1.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f55872d7fe0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HJZo-HkaMAACM3j.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260528155656_twitter_com_Cassie2meqwq_status_2060027551242952743.json"
       ],
-      "last_updated": "2026-07-12T09:51:27",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528155656im_/https://pbs.twimg.com/media/HJZo-HkaMAACM3j.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b835550>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:36:53",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528155656/https://pbs.twimg.com/media/HJZo-HkaMAACM3j.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f558735eae0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HJZo-GoaYAANDwc.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260528155656_twitter_com_Cassie2meqwq_status_2060027551242952743.json"
       ],
-      "last_updated": "2026-07-12T09:51:31",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528155656im_/https://pbs.twimg.com/media/HJZo-GoaYAANDwc.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b884aa0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:36:58",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528155656im_/https://pbs.twimg.com/media/HJZo-GoaYAANDwc.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f55872d46b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HJZo-K7aYAAkJ4x.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260528155656_twitter_com_Cassie2meqwq_status_2060027551242952743.json"
       ],
-      "last_updated": "2026-07-12T09:51:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528155656if_/https://pbs.twimg.com/media/HJZo-K7aYAAkJ4x.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8b06b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:37:03",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528155656/https://pbs.twimg.com/media/HJZo-K7aYAAkJ4x.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5587316e10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HJaecY7awAE_8YL.jpg": {
       "status": "done",
@@ -3429,27 +3429,27 @@
       "referenced_by": [
         "20260528192826_twitter_com_Cassie2meqwq_status_2060080777963192572.json"
       ],
-      "last_updated": "2026-07-12T09:51:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528192826im_/https://pbs.twimg.com/media/HHExZp7bQAAWv-8.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b836330>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:37:05",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528192826/https://pbs.twimg.com/media/HHExZp7bQAAWv-8.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f558735ccb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HHExZpnaEAAUcZx.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260528192826_twitter_com_Cassie2meqwq_status_2060080777963192572.json"
       ],
-      "last_updated": "2026-07-12T09:51:43",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528192826im_/https://pbs.twimg.com/media/HHExZpnaEAAUcZx.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8510d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:37:08",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528192826/https://pbs.twimg.com/media/HHExZpnaEAAUcZx.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f5587272930>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HHExZwMasAAoY4m.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260528192826_twitter_com_Cassie2meqwq_status_2060080777963192572.json"
       ],
-      "last_updated": "2026-07-12T09:51:47",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528192826im_/https://pbs.twimg.com/media/HHExZwMasAAoY4m.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b887e60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:37:11",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528192826im_/https://pbs.twimg.com/media/HHExZwMasAAoY4m.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5587314d40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HJf9k6cbEAA_KfN.jpg": {
       "status": "done",
@@ -3463,9 +3463,9 @@
       "referenced_by": [
         "20260529173421_twitter_com_Cassie2meqwq_status_2060414454102417457.json"
       ],
-      "last_updated": "2026-07-12T09:51:52",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260529173421im_/https://pbs.twimg.com/media/HJaoBTwaUAAtZqF.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b835bb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:37:15",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260529173421/https://pbs.twimg.com/media/HJaoBTwaUAAtZqF.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f5587314b90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HJgegFgaAAAwglU.jpg": {
       "status": "done",
@@ -3563,9 +3563,9 @@
       "referenced_by": [
         "20260531155722_twitter_com_Cassie2meqwq_status_2061114824848023720.json"
       ],
-      "last_updated": "2026-07-12T09:51:55",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531155722im_/https://pbs.twimg.com/media/HJqNAR9akAACNhB.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b852930>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:37:20",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531155722im_/https://pbs.twimg.com/media/HJqNAR9akAACNhB.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5587272000>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HJgXGxIW0AMSS4j.jpg": {
       "status": "failed",
@@ -3573,9 +3573,9 @@
         "20260531160020_twitter_com_Cassie2meqwq_status_2061115571752858068.json",
         "20260531160031_twitter_com_Cassie2meqwq_status_2061115618200580399.json"
       ],
-      "last_updated": "2026-07-12T09:52:00",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531160020if_/https://pbs.twimg.com/media/HJgXGxIW0AMSS4j.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8e09e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-07-19T06:37:23",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531160020/https://pbs.twimg.com/media/HJgXGxIW0AMSS4j.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f558733e360>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 9
     },
     "https://pbs.twimg.com/media/HJqQ_H_bIAEf4Dy.jpg": {
       "status": "done",
@@ -3633,9 +3633,9 @@
         "20260601122616_twitter_com_Cassie2meqwq_status_2061424087986241985.json",
         "20260601122637_twitter_com_Cassie2meqwq_status_2061424176003739765.json"
       ],
-      "last_updated": "2026-07-12T09:52:04",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260601122616im_/https://pbs.twimg.com/media/HJuJEPBakAAnnDL.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b886600>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-07-19T06:37:26",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260601122616/https://pbs.twimg.com/media/HJuJEPBakAAnnDL.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f55873152b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 9
     },
     "https://pbs.twimg.com/media/HJuJEPZa8AA6sqi.jpg": {
       "status": "failed",
@@ -3643,16 +3643,16 @@
         "20260601122616_twitter_com_Cassie2meqwq_status_2061424087986241985.json",
         "20260601122637_twitter_com_Cassie2meqwq_status_2061424176003739765.json"
       ],
-      "last_updated": "2026-07-12T09:52:08",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260601122616im_/https://pbs.twimg.com/media/HJuJEPZa8AA6sqi.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b884d40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-07-19T06:37:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260601122616im_/https://pbs.twimg.com/media/HJuJEPZa8AA6sqi.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5587429cd0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 9
     },
     "https://pbs.twimg.com/media/HJq3-BYasAEFnKv.jpg": {
       "status": "done",
       "referenced_by": [
         "20260601125837_twitter_com_Cassie2meqwq_status_2061432226819260612.json"
       ],
-      "last_updated": "2026-07-12T09:39:29"
+      "last_updated": "2026-07-19T06:34:25"
     },
     "https://pbs.twimg.com/media/HJt32vRaEAAOS4f.jpg": {
       "status": "done",
@@ -3683,9 +3683,9 @@
       "referenced_by": [
         "20260602092224_twitter_com_Cassie2meqwq_status_2061740204680212606.json"
       ],
-      "last_updated": "2026-07-12T09:52:12",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260602092224im_/https://pbs.twimg.com/media/HJufYvVbEAA6q49.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8b0350>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:37:32",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260602092224/https://pbs.twimg.com/media/HJufYvVbEAA6q49.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f5587272f00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HJv6G5UaUAALtwj.jpg": {
       "status": "done",
@@ -3715,9 +3715,9 @@
         "20260603155920_twitter_com_Cassie2meqwq_status_2062202483326570963.json",
         "20260603155927_twitter_com_Cassie2meqwq_status_2062202514049790297.json"
       ],
-      "last_updated": "2026-07-12T09:52:16",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260603155920im_/https://pbs.twimg.com/media/HJ5Bz05bkAEb69u.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b884350>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-07-19T06:37:34",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260603155920/https://pbs.twimg.com/media/HJ5Bz05bkAEb69u.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f558735ce60>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 9
     },
     "https://pbs.twimg.com/media/HJ5umW8agAAJF8R.jpg": {
       "status": "done",
@@ -3745,18 +3745,18 @@
       "referenced_by": [
         "20260604133047_twitter_com_Cassie2meqwq_status_2062527487553544671.json"
       ],
-      "last_updated": "2026-07-12T09:52:20",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260604133047im_/https://pbs.twimg.com/media/HJ-Rz5vaYAAgNcl.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b886720>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:37:39",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260604133047im_/https://pbs.twimg.com/media/HJ-Rz5vaYAAgNcl.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f558735c1d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HJ-Rz5ta0AAcVUN.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260604133047_twitter_com_Cassie2meqwq_status_2062527487553544671.json"
       ],
-      "last_updated": "2026-07-12T09:52:24",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260604133047im_/https://pbs.twimg.com/media/HJ-Rz5ta0AAcVUN.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8b13d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:37:42",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260604133047/https://pbs.twimg.com/media/HJ-Rz5ta0AAcVUN.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f55872731a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HJ6I0RRbQAAHCMI.jpg": {
       "status": "done",
@@ -3794,9 +3794,9 @@
       "referenced_by": [
         "20260605104727_twitter_com_Cassie2meqwq_status_2062848768807145941.json"
       ],
-      "last_updated": "2026-07-12T09:52:32",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260605104727im_/https://pbs.twimg.com/media/HKCuD_6bAAAxnuv.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b886f30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:37:48",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260605104727if_/https://pbs.twimg.com/media/HKCuD_6bAAAxnuv.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f55872d56a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HKC3LbDa0AAGKTL.jpg": {
       "status": "done",
@@ -3817,18 +3817,18 @@
       "referenced_by": [
         "20260605162257_twitter_com_Cassie2meqwq_status_2062933202319360211.json"
       ],
-      "last_updated": "2026-07-12T09:52:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260605162257im_/https://pbs.twimg.com/media/HKECzkVa4AA9wp1.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8e0bc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:38:13",
+      "last_reason": "ReadTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out. (read timeout=8)",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HKEI6dgaEAATHu6.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260605165331_twitter_com_Cassie2meqwq_status_2062940893473329404.json"
       ],
-      "last_updated": "2026-07-12T09:52:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260605165331im_/https://pbs.twimg.com/media/HKEI6dgaEAATHu6.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8b2600>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:38:45",
+      "last_reason": "ReadTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out. (read timeout=8)",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HKEx0_Ka8AA1q7i.jpg": {
       "status": "done",
@@ -3849,9 +3849,9 @@
       "referenced_by": [
         "20260606093221_twitter_com_Cassie2meqwq_status_2063192260318282076.json"
       ],
-      "last_updated": "2026-07-12T09:52:44",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260606093221im_/https://pbs.twimg.com/media/HKHpRnIbEAETtL3.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8e25a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:38:49",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260606093221im_/https://pbs.twimg.com/media/HKHpRnIbEAETtL3.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5587315730>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HKDI9bDbcAAwMoz.jpg": {
       "status": "done",
@@ -3887,9 +3887,9 @@
       "referenced_by": [
         "20260607134909_twitter_com_Cassie2meqwq_status_2063619273218789610.json"
       ],
-      "last_updated": "2026-07-12T09:52:48",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260607134909im_/https://pbs.twimg.com/media/HKNyyFubUAANGWJ.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8e3b60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:39:02",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260607134909if_/https://pbs.twimg.com/media/HKNyyFubUAANGWJ.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5587317ec0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HKOLF5gakAAjxEY.jpg": {
       "status": "done",
@@ -3911,9 +3911,9 @@
         "20260607164753_twitter_com_Cassie2meqwq_status_2063664253866062307.json",
         "20260607165228_twitter_com_Cassie2meqwq_status_2063665405336637930.json"
       ],
-      "last_updated": "2026-07-12T09:52:52",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260607164753im_/https://pbs.twimg.com/media/HKObsdTbkAAzlv-.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b835400>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-07-19T06:39:07",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260607164753im_/https://pbs.twimg.com/media/HKObsdTbkAAzlv-.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f558733d310>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 9
     },
     "https://pbs.twimg.com/media/HKMvlwtbsAAJH4p.jpg": {
       "status": "done",
@@ -3921,7 +3921,7 @@
         "20260607165842_twitter_com_Cassie2meqwq_status_2063666973716963523.json",
         "20260607165855_twitter_com_Cassie2meqwq_status_2063667028914036743.json"
       ],
-      "last_updated": "2026-07-12T09:39:32"
+      "last_updated": "2026-07-19T06:34:27"
     },
     "https://pbs.twimg.com/media/HKM8CkgbwAA0hKf.jpg": {
       "status": "done",
@@ -3970,7 +3970,7 @@
       "referenced_by": [
         "20260608140711_twitter_com_Cassie2meqwq_status_2063986200004964425.json"
       ],
-      "last_updated": "2026-07-12T09:39:32"
+      "last_updated": "2026-07-19T06:34:27"
     },
     "https://pbs.twimg.com/media/HKQVTElXYAAaP1T.jpg": {
       "status": "done",
@@ -4065,9 +4065,9 @@
       "referenced_by": [
         "20260617143925_twitter_com_Cassie2meqwq_status_2067255799697854872.json"
       ],
-      "last_updated": "2026-07-12T09:52:57",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260617143925im_/https://pbs.twimg.com/media/HK_1rzob0AAey_k.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b837170>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:39:12",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260617143925im_/https://pbs.twimg.com/media/HK_1rzob0AAey_k.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f55872d5130>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HK-0u7GboAA5SYQ.jpg": {
       "status": "done",
@@ -4130,30 +4130,30 @@
       "referenced_by": [
         "20260618092107_twitter_com_Cassie2meqwq_status_2067538086247219222.json"
       ],
-      "last_updated": "2026-07-12T09:39:33"
+      "last_updated": "2026-07-19T06:34:28"
     },
     "https://pbs.twimg.com/media/HLByIMKboAA2O4P.jpg": {
       "status": "done",
       "referenced_by": [
         "20260618092107_twitter_com_Cassie2meqwq_status_2067538086247219222.json"
       ],
-      "last_updated": "2026-07-12T09:39:33"
+      "last_updated": "2026-07-19T06:34:28"
     },
     "https://pbs.twimg.com/media/HLFNXGZWEAAtyTC.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260618092116_twitter_com_Cassie2meqwq_status_2067538125736530110.json"
       ],
-      "last_updated": "2026-07-12T09:53:01",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260618092116im_/https://pbs.twimg.com/media/HLFNXGZWEAAtyTC.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8872c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:39:16",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260618092116im_/https://pbs.twimg.com/media/HLFNXGZWEAAtyTC.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5587314a10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HLDX62FbcAAIfH0.jpg": {
       "status": "done",
       "referenced_by": [
         "20260618092255_twitter_com_Cassie2meqwq_status_2067538540221866056.json"
       ],
-      "last_updated": "2026-07-12T09:39:33"
+      "last_updated": "2026-07-19T06:34:28"
     },
     "https://pbs.twimg.com/media/HLG4LpwbYAARI5d.jpg": {
       "status": "done",
@@ -4174,18 +4174,18 @@
       "referenced_by": [
         "20260619061812_twitter_com_Cassie2meqwq_status_2067854443853615354.json"
       ],
-      "last_updated": "2026-07-12T09:53:05",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260619061812im_/https://pbs.twimg.com/media/HLJwc3Ha0AAqcnB.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8522d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:39:20",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260619061812im_/https://pbs.twimg.com/media/HLJwc3Ha0AAqcnB.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f558735c350>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HLTGGjGbEAA43sd.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260621113310_twitter_com_Cassie2meqwq_status_2068658479678775472.json"
       ],
-      "last_updated": "2026-07-12T09:53:09",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260621113310if_/https://pbs.twimg.com/media/HLTGGjGbEAA43sd.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8e1310>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:39:25",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260621113310im_/https://pbs.twimg.com/media/HLTGGjGbEAA43sd.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f55872d5340>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HLPiO5CWUAAiX_o.jpg": {
       "status": "done",
@@ -4206,27 +4206,27 @@
       "referenced_by": [
         "20260625133302_twitter_com_Cassie2meqwq_status_2070138198920167665.json"
       ],
-      "last_updated": "2026-07-12T09:53:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260625133302im_/https://pbs.twimg.com/media/HLnvSA2agAA0LY_.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8e3860>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:39:29",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260625133302im_/https://pbs.twimg.com/media/HLnvSA2agAA0LY_.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f558733d1c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HLnvSA4akAAQp72.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260625133302_twitter_com_Cassie2meqwq_status_2070138198920167665.json"
       ],
-      "last_updated": "2026-07-12T09:53:17",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260625133302im_/https://pbs.twimg.com/media/HLnvSA4akAAQp72.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8b3fb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:39:41",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260625133302if_/https://pbs.twimg.com/media/HLnvSA4akAAQp72.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5587314a40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HLnvSA4aEAAzmaH.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260625133302_twitter_com_Cassie2meqwq_status_2070138198920167665.json"
       ],
-      "last_updated": "2026-07-12T09:53:21",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260625133302im_/https://pbs.twimg.com/media/HLnvSA4aEAAzmaH.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8e2480>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:39:45",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260625133302im_/https://pbs.twimg.com/media/HLnvSA4aEAAzmaH.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f55872d4f50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HLoSiUBbgAA6dc_.jpg": {
       "status": "done",
@@ -4254,9 +4254,9 @@
       "referenced_by": [
         "20260626050801_twitter_com_Cassie2meqwq_status_2070373495150952541.json"
       ],
-      "last_updated": "2026-07-12T09:53:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260626050801im_/https://pbs.twimg.com/media/HLtxtoEasAACn11.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8368d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:39:50",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260626050801im_/https://pbs.twimg.com/media/HLtxtoEasAACn11.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5587316bd0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HLt31pia8AAd_yT.jpg": {
       "status": "done",
@@ -4270,18 +4270,18 @@
       "referenced_by": [
         "20260626122113_twitter_com_Cassie2meqwq_status_2070482514033160358.json"
       ],
-      "last_updated": "2026-07-12T09:53:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260626122113im_/https://pbs.twimg.com/media/HLuWsHHbAAAqNGe.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8862d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:39:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260626122113im_/https://pbs.twimg.com/media/HLuWsHHbAAAqNGe.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5587317fe0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HLylu32aAAADHbR.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260627064357_twitter_com_Cassie2meqwq_status_2070760024360845367.json"
       ],
-      "last_updated": "2026-07-12T09:53:33",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260627064357im_/https://pbs.twimg.com/media/HLylu32aAAADHbR.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8e3e30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:39:59",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260627064357im_/https://pbs.twimg.com/media/HLylu32aAAADHbR.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f558733cec0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HLvzjrKaEAAm5d3.jpg": {
       "status": "done",
@@ -4317,18 +4317,18 @@
         "20260628163135_twitter_com_Cassie2meqwq_status_2071270294317306350.json",
         "20260628163502_twitter_com_Cassie2meqwq_status_2071271165721739413.json"
       ],
-      "last_updated": "2026-07-12T09:53:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260628163135im_/https://pbs.twimg.com/media/HL6hWYcacAAvMYO.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8b2000>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-07-19T06:40:04",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260628163135im_/https://pbs.twimg.com/media/HL6hWYcacAAvMYO.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5587316060>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 9
     },
     "https://pbs.twimg.com/media/HL6iJG5bcAACw8h.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260628163502_twitter_com_Cassie2meqwq_status_2071271165721739413.json"
       ],
-      "last_updated": "2026-07-12T09:53:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260628163502im_/https://pbs.twimg.com/media/HL6iJG5bcAACw8h.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8341d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:40:09",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260628163502im_/https://pbs.twimg.com/media/HL6iJG5bcAACw8h.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f55872728d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HL-M60lacAATyLh.jpg": {
       "status": "done",
@@ -4370,9 +4370,9 @@
       "referenced_by": [
         "20260701130712_twitter_com_Cassie2meqwq_status_2072306022765457654.json"
       ],
-      "last_updated": "2026-07-12T09:53:45",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260701130712im_/https://pbs.twimg.com/media/HMI_lswXkAAZUvc.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f314b8e1130>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-19T06:40:14",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260701130712im_/https://pbs.twimg.com/media/HMI_lswXkAAZUvc.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f55872d6db0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HMKllR9aQAER4sZ.jpg": {
       "status": "done",
@@ -7444,8 +7444,8 @@
           "https://pbs.twimg.com/profile_images/2053367859225714688/_rd_PqiO_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:20",
+      "miss_count": 3
     },
     "20260511174656_twitter_com_Cassie2meqwq_status_2053894641569960164.json": {
       "status": "done",
@@ -7571,8 +7571,8 @@
           "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:27",
+      "miss_count": 3
     },
     "20260512151816_twitter_com_Cassie2meqwq_status_2054219615115612401.json": {
       "status": "done",
@@ -7624,8 +7624,8 @@
           "https://pbs.twimg.com/profile_images/1910981379568918528/eXWWa22__normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:24",
+      "miss_count": 3
     },
     "20260512155133_twitter_com_Cassie2meqwq_status_2054227990478016549.json": {
       "status": "done",
@@ -7654,8 +7654,8 @@
           "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:32",
+      "miss_count": 3
     },
     "20260513152928_twitter_com_Cassie2meqwq_status_2054584823004676538.json": {
       "status": "done",
@@ -7693,8 +7693,8 @@
           "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:27",
+      "miss_count": 3
     },
     "20260513153416_twitter_com_Cassie2meqwq_status_2054586029466919074.json": {
       "status": "done",
@@ -7771,8 +7771,8 @@
           "https://pbs.twimg.com/profile_images/2054248063355731968/s2UfdD9A_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:20",
+      "miss_count": 3
     },
     "20260514152729_twitter_com_Cassie2meqwq_status_2054946710569578610.json": {
       "status": "done",
@@ -8124,8 +8124,8 @@
           "https://pbs.twimg.com/profile_images/2053367859225714688/_rd_PqiO_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:27",
+      "miss_count": 3
     },
     "20260515181510_twitter_com_Cassie2meqwq_status_2055351298527236283.json": {
       "status": "failed",
@@ -8138,8 +8138,8 @@
           "https://pbs.twimg.com/profile_images/2053367859225714688/_rd_PqiO_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:24",
+      "miss_count": 3
     },
     "20260516092005_twitter_com_Cassie2meqwq_status_2055579028506198194.json": {
       "status": "done",
@@ -8272,8 +8272,8 @@
           "https://pbs.twimg.com/profile_images/2053457206776098816/0Kfxhz-Y_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:27",
+      "miss_count": 3
     },
     "20260516164959_twitter_com_Cassie2meqwq_status_2055692247811924444.json": {
       "status": "done",
@@ -8338,8 +8338,8 @@
           "https://pbs.twimg.com/profile_images/2055839447988797440/V5Cdl4lq_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:25",
+      "miss_count": 3
     },
     "20260517083041_twitter_com_Cassie2meqwq_status_2055928981736882434.json": {
       "status": "done",
@@ -8399,8 +8399,8 @@
           "https://pbs.twimg.com/profile_images/2052415806060052480/oqEnMFHu_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:15",
+      "miss_count": 3
     },
     "20260517154756_twitter_com_Cassie2meqwq_status_2056039019927216192.json": {
       "status": "failed",
@@ -8415,8 +8415,8 @@
           "https://pbs.twimg.com/profile_images/2024139862908002305/H8Uz73bI_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:31",
+      "miss_count": 3
     },
     "20260517154839_twitter_com_Cassie2meqwq_status_2056039199325954246.json": {
       "status": "done",
@@ -8617,8 +8617,8 @@
           "https://pbs.twimg.com/profile_images/2048059698948263936/IChWanrt_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:24",
+      "miss_count": 3
     },
     "20260518125101_twitter_com_Cassie2meqwq_status_2056356884102463529.json": {
       "status": "done",
@@ -8658,8 +8658,8 @@
           "https://pbs.twimg.com/profile_images/2048059698948263936/IChWanrt_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:24",
+      "miss_count": 3
     },
     "20260518142518_twitter_com_Cassie2meqwq_status_2056380613079470568.json": {
       "status": "failed",
@@ -8673,8 +8673,8 @@
           "https://pbs.twimg.com/profile_images/2049161364501880832/C2cBiv30_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:26",
+      "miss_count": 3
     },
     "20260518161235_twitter_com_Cassie2meqwq_status_2056407611923378208.json": {
       "status": "done",
@@ -8906,8 +8906,8 @@
           "https://pbs.twimg.com/profile_images/2053796504444518400/ZGP9oSeo_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:15",
+      "miss_count": 3
     },
     "20260519120421_twitter_com_Cassie2meqwq_status_2056707527564558710.json": {
       "status": "done",
@@ -9053,8 +9053,8 @@
           "https://pbs.twimg.com/profile_images/2055706941519962112/mGFKj7xd_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:15",
+      "miss_count": 3
     },
     "20260519171210_twitter_com_Cassie2meqwq_status_2056784995558248713.json": {
       "status": "done",
@@ -9083,8 +9083,8 @@
           "https://pbs.twimg.com/profile_images/2005628761568395264/5fGcbInm_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:34",
+      "miss_count": 3
     },
     "20260519171626_twitter_com_Cassie2meqwq_status_2056786069631426805.json": {
       "status": "done",
@@ -9179,8 +9179,8 @@
           "https://pbs.twimg.com/profile_images/2023120226146230272/bLYGGUnm_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:15",
+      "miss_count": 3
     },
     "20260520115423_twitter_com_Cassie2meqwq_status_2057067410772111618.json": {
       "status": "done",
@@ -9343,8 +9343,8 @@
           "https://pbs.twimg.com/profile_images/2049161364501880832/C2cBiv30_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:24",
+      "miss_count": 3
     },
     "20260521114615_twitter_com_Cassie2meqwq_status_2057427749816721435.json": {
       "status": "failed",
@@ -9358,8 +9358,8 @@
           "https://pbs.twimg.com/profile_images/2049161364501880832/C2cBiv30_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:27",
+      "miss_count": 3
     },
     "20260521143030_twitter_com_Cassie2meqwq_status_2057469083533377959.json": {
       "status": "done",
@@ -9494,8 +9494,8 @@
           "https://pbs.twimg.com/profile_images/2056106628051619841/RXKsBEfx_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:15",
+      "miss_count": 3
     },
     "20260522115239_twitter_com_Cassie2meqwq_status_2057791747632324961.json": {
       "status": "done",
@@ -9573,8 +9573,8 @@
           "https://pbs.twimg.com/profile_images/2049161364501880832/C2cBiv30_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:27",
+      "miss_count": 3
     },
     "20260522190655_twitter_com_Cassie2meqwq_status_2057901034669056381.json": {
       "status": "done",
@@ -9613,8 +9613,8 @@
           "https://pbs.twimg.com/profile_images/2057884436088115201/N8YB47Cf_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:15",
+      "miss_count": 3
     },
     "20260523102647_twitter_com_Cassie2meqwq_status_2058132527450402971.json": {
       "status": "done",
@@ -9702,8 +9702,8 @@
           "https://pbs.twimg.com/profile_images/2056179460823805952/Dg0JD-QG_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:25",
+      "miss_count": 3
     },
     "20260523164136_twitter_com_Cassie2meqwq_status_2058226854600007986.json": {
       "status": "done",
@@ -9803,8 +9803,8 @@
           "https://pbs.twimg.com/profile_images/2056179460823805952/Dg0JD-QG_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:24",
+      "miss_count": 3
     },
     "20260524114836_twitter_com_Cassie2meqwq_status_2058515504332181919.json": {
       "status": "failed",
@@ -9818,8 +9818,8 @@
           "https://pbs.twimg.com/profile_images/1910981379568918528/eXWWa22__normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:27",
+      "miss_count": 3
     },
     "20260524114851_twitter_com_Cassie2meqwq_status_2058515566688940082.json": {
       "status": "done",
@@ -10137,8 +10137,8 @@
           "https://pbs.twimg.com/profile_images/2052475760838090752/lUWT6HAw_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:15",
+      "miss_count": 3
     },
     "20260524165329_twitter_com_Cassie2meqwq_status_2058592233155399719.json": {
       "status": "failed",
@@ -10155,8 +10155,8 @@
           "https://pbs.twimg.com/profile_images/2056284477903790080/C4bMihAD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:06",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:28",
+      "miss_count": 3
     },
     "20260524165838_twitter_com_Cassie2meqwq_status_2058593526615867432.json": {
       "status": "done",
@@ -10424,8 +10424,8 @@
           "https://pbs.twimg.com/profile_images/2057884436088115201/N8YB47Cf_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:15",
+      "miss_count": 3
     },
     "20260525143007_twitter_com_Cassie2meqwq_status_2058918540540068225.json": {
       "status": "failed",
@@ -10439,8 +10439,8 @@
           "https://pbs.twimg.com/profile_images/2056179460823805952/Dg0JD-QG_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:24",
+      "miss_count": 3
     },
     "20260525151612_twitter_com_Cassie2meqwq_status_2058930137060815226.json": {
       "status": "done",
@@ -10517,8 +10517,8 @@
           "https://pbs.twimg.com/profile_images/2056179460823805952/Dg0JD-QG_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:23",
+      "miss_count": 3
     },
     "20260525170538_twitter_com_Cassie2meqwq_status_2058957678748311636.json": {
       "status": "done",
@@ -10578,8 +10578,8 @@
           "https://pbs.twimg.com/profile_images/2054966213231706112/5GJyg0EY_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:15",
+      "miss_count": 3
     },
     "20260525184537_twitter_com_Cassie2meqwq_status_2058982837991493886.json": {
       "status": "failed",
@@ -10591,8 +10591,8 @@
           "https://pbs.twimg.com/profile_images/2054966213231706112/5GJyg0EY_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:15",
+      "miss_count": 3
     },
     "20260526070401_twitter_com_Cassie2meqwq_status_2059168661307584649.json": {
       "status": "done",
@@ -10730,8 +10730,8 @@
           "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:20",
+      "miss_count": 3
     },
     "20260526124656_twitter_com_Cassie2meqwq_status_2059254962216128753.json": {
       "status": "done",
@@ -10807,8 +10807,8 @@
           "https://pbs.twimg.com/profile_images/2059128157223915520/nZxPrP-p_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:05",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:20",
+      "miss_count": 3
     },
     "20260526184439_twitter_com_Cassie2meqwq_status_2059344985305350371.json": {
       "status": "done",
@@ -10873,8 +10873,8 @@
           "https://pbs.twimg.com/profile_images/2058826934898065408/PrNM0JtM_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:20",
+      "miss_count": 3
     },
     "20260527163736_twitter_com_Cassie2meqwq_status_2059675400012501346.json": {
       "status": "done",
@@ -10922,8 +10922,8 @@
           "https://pbs.twimg.com/profile_images/1989222275498012674/zZ3PsBCt_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:24",
+      "miss_count": 3
     },
     "20260527165718_twitter_com_Cassie2meqwq_status_2059680353762361482.json": {
       "status": "done",
@@ -11068,8 +11068,8 @@
           "https://pbs.twimg.com/profile_images/1910981379568918528/eXWWa22__normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:33",
+      "miss_count": 3
     },
     "20260528155811_twitter_com_Cassie2meqwq_status_2060027868407877935.json": {
       "status": "done",
@@ -11099,8 +11099,8 @@
           "https://pbs.twimg.com/profile_images/1910981379568918528/eXWWa22__normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:29",
+      "miss_count": 3
     },
     "20260529075342_twitter_com_Cassie2meqwq_status_2060268330129527105.json": {
       "status": "done",
@@ -11136,8 +11136,8 @@
           "https://pbs.twimg.com/profile_images/2055653287622496256/8xzD9Obe_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:23",
+      "miss_count": 3
     },
     "20260529161346_twitter_com_Cassie2meqwq_status_2060394176215486826.json": {
       "status": "done",
@@ -11164,8 +11164,8 @@
           "https://pbs.twimg.com/profile_images/2053840204767891456/ZbYQ_j1T_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:27",
+      "miss_count": 3
     },
     "20260529183605_twitter_com_Cassie2meqwq_status_2060429992832676108.json": {
       "status": "done",
@@ -11269,8 +11269,8 @@
           "https://pbs.twimg.com/profile_images/2059571555391434752/vXfwsr_B_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:24",
+      "miss_count": 3
     },
     "20260530113831_twitter_com_Cassie2meqwq_status_2060687294252920849.json": {
       "status": "done",
@@ -11385,8 +11385,8 @@
           "https://pbs.twimg.com/profile_images/2053840204767891456/ZbYQ_j1T_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:24",
+      "miss_count": 3
     },
     "20260531072348_twitter_com_Cassie2meqwq_status_2060985580977332496.json": {
       "status": "done",
@@ -11542,8 +11542,8 @@
           "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:28",
+      "miss_count": 3
     },
     "20260531160020_twitter_com_Cassie2meqwq_status_2061115571752858068.json": {
       "status": "failed",
@@ -11557,8 +11557,8 @@
           "https://pbs.twimg.com/profile_images/2041329345986465792/BjtB-nzu_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:27",
+      "miss_count": 3
     },
     "20260531160031_twitter_com_Cassie2meqwq_status_2061115618200580399.json": {
       "status": "failed",
@@ -11573,8 +11573,8 @@
           "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:27",
+      "miss_count": 3
     },
     "20260531160203_twitter_com_Cassie2meqwq_status_2061116004793778233.json": {
       "status": "done",
@@ -11850,8 +11850,8 @@
           "https://pbs.twimg.com/profile_images/1810696532620107776/AZkUpTIP_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:32",
+      "miss_count": 3
     },
     "20260601122637_twitter_com_Cassie2meqwq_status_2061424176003739765.json": {
       "status": "failed",
@@ -11867,8 +11867,8 @@
           "https://pbs.twimg.com/profile_images/1887895039277223936/7QmCebUw_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:31",
+      "miss_count": 3
     },
     "20260601125837_twitter_com_Cassie2meqwq_status_2061432226819260612.json": {
       "status": "failed",
@@ -11882,8 +11882,8 @@
           "https://pbs.twimg.com/profile_images/2052475760838090752/lUWT6HAw_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:25",
+      "miss_count": 3
     },
     "20260601161751_twitter_com_Cassie2meqwq_status_2061482365592191086.json": {
       "status": "done",
@@ -11942,8 +11942,8 @@
           "https://pbs.twimg.com/profile_images/2061411783672487936/9xrrz5TC_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:28",
+      "miss_count": 3
     },
     "20260602092306_twitter_com_Cassie2meqwq_status_2061740381939880334.json": {
       "status": "done",
@@ -12191,8 +12191,8 @@
           "https://pbs.twimg.com/profile_images/2062155251554369536/8J-cbAgs_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:27",
+      "miss_count": 3
     },
     "20260603155927_twitter_com_Cassie2meqwq_status_2062202514049790297.json": {
       "status": "failed",
@@ -12207,8 +12207,8 @@
           "https://pbs.twimg.com/profile_images/2045911444726988800/jaAZ8MW-_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:28",
+      "miss_count": 3
     },
     "20260603160820_twitter_com_Cassie2meqwq_status_2062204746006749525.json": {
       "status": "done",
@@ -12494,8 +12494,8 @@
           "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:32",
+      "miss_count": 3
     },
     "20260604133716_twitter_com_Cassie2meqwq_status_2062529118223421527.json": {
       "status": "done",
@@ -12603,8 +12603,8 @@
           "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:29",
+      "miss_count": 3
     },
     "20260605113431_twitter_com_Cassie2meqwq_status_2062860615790772470.json": {
       "status": "done",
@@ -12652,8 +12652,8 @@
           "https://pbs.twimg.com/profile_images/2062124667041959936/umI--rr2_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:26",
+      "miss_count": 3
     },
     "20260605115109_twitter_com_Cassie2meqwq_status_2062864803006480818.json": {
       "status": "done",
@@ -12787,8 +12787,8 @@
           "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:26",
+      "miss_count": 3
     },
     "20260605151621_twitter_com_Cassie2meqwq_status_2062916443197591561.json": {
       "status": "failed",
@@ -12800,8 +12800,8 @@
           "https://pbs.twimg.com/profile_images/2060679419988148224/Zh_vTvc3_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:26",
+      "miss_count": 3
     },
     "20260605152625_twitter_com_Cassie2meqwq_status_2062918974283923596.json": {
       "status": "done",
@@ -12836,8 +12836,8 @@
           "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:30",
+      "miss_count": 3
     },
     "20260605164943_twitter_com_Cassie2meqwq_status_2062939939827068945.json": {
       "status": "done",
@@ -12909,8 +12909,8 @@
           "https://pbs.twimg.com/profile_images/2047500366259064833/k5dhVApk_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:30",
+      "miss_count": 3
     },
     "20260605194439_twitter_com_Cassie2meqwq_status_2062983962948165829.json": {
       "status": "done",
@@ -13019,8 +13019,8 @@
           "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:31",
+      "miss_count": 3
     },
     "20260606121953_twitter_com_Cassie2meqwq_status_2063234422162550820.json": {
       "status": "done",
@@ -13221,8 +13221,8 @@
           "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:30",
+      "miss_count": 3
     },
     "20260607135218_twitter_com_Cassie2meqwq_status_2063620066764378153.json": {
       "status": "done",
@@ -13246,8 +13246,8 @@
           "https://pbs.twimg.com/profile_images/1924830810454302720/CiMrr54k_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:27",
+      "miss_count": 3
     },
     "20260607135550_twitter_com_Cassie2meqwq_status_2063620954866188355.json": {
       "status": "done",
@@ -13283,8 +13283,8 @@
           "https://pbs.twimg.com/profile_images/1924830810454302720/CiMrr54k_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:27",
+      "miss_count": 3
     },
     "20260607140210_twitter_com_Cassie2meqwq_status_2063622547711918101.json": {
       "status": "done",
@@ -13320,8 +13320,8 @@
           "https://pbs.twimg.com/profile_images/2062491251107389440/iNNsChbc_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:27",
+      "miss_count": 3
     },
     "20260607162720_twitter_com_Cassie2meqwq_status_2063659080972189869.json": {
       "status": "done",
@@ -13434,8 +13434,8 @@
           "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:31",
+      "miss_count": 3
     },
     "20260607164816_twitter_com_Cassie2meqwq_status_2063664347017269463.json": {
       "status": "done",
@@ -13460,8 +13460,8 @@
           "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:31",
+      "miss_count": 3
     },
     "20260607165738_twitter_com_Cassie2meqwq_status_2063666705491222930.json": {
       "status": "done",
@@ -13487,8 +13487,8 @@
           "https://pbs.twimg.com/profile_images/2061199210159181824/vCAnb-k6_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:27",
+      "miss_count": 3
     },
     "20260607165855_twitter_com_Cassie2meqwq_status_2063667028914036743.json": {
       "status": "failed",
@@ -13502,8 +13502,8 @@
           "https://pbs.twimg.com/profile_images/2061199210159181824/vCAnb-k6_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:27",
+      "miss_count": 3
     },
     "20260607172647_twitter_com_Cassie2meqwq_status_2063674040846536829.json": {
       "status": "failed",
@@ -13515,8 +13515,8 @@
           "https://pbs.twimg.com/profile_images/2061199210159181824/vCAnb-k6_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:27",
+      "miss_count": 3
     },
     "20260607174136_twitter_com_Cassie2meqwq_status_2063677771650601253.json": {
       "status": "done",
@@ -13545,8 +13545,8 @@
           "https://pbs.twimg.com/profile_images/2061170043707387904/EuhArAyM_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:27",
+      "miss_count": 3
     },
     "20260607174909_twitter_com_Cassie2meqwq_status_2063679672488186364.json": {
       "status": "done",
@@ -13582,8 +13582,8 @@
           "https://pbs.twimg.com/profile_images/2063598324943405056/oqpRiqrY_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:27",
+      "miss_count": 3
     },
     "20260607193040_twitter_com_Cassie2meqwq_status_2063705218408440314.json": {
       "status": "done",
@@ -13646,8 +13646,8 @@
           "https://pbs.twimg.com/profile_images/2052475760838090752/lUWT6HAw_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:27",
+      "miss_count": 3
     },
     "20260608140735_twitter_com_Cassie2meqwq_status_2063986298810228896.json": {
       "status": "done",
@@ -14098,8 +14098,8 @@
           "https://pbs.twimg.com/profile_images/2048238969914322944/IJeprxx2_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:31",
+      "miss_count": 3
     },
     "20260617145228_twitter_com_Cassie2meqwq_status_2067259083707805739.json": {
       "status": "done",
@@ -14151,8 +14151,8 @@
           "https://pbs.twimg.com/profile_images/2066914283829809152/0R6Nfymf_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:27",
+      "miss_count": 3
     },
     "20260618040658_twitter_com_Cassie2meqwq_status_2067459026145984746.json": {
       "status": "failed",
@@ -14164,8 +14164,8 @@
           "https://pbs.twimg.com/profile_images/2066914283829809152/0R6Nfymf_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:27",
+      "miss_count": 3
     },
     "20260618040717_twitter_com_Cassie2meqwq_status_2067459109562310903.json": {
       "status": "failed",
@@ -14177,8 +14177,8 @@
           "https://pbs.twimg.com/profile_images/2066914283829809152/0R6Nfymf_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:27",
+      "miss_count": 3
     },
     "20260618040742_twitter_com_Cassie2meqwq_status_2067459214499525033.json": {
       "status": "failed",
@@ -14190,8 +14190,8 @@
           "https://pbs.twimg.com/profile_images/2066914283829809152/0R6Nfymf_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:27",
+      "miss_count": 3
     },
     "20260618045939_twitter_com_Cassie2meqwq_status_2067472287310508100.json": {
       "status": "done",
@@ -14349,8 +14349,8 @@
           "https://pbs.twimg.com/profile_images/2065011489031979008/Q62nO__e_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:28",
+      "miss_count": 3
     },
     "20260618092116_twitter_com_Cassie2meqwq_status_2067538125736530110.json": {
       "status": "failed",
@@ -14364,8 +14364,8 @@
           "https://pbs.twimg.com/profile_images/2024794929197953024/PGuxU9jk_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:31",
+      "miss_count": 3
     },
     "20260618092255_twitter_com_Cassie2meqwq_status_2067538540221866056.json": {
       "status": "failed",
@@ -14379,8 +14379,8 @@
           "https://pbs.twimg.com/profile_images/2067389480114528256/xMsPRX8j_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:28",
+      "miss_count": 3
     },
     "20260618092709_twitter_com_Cassie2meqwq_status_2067539605398937990.json": {
       "status": "done",
@@ -14428,8 +14428,8 @@
           "https://pbs.twimg.com/profile_images/2066914283829809152/0R6Nfymf_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:27",
+      "miss_count": 3
     },
     "20260618155106_twitter_com_Cassie2meqwq_status_2067636229622128853.json": {
       "status": "done",
@@ -14457,8 +14457,8 @@
           "https://pbs.twimg.com/profile_images/2053769022324568064/pXKM1Q-7_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:31",
+      "miss_count": 3
     },
     "20260619061916_twitter_com_Cassie2meqwq_status_2067854710993035670.json": {
       "status": "done",
@@ -14519,8 +14519,8 @@
           "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:32",
+      "miss_count": 3
     },
     "20260621113339_twitter_com_Cassie2meqwq_status_2068658601867280611.json": {
       "status": "done",
@@ -14547,8 +14547,8 @@
           "https://pbs.twimg.com/profile_images/2005646729358823424/MqSHV21S_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:28",
+      "miss_count": 3
     },
     "20260621113753_twitter_com_Cassie2meqwq_status_2068659668332028223.json": {
       "status": "failed",
@@ -14560,8 +14560,8 @@
           "https://pbs.twimg.com/profile_images/2065354836447735808/yC1VV8c8_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:28",
+      "miss_count": 3
     },
     "20260622140126_twitter_com_Cassie2meqwq_status_2069058184053149975.json": {
       "status": "done",
@@ -14625,8 +14625,8 @@
           "https://pbs.twimg.com/profile_images/2048238969914322944/IJeprxx2_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:37",
+      "miss_count": 3
     },
     "20260625133333_twitter_com_Cassie2meqwq_status_2070138329367302525.json": {
       "status": "done",
@@ -14822,8 +14822,8 @@
           "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:32",
+      "miss_count": 3
     },
     "20260626050830_twitter_com_Cassie2meqwq_status_2070373615087096197.json": {
       "status": "done",
@@ -14899,8 +14899,8 @@
           "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:32",
+      "miss_count": 3
     },
     "20260627064357_twitter_com_Cassie2meqwq_status_2070760024360845367.json": {
       "status": "failed",
@@ -14914,8 +14914,8 @@
           "https://pbs.twimg.com/profile_images/2068637245763174400/reRLmemx_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:31",
+      "miss_count": 3
     },
     "20260627064439_twitter_com_Cassie2meqwq_status_2070760202148966644.json": {
       "status": "done",
@@ -15054,8 +15054,8 @@
           "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:32",
+      "miss_count": 3
     },
     "20260628163502_twitter_com_Cassie2meqwq_status_2071271165721739413.json": {
       "status": "failed",
@@ -15069,8 +15069,8 @@
           "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:35",
+      "miss_count": 3
     },
     "20260629164606_twitter_com_Cassie2meqwq_status_2071636337669861841.json": {
       "status": "done",
@@ -15235,8 +15235,8 @@
           "https://pbs.twimg.com/profile_images/2068374958074413056/lXNJV8S8_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:45:04",
-      "miss_count": 2
+      "last_updated": "2026-07-19T06:34:33",
+      "miss_count": 3
     },
     "20260702082136_twitter_com_Cassie2meqwq_status_2072596537528688800.json": {
       "status": "done",
