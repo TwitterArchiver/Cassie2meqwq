@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2075625816269152588",
+    "created_at": "2026-07-12T05:05:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T06:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076171006511911030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2059149411007991808",
+          "start": 0,
+          "username": "wndsfefoumxlw6"
+        },
+        {
+          "end": 30,
+          "id": "1995929856723615744",
+          "start": 16,
+          "username": "Navira1449585"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076171006511911030",
+    "in_reply_to_user_id": "2059149411007991808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075625816269152588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wndsfefoumxlw6 @Navira1449585 原来这样吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2075625816269152588",
+        "created_at": "2026-07-12T05:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T06:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076171006511911030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            },
+            {
+              "end": 30,
+              "id": "1995929856723615744",
+              "start": 16,
+              "username": "Navira1449585"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076171006511911030",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075625816269152588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 @Navira1449585 原来这样吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2075625816269152588",
+        "created_at": "2026-07-10T16:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075625816269152588"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075625816269152588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 10666,
+          "like_count": 87,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "加巴喷丁\n剂量越大，药效越小\n剂量越小，药效越大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 216,
+          "like_count": 321,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 630
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/ 前世@RfbxaUauj41685 @rednightmare962 避难所：@yu_fatai欢迎互fo🐱电子烟需要的私信我 vx：c313s852j0976（无上头）\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 45,
+                "start": 29,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "username": "yu_fatai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 124,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 101,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 156,
+          "like_count": 3420,
+          "listed_count": 3,
+          "media_count": 278,
+          "tweet_count": 1785
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-02T18:55:44.000Z",
+        "description": "＝毛线\n不登校｜intp｜11｜查成分互fo\n💊｜🚬｜🍻｜智商低情商为负orz\n匿名提问箱https://t.co/xS5wT1S99f",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/navira26904",
+                "end": 68,
+                "expanded_url": "https://ngl.link/navira26904",
+                "start": 45,
+                "url": "https://t.co/xS5wT1S99f"
+              }
+            ]
+          }
+        },
+        "id": "1995929856723615744",
+        "name": "毛线咪",
+        "pinned_tweet_id": "2065069580725440747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008468373693136896/6f5DcANP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 190,
+          "like_count": 1137,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 232
+        },
+        "url": "",
+        "username": "Navira1449585",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2076650134335897640",
+    "created_at": "2026-07-14T04:34:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T05:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076888079168860421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1536716629505359872",
+          "start": 0,
+          "username": "cigsafterdrug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076888079168860421",
+    "in_reply_to_user_id": "1536716629505359872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076650134335897640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cigsafterdrug 女神"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2076650126974816256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNG-SbUakAA0EYJ.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2076650134335897640",
+        "created_at": "2026-07-14T04:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076888079168860421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076888079168860421",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076650134335897640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 女神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076650126974816256"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2076650134335897640",
+        "created_at": "2026-07-13T12:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076650134335897640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RnTMzLMzsM",
+              "end": 30,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2076650134335897640/photo/1",
+              "media_key": "3_2076650126974816256",
+              "start": 7,
+              "url": "https://t.co/RnTMzLMzsM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076650134335897640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢短发ww https://t.co/RnTMzLMzsM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 216,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 632
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 470,
+          "like_count": 31050,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 3034
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}
