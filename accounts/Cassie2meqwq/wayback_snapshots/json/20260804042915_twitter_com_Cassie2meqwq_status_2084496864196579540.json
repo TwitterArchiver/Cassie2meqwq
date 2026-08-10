@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2084175248690459082",
+    "created_at": "2026-08-04T04:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T05:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084496864196579540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1445681460497694723",
+          "start": 0,
+          "username": "cryptochenrui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084496864196579540",
+    "in_reply_to_user_id": "1445681460497694723",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084175248690459082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cryptochenrui 萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3297,
+        "height": 440,
+        "media_key": "13_2084175236522708992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084175236522708992/img/BqPdqLtkBcb3Mv9s.jpg",
+        "public_metrics": {
+          "view_count": 65
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084175236522708992/vid/avc1/320x320/Zzck_rb2CR81eOmN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084175236522708992/vid/avc1/440x440/rInV0SrZ4crblc7O.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084175236522708992/pl/_R0TUeBj_-Kik_nY.m3u8"
+          }
+        ],
+        "width": 440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2084175248690459082",
+        "created_at": "2026-08-04T04:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084496864196579540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1445681460497694723",
+              "start": 0,
+              "username": "cryptochenrui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084496864196579540",
+        "in_reply_to_user_id": "1445681460497694723",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084175248690459082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cryptochenrui 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084175236522708992"
+          ]
+        },
+        "author_id": "1445681460497694723",
+        "conversation_id": "2084175248690459082",
+        "created_at": "2026-08-03T07:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084175248690459082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6IWhkFfZ1D",
+              "end": 23,
+              "expanded_url": "https://x.com/cryptochenrui/status/2084175248690459082/video/1",
+              "media_key": "13_2084175236522708992",
+              "start": 0,
+              "url": "https://t.co/6IWhkFfZ1D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084175248690459082",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6IWhkFfZ1D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 202,
+          "like_count": 328,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 640
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-06T09:25:19.000Z",
+        "description": "INTJ的精神病和od频道.\n大学退学，农村穷蛆。雏见泽村民。长滨城主。豫章岛夷。crypto寄生虫。煤桶骑士。\n欢迎温良边缘人。有同类内容直fo。\n🈲过激健全品客男女拳",
+        "id": "1445681460497694723",
+        "location": "南昌",
+        "name": "普瑞栗子",
+        "pinned_tweet_id": "2083880694317793346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083146894247907328/yghvpj2a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 334,
+          "like_count": 10401,
+          "listed_count": 5,
+          "media_count": 150,
+          "tweet_count": 2811
+        },
+        "url": "",
+        "username": "cryptochenrui",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2085024466321789061",
+    "created_at": "2026-08-05T15:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T16:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085024466321789061"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085024466321789061",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "아이돌이 전부는 아니고  \n다른 사람의 댓글도 전부가 아닙니다  \n당신이 더 이상 다치지 않기를 바랍니다\n분명히 매우 무력하고 고통스러울 텐데\n과연 누구의 잘못일까요\n사람은 바로 이렇게 어리석은 무리이며\n죽음이 영원합니다"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2085024466321789061",
+        "created_at": "2026-08-05T15:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085024466321789061"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085024466321789061",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "아이돌이 전부는 아니고  \n다른 사람의 댓글도 전부가 아닙니다  \n당신이 더 이상 다치지 않기를 바랍니다\n분명히 매우 무력하고 고통스러울 텐데\n과연 누구의 잘못일까요\n사람은 바로 이렇게 어리석은 무리이며\n죽음이 영원합니다"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 202,
+          "like_count": 328,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 646
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false
+      }
+    ]
+  }
+}
