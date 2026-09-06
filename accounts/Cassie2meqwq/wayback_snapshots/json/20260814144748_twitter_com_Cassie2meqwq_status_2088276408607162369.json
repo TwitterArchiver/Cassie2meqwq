@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2088224602132734247",
+    "created_at": "2026-08-14T14:47:48.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T15:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088276408607162369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1973430266124541952",
+          "start": 0,
+          "username": "Minako8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088276408607162369",
+    "in_reply_to_user_id": "1973430266124541952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088272831805304915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minako8964 好有磁性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2088224602132734247",
+        "created_at": "2026-08-14T14:47:48.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088276408607162369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1973430266124541952",
+              "start": 0,
+              "username": "Minako8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088276408607162369",
+        "in_reply_to_user_id": "1973430266124541952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088272831805304915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minako8964 好有磁性"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973430266124541952",
+        "conversation_id": "2088224602132734247",
+        "created_at": "2026-08-14T14:33:35.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088272831805304915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053366838248259584",
+              "start": 0,
+              "username": "Cassie2meqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088272831805304915",
+        "in_reply_to_user_id": "2053366838248259584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088269963895378188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cassie2meqwq 是本人不是配音"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo\n此帐号有碎碎念，负能量，交友(绿），影/书观后感，审美积累\n号主精神病，自私自利，为发言致歉，爱你们",
+        "id": "2053366838248259584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088276408607162369",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053366838248259584/1779364146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 201,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 674
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-01T16:50:30.000Z",
+        "description": "可以叫我寿司🍣不安会屏蔽，想互关和私联直接来找我就可以啦，赞赏码在背景\n 这个是匿名问答⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kexuejiazhuang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kexuejiazhuang",
+                "start": 0,
+                "url": "https://t.co/qNfVsLeCNp"
+              }
+            ]
+          }
+        },
+        "id": "1973430266124541952",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088274621426700290",
+        "name": "给我寿司吧🥪",
+        "pinned_tweet_id": "2052037542984466641",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1973430266124541952/1782922025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072347563806912512/DRTPLYd8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1689,
+          "following_count": 353,
+          "like_count": 52847,
+          "listed_count": 4,
+          "media_count": 597,
+          "tweet_count": 7609
+        },
+        "url": "https://t.co/qNfVsLeCNp",
+        "username": "Minako8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

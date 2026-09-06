@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2087969640823804007",
+    "created_at": "2026-08-14T14:21:29.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T15:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088269786493157847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1536716629505359872",
+          "start": 0,
+          "username": "cigsafterdrug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088269786493157847",
+    "in_reply_to_user_id": "1536716629505359872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087969640823804007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cigsafterdrug 啥意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2087969640823804007",
+        "created_at": "2026-08-14T14:21:29.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088269786493157847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088269786493157847",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087969640823804007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 啥意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2087969640823804007",
+        "created_at": "2026-08-13T18:28:49.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087969640823804007"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087969640823804007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 302,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操我知道哭了我爸媽自以為是翻我的床，然後把我的藥和大麻全部扔掉了⋯我真的一直在哭為什麼要這樣對我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088269786493157847",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053366838248259584/1779364146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 198,
+          "like_count": 333,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 660
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088241520361234710",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1536716629505359872/1769099065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 473,
+          "like_count": 33056,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 3358
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

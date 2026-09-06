@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2087844398684074400",
+    "created_at": "2026-08-14T14:42:44.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T15:42:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088275132913762509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1774278217253433344",
+          "start": 0,
+          "username": "7ksti4"
+        },
+        {
+          "end": 15,
+          "id": "2075312744417632256",
+          "start": 8,
+          "username": "4ksti7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088275132913762509",
+    "in_reply_to_user_id": "1774278217253433344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087844398684074400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7ksti4 @4ksti7 好的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2087844398684074400",
+        "created_at": "2026-08-14T14:42:44.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088275132913762509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1774278217253433344",
+              "start": 0,
+              "username": "7ksti4"
+            },
+            {
+              "end": 15,
+              "id": "2075312744417632256",
+              "start": 8,
+              "username": "4ksti7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088275132913762509",
+        "in_reply_to_user_id": "1774278217253433344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087844398684074400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7ksti4 @4ksti7 好的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2087844398684074400",
+        "created_at": "2026-08-13T10:11:09.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T11:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087844398684074400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "2075312744417632256",
+              "start": 14,
+              "username": "4ksti7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087844398684074400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "另一个号复活了，爱我请移步；@4ksti7 ！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo\n此帐号有碎碎念，负能量，交友(绿），影/书观后感，审美积累\n号主精神病，自私自利，为发言致歉，爱你们",
+        "id": "2053366838248259584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088275132913762509",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053366838248259584/1779364146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 199,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 668
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=一凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击\n2.0版本：@4ksti7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 46,
+                "username": "4ksti7"
+              }
+            ]
+          }
+        },
+        "id": "1774278217253433344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087844398684074400",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1774278217253433344/1781697573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 485,
+          "like_count": 6053,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 621
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088254233661640755",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075312744417632256/1785159670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 344,
+          "like_count": 2078,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 319
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

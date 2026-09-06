@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2089912669390406036",
+    "created_at": "2026-08-19T22:43:33.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T23:43:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090208074539917339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047894021457211393",
+          "start": 0,
+          "username": "IiRin_00917_QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090208074539917339",
+    "in_reply_to_user_id": "2047894021457211393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089912669390406036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IiRin_00917_QwQ 申请领取"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2025,
+        "media_key": "3_2089912644857917440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDcekhacAAKGFo.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2089912669390406036",
+        "created_at": "2026-08-19T22:43:33.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T23:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090208074539917339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047894021457211393",
+              "start": 0,
+              "username": "IiRin_00917_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090208074539917339",
+        "in_reply_to_user_id": "2047894021457211393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089912669390406036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IiRin_00917_QwQ 申请领取"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089912644857917440"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2089912669390406036",
+        "created_at": "2026-08-19T03:09:43.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T04:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089912669390406036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bNefMBUdQg",
+              "end": 30,
+              "expanded_url": "https://x.com/IiRin_00917_QwQ/status/2089912669390406036/photo/1",
+              "media_key": "3_2089912644857917440",
+              "start": 7,
+              "url": "https://t.co/bNefMBUdQg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089912669390406036",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089912644857917440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1874,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "喂，七夕礼物 https://t.co/bNefMBUdQg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo\n此帐号有碎碎念，负能量，交友(绿），影/书观后感，审美积累\n号主精神病，自私自利，为发言致歉，爱你们",
+        "id": "2053366838248259584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090208074539917339",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053366838248259584/1779364146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 213,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 700
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "21号机×寻回\nmtx/hrt：25-06-23/家暴党-天赋党\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网永生-眼熟fo/低龄糖福😭别和我计较了\n末地级严重失眠 -12现役初中生\n^✟❀里号@yumumu_msknb❀小号@Surajazeem❀家族耻辱@woaiuai0721❀🐱@linring2010❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 94,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 121,
+                "start": 110,
+                "username": "Surajazeem"
+              },
+              {
+                "end": 138,
+                "start": 126,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "linring2010"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/CHH7qlTRQX"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "is_identity_verified": false,
+        "location": "你看看你身后",
+        "most_recent_tweet_id": "2090179918164541792",
+        "name": "IiRin",
+        "pinned_tweet_id": "2084899038219104559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047894021457211393/1785917884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084916830247014400/nMn0uWwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989,
+          "following_count": 128,
+          "like_count": 7021,
+          "listed_count": 1,
+          "media_count": 279,
+          "tweet_count": 2912
+        },
+        "url": "https://t.co/CHH7qlTRQX",
+        "username": "IiRin_00917_QwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

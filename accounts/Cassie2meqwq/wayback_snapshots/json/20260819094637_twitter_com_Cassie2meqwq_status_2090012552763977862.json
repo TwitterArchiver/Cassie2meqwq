@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2090012552763977862",
+    "created_at": "2026-08-19T09:46:37.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T10:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090012552763977862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2057743680061255680",
+          "start": 3,
+          "username": "Koroshiiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090012552763977862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090011513750982828",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Koroshiiiiiii: 闲暇之余会出一些自用闲置物质！有需要可以私信！🥺回来哩～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2090012552763977862",
+        "created_at": "2026-08-19T09:46:37.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090012552763977862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2057743680061255680",
+              "start": 3,
+              "username": "Koroshiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090012552763977862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090011513750982828",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Koroshiiiiiii: 闲暇之余会出一些自用闲置物质！有需要可以私信！🥺回来哩～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2090011513750982828",
+        "created_at": "2026-08-19T09:42:30.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090011513750982828"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090011513750982828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "闲暇之余会出一些自用闲置物质！有需要可以私信！🥺回来哩～"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo\n此帐号有碎碎念，负能量，交友(绿），影/书观后感，审美积累\n号主精神病，自私自利，为发言致歉，爱你们",
+        "id": "2053366838248259584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090012552763977862",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053366838248259584/1779364146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 213,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 691
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "🚪77（防扰）\n可以叫小杀（🦋同名只发drug）\n不🩸🔪/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪\n药理学习中💊/免费私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/9aTLaO9Us0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 110,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 87,
+                "url": "https://t.co/9aTLaO9Us0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1SEJ4"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "is_identity_verified": false,
+        "location": "✟升天✟ ",
+        "most_recent_tweet_id": "2090011513750982828",
+        "name": "山本殺し（出💊版）",
+        "pinned_tweet_id": "2090011513750982828",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057743680061255680/1779439885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 315,
+          "like_count": 3949,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 1222
+        },
+        "url": "https://t.co/Q7AWi1SEJ4",
+        "username": "Koroshiiiiiii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

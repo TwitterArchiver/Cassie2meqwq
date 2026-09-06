@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2085379326988714329",
+    "created_at": "2026-08-07T15:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T16:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085749512992387381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1493016356182056961",
+          "start": 0,
+          "username": "Mintink3"
+        },
+        {
+          "end": 24,
+          "id": "1382368172628643845",
+          "start": 10,
+          "username": "Nozomi0741318"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085749512992387381",
+    "in_reply_to_user_id": "1493016356182056961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085379326988714329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mintink3 @Nozomi0741318 杀猪盘吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085379319698960384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDBcUSaMAAV9bt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2085379326988714329",
+        "created_at": "2026-08-07T15:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085749512992387381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            },
+            {
+              "end": 24,
+              "id": "1382368172628643845",
+              "start": 10,
+              "username": "Nozomi0741318"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085749512992387381",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085379326988714329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 @Nozomi0741318 杀猪盘吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085379319698960384"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2085379326988714329",
+        "created_at": "2026-08-06T14:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085379326988714329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YLBRDCBewA",
+              "end": 139,
+              "expanded_url": "https://x.com/Mintink3/status/2085379326988714329/photo/1",
+              "media_key": "3_2085379319698960384",
+              "start": 116,
+              "url": "https://t.co/YLBRDCBewA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085379326988714329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 35697,
+          "like_count": 197,
+          "quote_count": 11,
+          "reply_count": 51,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我发现小区的有害垃圾桶里的药盒子里面都不是空的 ，而且这些药基本都没有过期 \n！如果我想省点钱 ，可以直接回收里面的舍曲林 奥美拉挫 （抗胃酸）左西替利嗪（治疗过敏）甚至还有阿普唑仑  我打算等晚点再去翻翻，底下说不定还有更好的药 https://t.co/YLBRDCBewA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 201,
+          "like_count": 331,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 650
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 856,
+          "like_count": 6426,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 981
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-14T16:20:42.000Z",
+        "description": "",
+        "id": "1382368172628643845",
+        "name": "小望",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081459144926883840/QvxDZPOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 108,
+          "like_count": 2885,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1622
+        },
+        "url": "",
+        "username": "Nozomi0741318",
+        "verified": false
+      }
+    ]
+  }
+}

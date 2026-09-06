@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2089006813513711897",
+    "created_at": "2026-08-16T15:10:10.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T16:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089006813513711897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2045921763553312768",
+          "start": 3,
+          "username": "_weiwudage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089006813513711897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087603995154190585",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_weiwudage: 赶紧把毒贩放出来发毒品，这么苦的生活要累死我吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2089006813513711897",
+        "created_at": "2026-08-16T15:10:10.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T16:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089006813513711897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2045921763553312768",
+              "start": 3,
+              "username": "_weiwudage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089006813513711897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087603995154190585",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_weiwudage: 赶紧把毒贩放出来发毒品，这么苦的生活要累死我吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045921763553312768",
+        "conversation_id": "2087603995154190585",
+        "created_at": "2026-08-12T18:15:52.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T19:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087603995154190585"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087603995154190585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6006,
+          "like_count": 40,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "赶紧把毒贩放出来发毒品，这么苦的生活要累死我吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo\n此帐号有碎碎念，负能量，交友(绿），影/书观后感，审美积累\n号主精神病，自私自利，为发言致歉，爱你们",
+        "id": "2053366838248259584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089006813513711897",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053366838248259584/1779364146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 206,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 681
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-19T17:45:48.000Z",
+        "description": "你别骂我我玻璃心   \n丨贫穷/内向（？）/餐劵/o割丨取向KAWAII\n只fo喜欢的丨交友大欢迎丨留言请私丨非互fo🚪5.2\n这也是我@makeasweetdream",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 68,
+                "username": "makeasweetdream"
+              }
+            ]
+          }
+        },
+        "id": "2045921763553312768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089005254138314760",
+        "name": "苦愛",
+        "pinned_tweet_id": "2083351160136818777",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045921763553312768/1786613085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078407875937140736/kfwrb55X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 68,
+          "like_count": 1844,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 996
+        },
+        "url": "",
+        "username": "_weiwudage",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

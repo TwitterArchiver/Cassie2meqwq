@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2087961779880259819",
+    "created_at": "2026-08-14T14:24:51.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T15:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088270631880331404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1860377535215013888",
+          "start": 0,
+          "username": "AraiNogawaovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088270631880331404",
+    "in_reply_to_user_id": "1860377535215013888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087961779880259819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AraiNogawaovo 好有感觉呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087961772930347008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnuK4QbsAADTwb.jpg",
+        "width": 1642
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2087961779880259819",
+        "created_at": "2026-08-14T14:24:51.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088270631880331404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1860377535215013888",
+              "start": 0,
+              "username": "AraiNogawaovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088270631880331404",
+        "in_reply_to_user_id": "1860377535215013888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087961779880259819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AraiNogawaovo 好有感觉呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087961772930347008"
+          ]
+        },
+        "author_id": "1860377535215013888",
+        "conversation_id": "2087961779880259819",
+        "created_at": "2026-08-13T17:57:35.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T18:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087961779880259819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kGc30CdIto",
+              "end": 23,
+              "expanded_url": "https://x.com/AraiNogawaovo/status/2087961779880259819/photo/1",
+              "media_key": "3_2087961772930347008",
+              "start": 0,
+              "url": "https://t.co/kGc30CdIto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087961779880259819",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087961772930347008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 199,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kGc30CdIto"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088270631880331404",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053366838248259584/1779364146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 198,
+          "like_count": 334,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 663
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-23T17:39:13.000Z",
+        "description": "雙手合十的時候，第一個聽到祈禱的人是自己。\n-\n精神病channel偶爾發一些照片和作品不混小圈不談戀愛不是單身🙏🙏\n微查成分互fo",
+        "id": "1860377535215013888",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2087987479743979740",
+        "name": "荒井野川",
+        "pinned_tweet_id": "2087961779880259819",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1860377535215013888/1783699878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075617491817226240/WqJS9TrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 242,
+          "like_count": 2206,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 1000
+        },
+        "url": "",
+        "username": "AraiNogawaovo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
