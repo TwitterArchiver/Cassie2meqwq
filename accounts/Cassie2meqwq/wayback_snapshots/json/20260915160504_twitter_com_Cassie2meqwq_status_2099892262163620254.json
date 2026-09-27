@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2098807783781273721",
+    "created_at": "2026-09-15T16:05:04.000Z",
+    "display_text_range": [
+      44,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T17:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099892262163620254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2098794605223522304",
+          "start": 0,
+          "username": "cigsaferdrug"
+        },
+        {
+          "end": 28,
+          "id": "2032985503621095424",
+          "start": 14,
+          "username": "jianxiexingnb"
+        },
+        {
+          "end": 43,
+          "id": "1536716629505359872",
+          "start": 29,
+          "username": "cigsafterdrug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099892262163620254",
+    "in_reply_to_user_id": "2098794605223522304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098807783781273721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cigsaferdrug @jianxiexingnb @cigsafterdrug 小迴呀"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [cigsafterdrug].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "cigsafterdrug",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "cigsafterdrug"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2098807773521907712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSB2jNCaEAAHUzN.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1531,
+        "media_key": "3_2098807773534605312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSB2jNFb0AA7Oma.jpg",
+        "width": 2000
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098807773547151360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSB2jNIbQAAxkWQ.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2098807775107440640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSB2jS8bYAAzNdM.jpg",
+        "width": 732
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2098807783781273721",
+        "created_at": "2026-09-15T16:05:04.000Z",
+        "display_text_range": [
+          44,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T17:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099892262163620254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2098794605223522304",
+              "start": 0,
+              "username": "cigsaferdrug"
+            },
+            {
+              "end": 28,
+              "id": "2032985503621095424",
+              "start": 14,
+              "username": "jianxiexingnb"
+            },
+            {
+              "end": 43,
+              "id": "1536716629505359872",
+              "start": 29,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099892262163620254",
+        "in_reply_to_user_id": "2098794605223522304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098807783781273721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsaferdrug @jianxiexingnb @cigsafterdrug 小迴呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098807773521907712",
+            "3_2098807773534605312",
+            "3_2098807773547151360",
+            "3_2098807775107440640"
+          ]
+        },
+        "author_id": "2098794605223522304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2098807783781273721",
+        "created_at": "2026-09-12T16:15:44.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098807783781273721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1536716629505359872",
+              "start": 11,
+              "username": "cigsafterdrug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxVDvFNPe1",
+              "end": 90,
+              "expanded_url": "https://x.com/cigsaferdrug/status/2098807783781273721/photo/1",
+              "media_key": "3_2098807773521907712",
+              "start": 67,
+              "url": "https://t.co/NxVDvFNPe1"
+            },
+            {
+              "display_url": "pic.x.com/NxVDvFNPe1",
+              "end": 90,
+              "expanded_url": "https://x.com/cigsaferdrug/status/2098807783781273721/photo/1",
+              "media_key": "3_2098807773534605312",
+              "start": 67,
+              "url": "https://t.co/NxVDvFNPe1"
+            },
+            {
+              "display_url": "pic.x.com/NxVDvFNPe1",
+              "end": 90,
+              "expanded_url": "https://x.com/cigsaferdrug/status/2098807783781273721/photo/1",
+              "media_key": "3_2098807773547151360",
+              "start": 67,
+              "url": "https://t.co/NxVDvFNPe1"
+            },
+            {
+              "display_url": "pic.x.com/NxVDvFNPe1",
+              "end": 90,
+              "expanded_url": "https://x.com/cigsaferdrug/status/2098807783781273721/photo/1",
+              "media_key": "3_2098807775107440640",
+              "start": 67,
+              "url": "https://t.co/NxVDvFNPe1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098807783781273721",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098807773521907712"
+          },
+          {
+            "media_key": "3_2098807773534605312"
+          },
+          {
+            "media_key": "3_2098807773547151360"
+          },
+          {
+            "media_key": "3_2098807775107440640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2555,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "你好，我是小迴\n一代目@cigsafterdrug 坠机了 \n想找回互关求帮转…\n是毒虫烟鬼酒鬼餐券妹 希望跟更多同类互关！🥹❤️💧 https://t.co/NxVDvFNPe1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo\n此帐号有碎碎念，负能量，交友(绿），影/书观后感，审美积累\n号主精神病，自私自利，为发言致歉，爱你们",
+        "id": "2053366838248259584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099892262163620254",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053366838248259584/1779364146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 205,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 723
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-12T15:27:38.000Z",
+        "description": "可以叫我小迴 任何群體全友好 \n查成分互fo\n前世@cigsafterdrug 互關尋回中\n🚪52/88 互fo不用\n只要幸福就好了，祝你幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "cigsafterdrug"
+              }
+            ]
+          }
+        },
+        "id": "2098794605223522304",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099889065101590715",
+        "name": "urtoolateialreadydied",
+        "pinned_tweet_id": "2098807783781273721",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2098794605223522304/1789227039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098796185112965120/mGi3D7-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 99,
+          "like_count": 917,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 122
+        },
+        "url": "",
+        "username": "cigsaferdrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "is_identity_verified": false,
+        "location": "超脱于宇宙之外",
+        "most_recent_tweet_id": "2099862945110896921",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032985503621095424/1776434207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 243,
+          "like_count": 424,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 841
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

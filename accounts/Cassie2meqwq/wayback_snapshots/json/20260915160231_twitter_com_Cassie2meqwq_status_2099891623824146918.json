@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2099891623824146918",
+    "created_at": "2026-09-15T16:02:31.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T17:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099891623824146918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1868203874726887424",
+          "start": 3,
+          "username": "daozhir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099891623824146918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099459211981885847",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @daozhir: 同类来互fo好不好😭\n\n还有为什么好多fo我的主页啥也没有，评论也没有😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2099891623824146918",
+        "created_at": "2026-09-15T16:02:31.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T17:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099891623824146918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1868203874726887424",
+              "start": 3,
+              "username": "daozhir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099891623824146918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099459211981885847",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @daozhir: 同类来互fo好不好😭\n\n还有为什么好多fo我的主页啥也没有，评论也没有😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868203874726887424",
+        "conversation_id": "2099459211981885847",
+        "created_at": "2026-09-14T11:24:16.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T12:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099459211981885847"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099459211981885847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1488,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "同类来互fo好不好😭\n\n还有为什么好多fo我的主页啥也没有，评论也没有😱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo\n此帐号有碎碎念，负能量，交友(绿），影/书观后感，审美积累\n号主精神病，自私自利，为发言致歉，爱你们",
+        "id": "2053366838248259584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099891623824146918",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053366838248259584/1779364146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 202,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 720
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-15T07:58:21.000Z",
+        "description": "lesbian 丨10年丨顺女丨OD丨BD 丨互fo同类 没fo私信丨LGBTQ全友好\n有事情直接私信，有时候私信不给我显示，评论区可以踢我一下 叫我看私信",
+        "id": "1868203874726887424",
+        "is_identity_verified": false,
+        "location": "Ciudad Autónoma de Buenos Aire",
+        "most_recent_tweet_id": "2099882630824996960",
+        "name": "Hola",
+        "pinned_tweet_id": "2025485601240441319",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868203874726887424/1775632701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989222275498012674/zZ3PsBCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 642,
+          "like_count": 1640,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1305
+        },
+        "url": "",
+        "username": "daozhir",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
