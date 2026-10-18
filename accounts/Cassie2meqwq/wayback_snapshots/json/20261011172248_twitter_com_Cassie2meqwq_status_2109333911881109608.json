@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2109151712460316776",
+    "created_at": "2026-10-11T17:22:48.000Z",
+    "display_text_range": [
+      29,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T18:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109333911881109608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1629877998148042757",
+          "start": 0,
+          "username": "99905230523aol"
+        },
+        {
+          "end": 28,
+          "id": "2046117898377379840",
+          "start": 16,
+          "username": "kawaii_imai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109333911881109608",
+    "in_reply_to_user_id": "1629877998148042757",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109151712460316776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@99905230523aol @kawaii_imai 𨅯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3264,
+        "media_key": "3_2109151685562249216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUU2SINasAAT8BE.jpg",
+        "width": 2448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2109151712460316776",
+        "created_at": "2026-10-11T17:22:48.000Z",
+        "display_text_range": [
+          29,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T18:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109333911881109608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1629877998148042757",
+              "start": 0,
+              "username": "99905230523aol"
+            },
+            {
+              "end": 28,
+              "id": "2046117898377379840",
+              "start": 16,
+              "username": "kawaii_imai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109333911881109608",
+        "in_reply_to_user_id": "1629877998148042757",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109151712460316776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@99905230523aol @kawaii_imai 𨅯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109151685562249216"
+          ]
+        },
+        "author_id": "1629877998148042757",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2109151712460316776",
+        "created_at": "2026-10-11T05:18:49.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T06:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109151712460316776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ttAQ6FbusA",
+              "end": 172,
+              "expanded_url": "https://x.com/99905230523aol/status/2109151712460316776/photo/1",
+              "media_key": "3_2109151685562249216",
+              "start": 149,
+              "url": "https://t.co/ttAQ6FbusA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109151712460316776",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2109151685562249216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1211,
+          "like_count": 45,
+          "quote_count": 2,
+          "reply_count": 35,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "700fo了搞个抽奖，凡是在这条推转发+关注+评论+点赞都有机会抽到5g苯乙胺盐酸盐！！！🥰🥰🥰\n新产品：鼻黏膜槟榔，本产品混合药品pr与精神活性化工原料，只有鼻吸有效且瞬间起效！此物质需要搭配pea使用，属于兴奋剂，易转躁狂，建议搭配抽烟使用，已尝试，巨爽！有任何使用问题请私信喵(♡˙︶˙♡) https://t.co/ttAQ6FbusA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo 不是同类请走开\n此帐号是号主反复飞翔中乱语和上学戒毒让人想死\n号主精神病，自私自利，为发言致歉，爱你们",
+        "id": "2053366838248259584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109333911881109608",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053366838248259584/1779364146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 198,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 778
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-26T16:16:23.000Z",
+        "description": "想称呼我就叫我安那其，双性恋🌈，一位普通的罪木厨，超高校级的oder💊，孤独症谱系人，11年，传奇药师攒学费中☠️/正在期盼大麻与致幻剂合法化\n群组: https://t.co/gYcSYOk65W",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/6uFMpBV9Xw",
+                "end": 99,
+                "expanded_url": "https://discord.gg/6uFMpBV9Xw",
+                "start": 76,
+                "url": "https://t.co/gYcSYOk65W"
+              }
+            ]
+          }
+        },
+        "id": "1629877998148042757",
+        "is_identity_verified": false,
+        "location": "虚无加速",
+        "most_recent_tweet_id": "2109230727858684366",
+        "name": "无政府主义联盟（PEA🌵找我）",
+        "pinned_tweet_id": "2107838881475465240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1629877998148042757/1790917014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107339842220875776/Vud6uzNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 165,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 680
+        },
+        "url": "",
+        "username": "99905230523aol",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109263967621407001",
+        "name": "兰",
+        "pinned_tweet_id": "2068638722082709781",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046117898377379840/1776667808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 330,
+          "like_count": 2171,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 655
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

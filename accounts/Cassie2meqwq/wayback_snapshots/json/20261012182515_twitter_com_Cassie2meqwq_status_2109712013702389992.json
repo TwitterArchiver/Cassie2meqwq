@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2109712013702389992",
+    "created_at": "2026-10-12T18:25:15.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T19:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109712013702389992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2102090815082520576",
+          "start": 3,
+          "username": "Xsuan7777777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109712013702389992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109303201048748097",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xsuan7777777: 注射一些液体，食用一些药物，吸入一些气体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2109712013702389992",
+        "created_at": "2026-10-12T18:25:15.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T19:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109712013702389992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2102090815082520576",
+              "start": 3,
+              "username": "Xsuan7777777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109712013702389992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109303201048748097",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xsuan7777777: 注射一些液体，食用一些药物，吸入一些气体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2102090815082520576",
+        "conversation_id": "2109303201048748097",
+        "created_at": "2026-10-11T15:20:46.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T16:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109303201048748097"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2109303201048748097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4340,
+          "like_count": 130,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "注射一些液体，食用一些药物，吸入一些气体"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo 不是同类请走开\n此帐号是号主反复飞翔中乱语和上学戒毒让人想死\n号主精神病，自私自利，为发言致歉，爱你们",
+        "id": "2053366838248259584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109712013702389992",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053366838248259584/1779364146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 197,
+          "like_count": 438,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 781
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-21T17:41:41.000Z",
+        "description": "前世全封完了 /od🔪（我今天关注上限了",
+        "id": "2102090815082520576",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109711247868596242",
+        "name": "酸酸子777",
+        "pinned_tweet_id": "2106852792694694001",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2102090815082520576/1791147511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106851410344386560/rx_hCvGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 224,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 157
+        },
+        "url": "",
+        "username": "Xsuan7777777",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

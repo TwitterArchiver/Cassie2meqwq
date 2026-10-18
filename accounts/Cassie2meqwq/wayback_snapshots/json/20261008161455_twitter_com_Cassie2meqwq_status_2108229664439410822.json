@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2108229664439410822",
+    "created_at": "2026-10-08T16:14:55.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T17:14:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108229664439410822"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2108229664439410822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在感觉就是很痛苦，就是很痛苦，就是很痛苦啊，我只想吸都不知他妈是想要嗑药，我只想说这些我只有想要的只有这么简单，现在这一切都不是我只有要投我才是真实的，我，我必须要嗑药，我这么难受的原因就是因为无所太长时间都不是我的我所以就是这么多痛苦，大家都在把一件事让我们开心，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2108229664439410822",
+        "created_at": "2026-10-08T16:14:55.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T17:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108229664439410822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108229664439410822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在感觉就是很痛苦，就是很痛苦，就是很痛苦啊，我只想吸都不知他妈是想要嗑药，我只想说这些我只有想要的只有这么简单，现在这一切都不是我只有要投我才是真实的，我，我必须要嗑药，我这么难受的原因就是因为无所太长时间都不是我的我所以就是这么多痛苦，大家都在把一件事让我们开心，"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo\n此帐号有碎碎念，负能量，交友(绿），影/书观后感，审美积累\n号主精神病，自私自利，为发言致歉，爱你们",
+        "id": "2053366838248259584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108229664439410822",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053366838248259584/1779364146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 195,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 754
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

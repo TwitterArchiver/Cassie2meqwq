@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105704988765036545",
+        "3_2105704988752384000"
+      ],
+      "media_source_tweet_id": [
+        "2105705011464581375",
+        "2105705011464581375"
+      ]
+    },
+    "author_id": "2053366838248259584",
+    "conversation_id": "2106054649287680466",
+    "created_at": "2026-10-02T16:12:11.000Z",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T17:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106054649287680466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1886194087386349568",
+          "start": 3,
+          "username": "ling_yul_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gr8eOcURDY",
+          "end": 82,
+          "expanded_url": "https://x.com/ling_yul_/status/2105705011464581375/photo/1",
+          "media_key": "3_2105704988765036545",
+          "start": 59,
+          "url": "https://t.co/gr8eOcURDY"
+        },
+        {
+          "display_url": "pic.x.com/gr8eOcURDY",
+          "end": 82,
+          "expanded_url": "https://x.com/ling_yul_/status/2105705011464581375/photo/1",
+          "media_key": "3_2105704988752384000",
+          "start": 59,
+          "url": "https://t.co/gr8eOcURDY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106054649287680466",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2105704988765036545"
+      },
+      {
+        "media_key": "3_2105704988752384000"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105705011464581375",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ling_yul_: 自介喵 欢迎大家和我玩呀/ᐠ - ˕ -マ Ⳋ\n互fo直关就行了 如果有漏的请私信我！ https://t.co/gr8eOcURDY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2105704988765036545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTj3h-EboAERxBx.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2105704988752384000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTj3h-BakAAKj_H.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105704988765036545",
+            "3_2105704988752384000"
+          ],
+          "media_source_tweet_id": [
+            "2105705011464581375",
+            "2105705011464581375"
+          ]
+        },
+        "author_id": "2053366838248259584",
+        "conversation_id": "2106054649287680466",
+        "created_at": "2026-10-02T16:12:11.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T17:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106054649287680466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1886194087386349568",
+              "start": 3,
+              "username": "ling_yul_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gr8eOcURDY",
+              "end": 82,
+              "expanded_url": "https://x.com/ling_yul_/status/2105705011464581375/photo/1",
+              "media_key": "3_2105704988765036545",
+              "start": 59,
+              "url": "https://t.co/gr8eOcURDY"
+            },
+            {
+              "display_url": "pic.x.com/gr8eOcURDY",
+              "end": 82,
+              "expanded_url": "https://x.com/ling_yul_/status/2105705011464581375/photo/1",
+              "media_key": "3_2105704988752384000",
+              "start": 59,
+              "url": "https://t.co/gr8eOcURDY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106054649287680466",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105704988765036545"
+          },
+          {
+            "media_key": "3_2105704988752384000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105705011464581375",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ling_yul_: 自介喵 欢迎大家和我玩呀/ᐠ - ˕ -マ Ⳋ\n互fo直关就行了 如果有漏的请私信我！ https://t.co/gr8eOcURDY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105704988765036545",
+            "3_2105704988752384000"
+          ]
+        },
+        "author_id": "1886194087386349568",
+        "conversation_id": "2105705011464581375",
+        "created_at": "2026-10-01T17:02:51.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T18:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105705011464581375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gr8eOcURDY",
+              "end": 67,
+              "expanded_url": "https://x.com/ling_yul_/status/2105705011464581375/photo/1",
+              "media_key": "3_2105704988765036545",
+              "start": 44,
+              "url": "https://t.co/gr8eOcURDY"
+            },
+            {
+              "display_url": "pic.x.com/gr8eOcURDY",
+              "end": 67,
+              "expanded_url": "https://x.com/ling_yul_/status/2105705011464581375/photo/1",
+              "media_key": "3_2105704988752384000",
+              "start": 44,
+              "url": "https://t.co/gr8eOcURDY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105705011464581375",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105704988765036545"
+          },
+          {
+            "media_key": "3_2105704988752384000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "自介喵 欢迎大家和我玩呀/ᐠ - ˕ -マ Ⳋ\n互fo直关就行了 如果有漏的请私信我！ https://t.co/gr8eOcURDY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo\n此帐号有碎碎念，负能量，交友(绿），影/书观后感，审美积累\n号主精神病，自私自利，为发言致歉，爱你们",
+        "id": "2053366838248259584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106054649287680466",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053366838248259584/1779364146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 195,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 750
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-02T23:25:01.000Z",
+        "description": "我是露露呀awa目前休学中欢迎互fo 基本看到就回 漏了的请私信，， 傍晚活跃 可以和我私信聊天～戒o戒割中 理解所有性好 你喜欢我=我喜欢你^^\n不建政讨厌每一个傻逼w",
+        "id": "1886194087386349568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105705011464581375",
+        "name": "ルル（互fo中）",
+        "pinned_tweet_id": "2105705011464581375",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886194087386349568/1773603891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085737059071750144/TVLfNAP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 76,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 171
+        },
+        "url": "",
+        "username": "ling_yul_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106679544526802944"
+      ],
+      "media_source_tweet_id": [
+        "2106679550893785410"
+      ]
+    },
+    "author_id": "2053366838248259584",
+    "conversation_id": "2109711238930530452",
+    "created_at": "2026-10-12T18:22:10.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T19:22:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109711238930530452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2091692877491716096",
+          "start": 3,
+          "username": "Raiiin_J7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/56P88dOa6r",
+          "end": 46,
+          "expanded_url": "https://x.com/Raiiin_J7/status/2106679550893785410/photo/1",
+          "media_key": "3_2106679544526802944",
+          "start": 23,
+          "url": "https://t.co/56P88dOa6r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109711238930530452",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106679544526802944"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 149
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106679550893785410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Raiiin_J7: @所有oder https://t.co/56P88dOa6r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1101,
+        "media_key": "3_2106679544526802944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTxt4lMaEAAfBV7.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106679544526802944"
+          ],
+          "media_source_tweet_id": [
+            "2106679550893785410"
+          ]
+        },
+        "author_id": "2053366838248259584",
+        "conversation_id": "2109711238930530452",
+        "created_at": "2026-10-12T18:22:10.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T19:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109711238930530452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2091692877491716096",
+              "start": 3,
+              "username": "Raiiin_J7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/56P88dOa6r",
+              "end": 46,
+              "expanded_url": "https://x.com/Raiiin_J7/status/2106679550893785410/photo/1",
+              "media_key": "3_2106679544526802944",
+              "start": 23,
+              "url": "https://t.co/56P88dOa6r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109711238930530452",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106679544526802944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 149
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106679550893785410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Raiiin_J7: @所有oder https://t.co/56P88dOa6r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106679544526802944"
+          ]
+        },
+        "author_id": "2091692877491716096",
+        "conversation_id": "2106679550893785410",
+        "created_at": "2026-10-04T09:35:19.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T10:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106679550893785410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/56P88dOa6r",
+              "end": 31,
+              "expanded_url": "https://x.com/Raiiin_J7/status/2106679550893785410/photo/1",
+              "media_key": "3_2106679544526802944",
+              "start": 8,
+              "url": "https://t.co/56P88dOa6r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106679550893785410",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106679544526802944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 35660,
+          "like_count": 1188,
+          "quote_count": 15,
+          "reply_count": 140,
+          "retweet_count": 149
+        },
+        "reply_settings": "everyone",
+        "text": "@所有oder https://t.co/56P88dOa6r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo 不是同类请走开\n此帐号是号主反复飞翔中乱语和上学戒毒让人想死\n号主精神病，自私自利，为发言致歉，爱你们",
+        "id": "2053366838248259584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109711238930530452",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053366838248259584/1779364146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 197,
+          "like_count": 438,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 780
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-24T01:21:28.000Z",
+        "description": "前世@Rian_qi7（RIP）\n已确诊:难治性OCD|重度MDD|轻度焦虑|重度睡眠障碍\n💊🚬 ，自学药理学与哲学中…\n21年底开始吃精神科药物至今\n6g Pr+33度白酒+4.4mg阿普幸存玩家\n 前卫/迷幻/独立摇滚|术力口|后朋克|社恐向|哲学|AGC|泛性向|友跨|\n会查成分互fo哦\n（可以叫我霁/雨齐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "Rian_qi7"
+              }
+            ]
+          }
+        },
+        "id": "2091692877491716096",
+        "is_identity_verified": false,
+        "location": "人間（烂透了）",
+        "most_recent_tweet_id": "2109695610463072687",
+        "name": "霽🌈⃤",
+        "pinned_tweet_id": "2106679550893785410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091692877491716096/1791054622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106679980910678016/WYuX-wSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 185,
+          "like_count": 1723,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1190
+        },
+        "url": "",
+        "username": "Raiiin_J7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053366838248259584",
+    "conversation_id": "2104218079006019999",
+    "created_at": "2026-09-28T13:31:15.000Z",
+    "display_text_range": [
+      27,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T14:31:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104564596103340364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1525302162",
+          "start": 0,
+          "username": "nanachan7777777"
+        },
+        {
+          "end": 26,
+          "id": "1905456549449138178",
+          "start": 17,
+          "username": "hh0715kb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104564596103340364",
+    "in_reply_to_user_id": "1525302162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104491379598807379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanachan7777777 @hh0715kb 肚子好疼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2104218079006019999",
+        "created_at": "2026-09-28T13:31:15.000Z",
+        "display_text_range": [
+          27,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104564596103340364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1525302162",
+              "start": 0,
+              "username": "nanachan7777777"
+            },
+            {
+              "end": 26,
+              "id": "1905456549449138178",
+              "start": 17,
+              "username": "hh0715kb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104564596103340364",
+        "in_reply_to_user_id": "1525302162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104491379598807379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanachan7777777 @hh0715kb 肚子好疼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525302162",
+        "conversation_id": "2104218079006019999",
+        "created_at": "2026-09-28T08:40:19.000Z",
+        "display_text_range": [
+          10,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T09:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104491379598807379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1905456549449138178",
+              "start": 0,
+              "username": "hh0715kb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104491379598807379",
+        "in_reply_to_user_id": "1905456549449138178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 76058,
+          "like_count": 1294,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104218079006019999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hh0715kb 此人堪比诗圣杜甫，实乃当世贤人，才华横溢，德高望重。只可惜，还是早点死了比较好。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo\n此帐号有碎碎念，负能量，交友(绿），影/书观后感，审美积累\n号主精神病，自私自利，为发言致歉，爱你们",
+        "id": "2053366838248259584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104564596103340364",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053366838248259584/1779364146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 197,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 744
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-06-17T16:55:37.000Z",
+        "description": "@seven_jinroでした ITコンサルタント/元インフラエンジニア/RHEL/AWS/tcsh/cisco 2児のパパ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "seven_jinro"
+              }
+            ]
+          }
+        },
+        "id": "1525302162",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104491379598807379",
+        "name": "セブンです",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/601144772741337088/eBoQW7mb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 593,
+          "like_count": 2134,
+          "listed_count": 11,
+          "media_count": 1091,
+          "tweet_count": 19522
+        },
+        "url": "",
+        "username": "nanachan7777777",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-28T03:07:02.000Z",
+        "description": "",
+        "id": "1905456549449138178",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104556227543846979",
+        "name": "空白4.0",
+        "pinned_tweet_id": "2104433934104760536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1905456549449138178/1789267876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104556302017970176/SKqKtANZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 65,
+          "like_count": 693,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "hh0715kb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
